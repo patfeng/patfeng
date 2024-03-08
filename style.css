@@ -14,8 +14,13 @@ canvas {
   font-style: normal;
 }
 
+html {
+  scroll-behavior: smooth;
+}
 
 main {
+  
+
   width: 100vw;
   height: 10000vw;
   color: white;

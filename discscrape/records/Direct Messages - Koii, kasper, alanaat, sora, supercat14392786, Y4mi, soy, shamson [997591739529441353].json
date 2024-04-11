@@ -1,0 +1,1257 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "997591739529441353",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "Koii, kasper, alanaat, sora, supercat14392786, Y4mi, soy, shamson",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:23:50.795651-04:00",
+  "messages": [
+    {
+      "id": "997591739529441354",
+      "type": "RecipientAdd",
+      "timestamp": "2022-07-15T15:53:25.062-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added sora to the group.",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "155114172869246976",
+          "name": "jonrae",
+          "discriminator": "0000",
+          "nickname": "sora",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/155114172869246976/7639a607f5691892fcdbfeff335f4e95.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "997591741312024678",
+      "type": "RecipientAdd",
+      "timestamp": "2022-07-15T15:53:25.487-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added poat to the group.",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "997591741773394023",
+      "type": "RecipientAdd",
+      "timestamp": "2022-07-15T15:53:25.597-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added supercat14392786 to the group.",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "722899204871291000",
+          "name": "supercat14392786",
+          "discriminator": "0000",
+          "nickname": "supercat14392786",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+        }
+      ]
+    },
+    {
+      "id": "997591742549328002",
+      "type": "RecipientAdd",
+      "timestamp": "2022-07-15T15:53:25.782-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added Koii to the group.",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "153271528232845312",
+          "name": "koii",
+          "discriminator": "0000",
+          "nickname": "Koii",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/153271528232845312/02024638083a978cdfdce1a974483951.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "997591744386433084",
+      "type": "RecipientAdd",
+      "timestamp": "2022-07-15T15:53:26.22-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added alanaat to the group.",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "974112212232843314",
+          "name": "alanaat3269",
+          "discriminator": "0000",
+          "nickname": "alanaat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/974112212232843314/7ce05181be62602d02b432d0f602d470.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "997591745594413146",
+      "type": "RecipientAdd",
+      "timestamp": "2022-07-15T15:53:26.508-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added shamson to the group.",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "390699335647625227",
+          "name": "shamsontv",
+          "discriminator": "0000",
+          "nickname": "shamson",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/390699335647625227/d4c2782bc54478912d7f5c40e7901e1c.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "997591746894647376",
+      "type": "RecipientAdd",
+      "timestamp": "2022-07-15T15:53:26.818-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added jioon to the group.",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "339904699597586432",
+          "name": "jioon",
+          "discriminator": "0000",
+          "nickname": "jioon",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/339904699597586432/1c93b22cddcbf7bbac5f843714791c5e.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "997591748169715852",
+      "type": "RecipientAdd",
+      "timestamp": "2022-07-15T15:53:27.122-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added soy to the group.",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "476677991225884684",
+          "name": "soyonline",
+          "discriminator": "0000",
+          "nickname": "soy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "997591862305112134",
+      "type": "Default",
+      "timestamp": "2022-07-15T15:53:54.334-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi friends -- this is an official invite to my (sadly) 27th bday party!",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997591949504688208",
+      "type": "Default",
+      "timestamp": "2022-07-15T15:54:15.124-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Originally I wanted to rent out a theatre, but unfortunately the only one available was charging $3k for two hours so uh..no ty. Instead I present to you...",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997591991338668063",
+      "type": "Default",
+      "timestamp": "2022-07-15T15:54:25.098-04:00",
+      "timestampEdited": "2022-07-15T15:54:31.286-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**The VCT Finals Kasper Pool Party Extravaganza**",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997592086956232847",
+      "type": "Default",
+      "timestamp": "2022-07-15T15:54:47.895-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "HOLY :PogU:",
+      "author": {
+        "id": "155114172869246976",
+        "name": "jonrae",
+        "discriminator": "0000",
+        "nickname": "sora",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155114172869246976/7639a607f5691892fcdbfeff335f4e95.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997592190253531207",
+      "type": "Default",
+      "timestamp": "2022-07-15T15:55:12.523-04:00",
+      "timestampEdited": "2022-07-15T15:55:21.281-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Date: Sunday, July 24th, 12:00 PM EST (around the start of VCT Finals) **",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997592327784767579",
+      "type": "Default",
+      "timestamp": "2022-07-15T15:55:45.313-04:00",
+      "timestampEdited": "2022-07-15T15:57:55.141-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Location:** My home in **Northern NJ**! I'll send y'all the address individually as you RSVP",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997592609893646396",
+      "type": "Default",
+      "timestamp": "2022-07-15T15:56:52.573-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Details:** We'll have a pool party with food and drinks. The finals will be playing live on my TV in the living room.",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997592677484867594",
+      "type": "Default",
+      "timestamp": "2022-07-15T15:57:08.688-04:00",
+      "timestampEdited": "2022-07-15T15:57:22.989-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "THIS IS A DRY EVENT -- my family doesn't drink and doesn't know I drink. We'll keep it that way tyvm lmfao. (if you wanna bring something to sneak a shot in, feel free)",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997592771592458330",
+      "type": "Default",
+      "timestamp": "2022-07-15T15:57:31.125-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "After the finals we can all go out for drinks in k-town or something.",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997592972310884443",
+      "type": "Default",
+      "timestamp": "2022-07-15T15:58:18.98-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lots of you in this group likely can't make it due to not being local -- ALL GOOD. Just wanted to shoot you all an invite anyway cuz i love yall.",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997593585434230784",
+      "type": "Default",
+      "timestamp": "2022-07-15T16:00:45.16-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also fuk discord for a 10 person limit lmao",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "834837867288592400",
+            "name": "kekw",
+            "code": "kekw",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/834837867288592400.png"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "155114172869246976",
+              "name": "jonrae",
+              "discriminator": "0000",
+              "nickname": "sora",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/155114172869246976/7639a607f5691892fcdbfeff335f4e95.png?size=512"
+            },
+            {
+              "id": "476677991225884684",
+              "name": "soyonline",
+              "discriminator": "0000",
+              "nickname": "soy",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "997593782927228929",
+      "type": "Default",
+      "timestamp": "2022-07-15T16:01:32.246-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and if u piss in my pool ur ~~hot~~ gross",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "793357074054643738",
+            "name": "PauseChamp",
+            "code": "PauseChamp",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/793357074054643738.png"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "155114172869246976",
+              "name": "jonrae",
+              "discriminator": "0000",
+              "nickname": "sora",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/155114172869246976/7639a607f5691892fcdbfeff335f4e95.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "997593990541090866",
+      "type": "Default",
+      "timestamp": "2022-07-15T16:02:21.745-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "omg slayyyy kasper ur morphing into a dilf",
+      "author": {
+        "id": "974112212232843314",
+        "name": "alanaat3269",
+        "discriminator": "0000",
+        "nickname": "alanaat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/974112212232843314/7ce05181be62602d02b432d0f602d470.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997594061710045245",
+      "type": "Reply",
+      "timestamp": "2022-07-15T16:02:38.713-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "damn rite",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "974112212232843314",
+          "name": "alanaat3269",
+          "discriminator": "0000",
+          "nickname": "alanaat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/974112212232843314/7ce05181be62602d02b432d0f602d470.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "997593990541090866",
+        "channelId": "997591739529441353",
+        "guildId": null
+      }
+    },
+    {
+      "id": "997594065048707202",
+      "type": "Default",
+      "timestamp": "2022-07-15T16:02:39.509-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "LMFAOO",
+      "author": {
+        "id": "155114172869246976",
+        "name": "jonrae",
+        "discriminator": "0000",
+        "nickname": "sora",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155114172869246976/7639a607f5691892fcdbfeff335f4e95.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997599875229286472",
+      "type": "Default",
+      "timestamp": "2022-07-15T16:25:44.764-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hmmm im like 90% sure i wont b allowed to go:(",
+      "author": {
+        "id": "339904699597586432",
+        "name": "jioon",
+        "discriminator": "0000",
+        "nickname": "jioon",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/339904699597586432/1c93b22cddcbf7bbac5f843714791c5e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997600637967667301",
+      "type": "Default",
+      "timestamp": "2022-07-15T16:28:46.615-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i would love to come but unfortunately i’m on the other side of the country",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997600671639556176",
+      "type": "Default",
+      "timestamp": "2022-07-15T16:28:54.643-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i’ll phone in tho",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997604291059650710",
+      "type": "Default",
+      "timestamp": "2022-07-15T16:43:17.58-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fuckkkkkkkkkkkkkkkkkkkk someone eelse's special birthday is around that time \uD83D\uDE2D",
+      "author": {
+        "id": "153325297431740416",
+        "name": "y4mi",
+        "discriminator": "0000",
+        "nickname": "Y4mi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/153325297431740416/bab8ce87d65b2a4c0357ba575d6b40e8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997604442243346482",
+      "type": "Default",
+      "timestamp": "2022-07-15T16:43:53.625-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "^ my bday guys",
+      "author": {
+        "id": "339904699597586432",
+        "name": "jioon",
+        "discriminator": "0000",
+        "nickname": "jioon",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/339904699597586432/1c93b22cddcbf7bbac5f843714791c5e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997604627648360539",
+      "type": "Reply",
+      "timestamp": "2022-07-15T16:44:37.829-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Happy bday \uD83D\uDE18\uD83C\uDF89",
+      "author": {
+        "id": "390699335647625227",
+        "name": "shamsontv",
+        "discriminator": "0000",
+        "nickname": "shamson",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/390699335647625227/d4c2782bc54478912d7f5c40e7901e1c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "339904699597586432",
+          "name": "jioon",
+          "discriminator": "0000",
+          "nickname": "jioon",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/339904699597586432/1c93b22cddcbf7bbac5f843714791c5e.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "997604442243346482",
+        "channelId": "997591739529441353",
+        "guildId": null
+      }
+    },
+    {
+      "id": "997604821244850278",
+      "type": "Reply",
+      "timestamp": "2022-07-15T16:45:23.986-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "omg so u are coming to jersey for my bday :y4miShyi:",
+      "author": {
+        "id": "155114172869246976",
+        "name": "jonrae",
+        "discriminator": "0000",
+        "nickname": "sora",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155114172869246976/7639a607f5691892fcdbfeff335f4e95.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "153325297431740416",
+          "name": "y4mi",
+          "discriminator": "0000",
+          "nickname": "Y4mi",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/153325297431740416/bab8ce87d65b2a4c0357ba575d6b40e8.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "997604291059650710",
+        "channelId": "997591739529441353",
+        "guildId": null
+      }
+    },
+    {
+      "id": "997612094587424848",
+      "type": "Reply",
+      "timestamp": "2022-07-15T17:14:18.086-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ill facetime ya and set you by the pool",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "476677991225884684",
+          "name": "soyonline",
+          "discriminator": "0000",
+          "nickname": "soy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "997600671639556176",
+        "channelId": "997591739529441353",
+        "guildId": null
+      }
+    },
+    {
+      "id": "997612324800172144",
+      "type": "Default",
+      "timestamp": "2022-07-15T17:15:12.973-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "W",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000475320656343161",
+      "type": "Default",
+      "timestamp": "2022-07-23T14:51:44.377-04:00",
+      "timestampEdited": "2022-07-23T14:51:52.142-04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yo! To everyone coming tomorrow: can ya bring a towel for yourselves since I’m not sure we’ll have enough for everyone lol",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000615719257509998",
+      "type": "Default",
+      "timestamp": "2022-07-24T00:09:38.012-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Party starts at 12pm to 1pm bitchez, we're cookin lots of food so be here to eat it fresh",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000806531358543932",
+      "type": "Default",
+      "timestamp": "2022-07-24T12:47:51.162-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "W sora claris and patrick",
+      "author": {
+        "id": "153271528232845312",
+        "name": "koii",
+        "discriminator": "0000",
+        "nickname": "Koii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/153271528232845312/02024638083a978cdfdce1a974483951.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000806560290844752",
+      "type": "Default",
+      "timestamp": "2022-07-24T12:47:58.06-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Its gonna be 40 min~",
+      "author": {
+        "id": "153271528232845312",
+        "name": "koii",
+        "discriminator": "0000",
+        "nickname": "Koii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/153271528232845312/02024638083a978cdfdce1a974483951.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000806659263836301",
+      "type": "Default",
+      "timestamp": "2022-07-24T12:48:21.657-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sweet! Thanks for the heads up",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000806671184039987",
+      "type": "Default",
+      "timestamp": "2022-07-24T12:48:24.499-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Drive safe homies",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000806727903621140",
+      "type": "Default",
+      "timestamp": "2022-07-24T12:48:38.022-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "❤️",
+      "author": {
+        "id": "153271528232845312",
+        "name": "koii",
+        "discriminator": "0000",
+        "nickname": "Koii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/153271528232845312/02024638083a978cdfdce1a974483951.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000819095362613338",
+      "type": "Default",
+      "timestamp": "2022-07-24T13:37:46.654-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hope you guys have fun teehee happy birthday Kasper",
+      "author": {
+        "id": "153325297431740416",
+        "name": "y4mi",
+        "discriminator": "0000",
+        "nickname": "Y4mi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/153325297431740416/bab8ce87d65b2a4c0357ba575d6b40e8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000959514394243152",
+      "type": "Default",
+      "timestamp": "2022-07-24T22:55:45.16-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you Y4mi ily ❤️",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1001030752282103858",
+      "type": "Default",
+      "timestamp": "2022-07-25T03:38:49.596-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "THANK YOU KASPER THAT WAS FUN",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1001183642313306202",
+      "type": "Default",
+      "timestamp": "2022-07-25T13:46:21.42-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks for coming homies I appreciate y’all",
+      "author": {
+        "id": "73655339316154368",
+        "name": "bookasper",
+        "discriminator": "0000",
+        "nickname": "kasper",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 43
+}

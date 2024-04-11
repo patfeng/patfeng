@@ -1,0 +1,807 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1212971533606191174",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "naomi, Austeleus, S͂͊̋ir Pot, Jae",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:27:02.3906542-04:00",
+  "messages": [
+    {
+      "id": "1212971533606191175",
+      "type": "RecipientAdd",
+      "timestamp": "2024-02-29T22:55:49.533-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added S͂͊̋ir Pot to the group.",
+      "author": {
+        "id": "215476034223603712",
+        "name": "shiroyana",
+        "discriminator": "0000",
+        "nickname": "Jae",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215476034223603712/74a501be36e75bf4910d0aef3f30e2f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "151069122405335051",
+          "name": ".sirpot",
+          "discriminator": "0000",
+          "nickname": "S͂͊̋ir Pot",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/151069122405335051/6a74ce67620eb1b66957f1821caf46e7.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1212971534398787585",
+      "type": "Call",
+      "timestamp": "2024-02-29T22:55:49.722-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2024-03-01T01:52:10.405-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 176 minutes.",
+      "author": {
+        "id": "215476034223603712",
+        "name": "shiroyana",
+        "discriminator": "0000",
+        "nickname": "Jae",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215476034223603712/74a501be36e75bf4910d0aef3f30e2f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "151069122405335051",
+          "name": ".sirpot",
+          "discriminator": "0000",
+          "nickname": "S͂͊̋ir Pot",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/151069122405335051/6a74ce67620eb1b66957f1821caf46e7.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1212975813226663966",
+      "type": "Default",
+      "timestamp": "2024-02-29T23:12:49.874-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what happened",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212975987160256542",
+      "type": "Default",
+      "timestamp": "2024-02-29T23:13:31.343-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it was waitiung for timer",
+      "author": {
+        "id": "215476034223603712",
+        "name": "shiroyana",
+        "discriminator": "0000",
+        "nickname": "Jae",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215476034223603712/74a501be36e75bf4910d0aef3f30e2f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212975999067889744",
+      "type": "Default",
+      "timestamp": "2024-02-29T23:13:34.182-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "to reinforce",
+      "author": {
+        "id": "215476034223603712",
+        "name": "shiroyana",
+        "discriminator": "0000",
+        "nickname": "Jae",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215476034223603712/74a501be36e75bf4910d0aef3f30e2f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212976041274900530",
+      "type": "Default",
+      "timestamp": "2024-02-29T23:13:44.245-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i crashed LMAOO",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212976678092152842",
+      "type": "Default",
+      "timestamp": "2024-02-29T23:16:16.074-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ur party is full",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212976798565138462",
+      "type": "Default",
+      "timestamp": "2024-02-29T23:16:44.797-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "one sec",
+      "author": {
+        "id": "215476034223603712",
+        "name": "shiroyana",
+        "discriminator": "0000",
+        "nickname": "Jae",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215476034223603712/74a501be36e75bf4910d0aef3f30e2f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212977009374924820",
+      "type": "Default",
+      "timestamp": "2024-02-29T23:17:35.058-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "invited you",
+      "author": {
+        "id": "215476034223603712",
+        "name": "shiroyana",
+        "discriminator": "0000",
+        "nickname": "Jae",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215476034223603712/74a501be36e75bf4910d0aef3f30e2f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212981962864599040",
+      "type": "Default",
+      "timestamp": "2024-02-29T23:37:16.062-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "join my party",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212990314655121479",
+      "type": "RecipientAdd",
+      "timestamp": "2024-03-01T00:10:27.284-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added naomi to the group.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "846142038607921253",
+          "name": "amokitize",
+          "discriminator": "0000",
+          "nickname": "naomi",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1212990444384952350",
+      "type": "Default",
+      "timestamp": "2024-03-01T00:10:58.214-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "846142038607921253",
+        "name": "amokitize",
+        "discriminator": "0000",
+        "nickname": "naomi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1212990443675979796",
+          "url": "https://cdn.discordapp.com/attachments/1212971533606191174/1212990443675979796/IMG_8156.jpg?ex=6621fce2&is=660f87e2&hm=8d71e2ad7fe2cbf8de7080d316a8c0d221fabdada6f69d48d1e4c8400454f39a&",
+          "fileName": "IMG_8156.jpg",
+          "fileSizeBytes": 3193864
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1213286660058513429",
+      "type": "Default",
+      "timestamp": "2024-03-01T19:48:01.534-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wtf",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1213286673346072606",
+      "type": "Default",
+      "timestamp": "2024-03-01T19:48:04.702-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "my game just dced",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1213286687715889193",
+      "type": "Default",
+      "timestamp": "2024-03-01T19:48:08.128-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "same",
+      "author": {
+        "id": "215476034223603712",
+        "name": "shiroyana",
+        "discriminator": "0000",
+        "nickname": "Jae",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215476034223603712/74a501be36e75bf4910d0aef3f30e2f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1213286706841657354",
+      "type": "Default",
+      "timestamp": "2024-03-01T19:48:12.688-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "LOL",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1213286706963415120",
+      "type": "Default",
+      "timestamp": "2024-03-01T19:48:12.717-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "did the server just die",
+      "author": {
+        "id": "215476034223603712",
+        "name": "shiroyana",
+        "discriminator": "0000",
+        "nickname": "Jae",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215476034223603712/74a501be36e75bf4910d0aef3f30e2f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1213286716035567657",
+      "type": "Default",
+      "timestamp": "2024-03-01T19:48:14.88-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "rip",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1213286719907037204",
+      "type": "Default",
+      "timestamp": "2024-03-01T19:48:15.803-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lmfao",
+      "author": {
+        "id": "215476034223603712",
+        "name": "shiroyana",
+        "discriminator": "0000",
+        "nickname": "Jae",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215476034223603712/74a501be36e75bf4910d0aef3f30e2f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1213286782678859786",
+      "type": "Default",
+      "timestamp": "2024-03-01T19:48:30.769-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "call here?",
+      "author": {
+        "id": "215476034223603712",
+        "name": "shiroyana",
+        "discriminator": "0000",
+        "nickname": "Jae",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215476034223603712/74a501be36e75bf4910d0aef3f30e2f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1213286800970219662",
+      "type": "Default",
+      "timestamp": "2024-03-01T19:48:35.13-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "shore",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1213286810164142120",
+      "type": "Call",
+      "timestamp": "2024-03-01T19:48:37.322-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2024-03-02T02:08:53.518-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 380 minutes.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "215476034223603712",
+          "name": "shiroyana",
+          "discriminator": "0000",
+          "nickname": "Jae",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/215476034223603712/74a501be36e75bf4910d0aef3f30e2f7.png?size=512"
+        },
+        {
+          "id": "151069122405335051",
+          "name": ".sirpot",
+          "discriminator": "0000",
+          "nickname": "S͂͊̋ir Pot",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/151069122405335051/6a74ce67620eb1b66957f1821caf46e7.png?size=512"
+        },
+        {
+          "id": "846142038607921253",
+          "name": "amokitize",
+          "discriminator": "0000",
+          "nickname": "naomi",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1213325750351171625",
+      "type": "RecipientAdd",
+      "timestamp": "2024-03-01T22:23:21.386-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added Austeleus to the group.",
+      "author": {
+        "id": "151069122405335051",
+        "name": ".sirpot",
+        "discriminator": "0000",
+        "nickname": "S͂͊̋ir Pot",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/151069122405335051/6a74ce67620eb1b66957f1821caf46e7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "366425231985868821",
+          "name": "austeleus",
+          "discriminator": "0000",
+          "nickname": "Austeleus",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/366425231985868821/e9e4192b3f93967ac129d87f31a40d5e.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1213340595406503986",
+      "type": "Default",
+      "timestamp": "2024-03-01T23:22:20.723-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lmk when u back @Jae",
+      "author": {
+        "id": "151069122405335051",
+        "name": ".sirpot",
+        "discriminator": "0000",
+        "nickname": "S͂͊̋ir Pot",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/151069122405335051/6a74ce67620eb1b66957f1821caf46e7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "215476034223603712",
+          "name": "shiroyana",
+          "discriminator": "0000",
+          "nickname": "Jae",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/215476034223603712/74a501be36e75bf4910d0aef3f30e2f7.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1213382427691585586",
+      "type": "Reply",
+      "timestamp": "2024-03-02T02:08:34.317-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Im back",
+      "author": {
+        "id": "215476034223603712",
+        "name": "shiroyana",
+        "discriminator": "0000",
+        "nickname": "Jae",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215476034223603712/74a501be36e75bf4910d0aef3f30e2f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "151069122405335051",
+          "name": ".sirpot",
+          "discriminator": "0000",
+          "nickname": "S͂͊̋ir Pot",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/151069122405335051/6a74ce67620eb1b66957f1821caf46e7.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1213340595406503986",
+        "channelId": "1212971533606191174",
+        "guildId": null
+      }
+    },
+    {
+      "id": "1213481339232456805",
+      "type": "Call",
+      "timestamp": "2024-03-02T08:41:36.666-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2024-03-02T08:41:38.309-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 0 minutes.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "215476034223603712",
+          "name": "shiroyana",
+          "discriminator": "0000",
+          "nickname": "Jae",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/215476034223603712/74a501be36e75bf4910d0aef3f30e2f7.png?size=512"
+        },
+        {
+          "id": "846142038607921253",
+          "name": "amokitize",
+          "discriminator": "0000",
+          "nickname": "naomi",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+        },
+        {
+          "id": "151069122405335051",
+          "name": ".sirpot",
+          "discriminator": "0000",
+          "nickname": "S͂͊̋ir Pot",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/151069122405335051/6a74ce67620eb1b66957f1821caf46e7.png?size=512"
+        },
+        {
+          "id": "366425231985868821",
+          "name": "austeleus",
+          "discriminator": "0000",
+          "nickname": "Austeleus",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/366425231985868821/e9e4192b3f93967ac129d87f31a40d5e.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 26
+}

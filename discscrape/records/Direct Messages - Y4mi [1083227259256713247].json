@@ -1,0 +1,47 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1083227259256713247",
+    "type": "DirectTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "Y4mi",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:24:57.3307256-04:00",
+  "messages": [
+    {
+      "id": "1083227310922141696",
+      "type": "Default",
+      "timestamp": "2023-03-08T22:18:36.314-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/FRPJDNdd",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}

@@ -1,0 +1,579 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "746499336053194853",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "liz, evonne",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:21:41.5098399-04:00",
+  "messages": [
+    {
+      "id": "746499388528001076",
+      "type": "Default",
+      "timestamp": "2020-08-21T18:42:03.513-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I FUXKING DID IT YIU GUYS ARE IMBECILES FUCK YOU",
+      "author": {
+        "id": "661809772160352269",
+        "name": "liztrovert",
+        "discriminator": "0000",
+        "nickname": "liz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/661809772160352269/3fab5aeaa6cdb08c497f1d631856ec95.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "746499417292669060",
+      "type": "Default",
+      "timestamp": "2020-08-21T18:42:10.371-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "AHAHAH",
+      "author": {
+        "id": "422983922624757761",
+        "name": "evochi.",
+        "discriminator": "0000",
+        "nickname": "evonne",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/422983922624757761/dc87aeb367c80e8a7c059ff674f75eed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "746499435407605780",
+      "type": "Default",
+      "timestamp": "2020-08-21T18:42:14.69-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "WGATD U SAY",
+      "author": {
+        "id": "422983922624757761",
+        "name": "evochi.",
+        "discriminator": "0000",
+        "nickname": "evonne",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/422983922624757761/dc87aeb367c80e8a7c059ff674f75eed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "746499464860270692",
+      "type": "Default",
+      "timestamp": "2020-08-21T18:42:21.712-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "confidential",
+      "author": {
+        "id": "661809772160352269",
+        "name": "liztrovert",
+        "discriminator": "0000",
+        "nickname": "liz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/661809772160352269/3fab5aeaa6cdb08c497f1d631856ec95.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "746499509986656388",
+      "type": "Default",
+      "timestamp": "2020-08-21T18:42:32.471-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "???????",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "746499526059229274",
+      "type": "Default",
+      "timestamp": "2020-08-21T18:42:36.303-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "screenies now",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "746499528617754735",
+      "type": "Default",
+      "timestamp": "2020-08-21T18:42:36.913-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm already gonna overthink it I don't need YOU as well",
+      "author": {
+        "id": "661809772160352269",
+        "name": "liztrovert",
+        "discriminator": "0000",
+        "nickname": "liz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/661809772160352269/3fab5aeaa6cdb08c497f1d631856ec95.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "746499599128330332",
+      "type": "Default",
+      "timestamp": "2020-08-21T18:42:53.724-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "661809772160352269",
+        "name": "liztrovert",
+        "discriminator": "0000",
+        "nickname": "liz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/661809772160352269/3fab5aeaa6cdb08c497f1d631856ec95.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "746499598775746641",
+          "url": "https://cdn.discordapp.com/attachments/746499336053194853/746499598775746641/IMG_20200819_142622.jpg?ex=6622f36d&is=66107e6d&hm=92bdcc32bc034a2a5fd7cb1344e67fe45810965702dee734acdfe6562e282a7d&",
+          "fileName": "IMG_20200819_142622.jpg",
+          "fileSizeBytes": 95402
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "746504647086178304",
+      "type": "Default",
+      "timestamp": "2020-08-21T19:02:57.251-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i will juice it out of u eventually now or later ur choice",
+      "author": {
+        "id": "422983922624757761",
+        "name": "evochi.",
+        "discriminator": "0000",
+        "nickname": "evonne",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/422983922624757761/dc87aeb367c80e8a7c059ff674f75eed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "746504713108979753",
+      "type": "Default",
+      "timestamp": "2020-08-21T19:03:12.992-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you literally wont",
+      "author": {
+        "id": "661809772160352269",
+        "name": "liztrovert",
+        "discriminator": "0000",
+        "nickname": "liz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/661809772160352269/3fab5aeaa6cdb08c497f1d631856ec95.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "746504725490565181",
+      "type": "Default",
+      "timestamp": "2020-08-21T19:03:15.944-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I take this to my grave",
+      "author": {
+        "id": "661809772160352269",
+        "name": "liztrovert",
+        "discriminator": "0000",
+        "nickname": "liz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/661809772160352269/3fab5aeaa6cdb08c497f1d631856ec95.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "746504794008584263",
+      "type": "Default",
+      "timestamp": "2020-08-21T19:03:32.28-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i need to know his response",
+      "author": {
+        "id": "422983922624757761",
+        "name": "evochi.",
+        "discriminator": "0000",
+        "nickname": "evonne",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/422983922624757761/dc87aeb367c80e8a7c059ff674f75eed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "746504973663076392",
+      "type": "Default",
+      "timestamp": "2020-08-21T19:04:15.113-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "NONE",
+      "author": {
+        "id": "661809772160352269",
+        "name": "liztrovert",
+        "discriminator": "0000",
+        "nickname": "liz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/661809772160352269/3fab5aeaa6cdb08c497f1d631856ec95.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "746505040134668420",
+      "type": "Default",
+      "timestamp": "2020-08-21T19:04:30.961-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yet",
+      "author": {
+        "id": "661809772160352269",
+        "name": "liztrovert",
+        "discriminator": "0000",
+        "nickname": "liz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/661809772160352269/3fab5aeaa6cdb08c497f1d631856ec95.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "746505078566813776",
+      "type": "Default",
+      "timestamp": "2020-08-21T19:04:40.124-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if he leaves u on read i will never let u live it down ❤️",
+      "author": {
+        "id": "422983922624757761",
+        "name": "evochi.",
+        "discriminator": "0000",
+        "nickname": "evonne",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/422983922624757761/dc87aeb367c80e8a7c059ff674f75eed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "746505110087270401",
+      "type": "Default",
+      "timestamp": "2020-08-21T19:04:47.639-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but im sure ur fine ❤️",
+      "author": {
+        "id": "422983922624757761",
+        "name": "evochi.",
+        "discriminator": "0000",
+        "nickname": "evonne",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/422983922624757761/dc87aeb367c80e8a7c059ff674f75eed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "746506941341368350",
+      "type": "Default",
+      "timestamp": "2020-08-21T19:12:04.244-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "^^^^",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "746513038215217252",
+      "type": "Default",
+      "timestamp": "2020-08-21T19:36:17.852-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "HA",
+      "author": {
+        "id": "661809772160352269",
+        "name": "liztrovert",
+        "discriminator": "0000",
+        "nickname": "liz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/661809772160352269/3fab5aeaa6cdb08c497f1d631856ec95.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "746513117692952618",
+      "type": "Default",
+      "timestamp": "2020-08-21T19:36:36.801-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if he doesn't reply it makes it so much easier bc #no #obligations",
+      "author": {
+        "id": "661809772160352269",
+        "name": "liztrovert",
+        "discriminator": "0000",
+        "nickname": "liz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/661809772160352269/3fab5aeaa6cdb08c497f1d631856ec95.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "746607692214304848",
+      "type": "Default",
+      "timestamp": "2020-08-22T01:52:25.124-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "422983922624757761",
+        "name": "evochi.",
+        "discriminator": "0000",
+        "nickname": "evonne",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/422983922624757761/dc87aeb367c80e8a7c059ff674f75eed.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "746607691966709810",
+          "url": "https://cdn.discordapp.com/attachments/746499336053194853/746607691966709810/image0.jpg?ex=66235819&is=6610e319&hm=e39b2601845a3feaad907a0fdecc9c71755d9574a2d6a10cd2a995d8e0fdfb96&",
+          "fileName": "image0.jpg",
+          "fileSizeBytes": 214299
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "746608181966536714",
+      "type": "Default",
+      "timestamp": "2020-08-22T01:54:21.89-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "422983922624757761",
+        "name": "evochi.",
+        "discriminator": "0000",
+        "nickname": "evonne",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/422983922624757761/dc87aeb367c80e8a7c059ff674f75eed.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "746608179810402314",
+          "url": "https://cdn.discordapp.com/attachments/746499336053194853/746608179810402314/video0.mp4?ex=6623588d&is=6610e38d&hm=e7fabed1a3397d9e520de834e07aa826a49c84f236d54d9045f5eda029c914bc&",
+          "fileName": "video0.mp4",
+          "fileSizeBytes": 2392897
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "746608505821069363",
+      "type": "Default",
+      "timestamp": "2020-08-22T01:55:39.103-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "422983922624757761",
+        "name": "evochi.",
+        "discriminator": "0000",
+        "nickname": "evonne",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/422983922624757761/dc87aeb367c80e8a7c059ff674f75eed.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "746608505540313108",
+          "url": "https://cdn.discordapp.com/attachments/746499336053194853/746608505540313108/video0.mov?ex=662358db&is=6610e3db&hm=b778897f5d384e311cd554d9366f5ba4c95f7f367f7e840995b9cc8aca27f196&",
+          "fileName": "video0.mov",
+          "fileSizeBytes": 3635722
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 22
+}

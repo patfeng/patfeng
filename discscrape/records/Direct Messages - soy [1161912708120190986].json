@@ -1,0 +1,138 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1161912708120190986",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "soy",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:26:51.5396778-04:00",
+  "messages": [
+    {
+      "id": "1161912708120190987",
+      "type": "RecipientAdd",
+      "timestamp": "2023-10-12T02:26:16.91-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added soy to the group.",
+      "author": {
+        "id": "846142038607921253",
+        "name": "amokitize",
+        "discriminator": "0000",
+        "nickname": "naomi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "476677991225884684",
+          "name": "soyonline",
+          "discriminator": "0000",
+          "nickname": "soy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1161912709047128094",
+      "type": "Call",
+      "timestamp": "2023-10-12T02:26:17.131-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-10-12T02:43:04.27-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 17 minutes.",
+      "author": {
+        "id": "846142038607921253",
+        "name": "amokitize",
+        "discriminator": "0000",
+        "nickname": "naomi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "476677991225884684",
+          "name": "soyonline",
+          "discriminator": "0000",
+          "nickname": "soy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1195164548693512202",
+      "type": "RecipientRemove",
+      "timestamp": "2024-01-11T19:37:13.492-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Left the group.",
+      "author": {
+        "id": "846142038607921253",
+        "name": "amokitize",
+        "discriminator": "0000",
+        "nickname": "naomi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "846142038607921253",
+          "name": "amokitize",
+          "discriminator": "0000",
+          "nickname": "naomi",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 3
+}

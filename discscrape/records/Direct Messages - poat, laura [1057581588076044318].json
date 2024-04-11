@@ -1,0 +1,103 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1057581588076044318",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "poat, laura",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:24:38.4565879-04:00",
+  "messages": [
+    {
+      "id": "1057581588076044319",
+      "type": "RecipientAdd",
+      "timestamp": "2022-12-28T03:51:39.513-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added poat to the group.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "349755586428141579",
+          "name": "poat7351",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/349755586428141579/eab95f85546b93039bab3f4b619cb461.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1057581617327120384",
+      "type": "Call",
+      "timestamp": "2022-12-28T03:51:46.487-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-12-28T04:43:46.756-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 52 minutes.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "283356175939010561",
+          "name": "laura0002",
+          "discriminator": "0000",
+          "nickname": "laura",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/283356175939010561/a337ed9584c076e31e26a2187b57835d.png?size=512"
+        },
+        {
+          "id": "349755586428141579",
+          "name": "poat7351",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/349755586428141579/eab95f85546b93039bab3f4b619cb461.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 2
+}

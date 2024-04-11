@@ -1,0 +1,71 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1121945899908730961",
+    "type": "DirectTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "Akima",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:25:56.6449041-04:00",
+  "messages": [
+    {
+      "id": "1121945939645562991",
+      "type": "Default",
+      "timestamp": "2023-06-23T19:32:36.759-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yo wsg, your application for meili's BF was chosen for an interview. Please let me know if you are still comfortable doing an interview by responding to this DM. If yes, please also go ahead and join the hangout call in the hamster cave discord server (meilizzz's server) at 8:45 PM EST so that I can drag you to a private waiting room. Let me know if you have any questions in the meantime.",
+      "author": {
+        "id": "503359954158092291",
+        "name": "akimalul",
+        "discriminator": "0000",
+        "nickname": "Akima",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/503359954158092291/43c7a9796e948d407140e48bb1654533.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1121950163712348240",
+      "type": "Default",
+      "timestamp": "2023-06-23T19:49:23.855-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "am down to embarrass myself on stream but ill prolly be getting boba with laura the simp at the time",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

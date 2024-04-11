@@ -1,0 +1,792 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "983579896976650260",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "soy, roxella, swmg",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:23:17.0804926-04:00",
+  "messages": [
+    {
+      "id": "983579896976650261",
+      "type": "RecipientAdd",
+      "timestamp": "2022-06-06T23:55:21.47-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added roxella to the group.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "862978789859655680",
+          "name": "roxella",
+          "discriminator": "0000",
+          "nickname": "roxella",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/862978789859655680/cfa07efb8adf962497a9c76d4437e147.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "983579898570506240",
+      "type": "RecipientAdd",
+      "timestamp": "2022-06-06T23:55:21.85-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added kai to the group.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "189874159415853056",
+          "name": "kyoukaixo",
+          "discriminator": "0000",
+          "nickname": "kai",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/189874159415853056/d7fccb9d31d0b705d0b692b46c74a9e5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "983579900764114974",
+      "type": "RecipientAdd",
+      "timestamp": "2022-06-06T23:55:22.373-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added swmg to the group.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "325441124300881920",
+          "name": "_swmg",
+          "discriminator": "0000",
+          "nickname": "swmg",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/325441124300881920/5172a06c54239bf5b66589274edc1264.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "983579911308599308",
+      "type": "Call",
+      "timestamp": "2022-06-06T23:55:24.887-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-06-07T03:04:24.935-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 189 minutes.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "189874159415853056",
+          "name": "kyoukaixo",
+          "discriminator": "0000",
+          "nickname": "kai",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/189874159415853056/d7fccb9d31d0b705d0b692b46c74a9e5.png?size=512"
+        },
+        {
+          "id": "325441124300881920",
+          "name": "_swmg",
+          "discriminator": "0000",
+          "nickname": "swmg",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/325441124300881920/5172a06c54239bf5b66589274edc1264.png?size=512"
+        },
+        {
+          "id": "862978789859655680",
+          "name": "roxella",
+          "discriminator": "0000",
+          "nickname": "roxella",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/862978789859655680/cfa07efb8adf962497a9c76d4437e147.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "983583666435399701",
+      "type": "Default",
+      "timestamp": "2022-06-07T00:10:20.179-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.discord.gg/kaiyune",
+      "author": {
+        "id": "189874159415853056",
+        "name": "kyoukaixo",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/189874159415853056/d7fccb9d31d0b705d0b692b46c74a9e5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "983587036743229440",
+      "type": "RecipientAdd",
+      "timestamp": "2022-06-07T00:23:43.723-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added soy to the group.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "476677991225884684",
+          "name": "soyonline",
+          "discriminator": "0000",
+          "nickname": "soy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "983588719846101062",
+      "type": "Default",
+      "timestamp": "2022-06-07T00:30:25.006-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@soy @roxella",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "862978789859655680",
+          "name": "roxella",
+          "discriminator": "0000",
+          "nickname": "roxella",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/862978789859655680/cfa07efb8adf962497a9c76d4437e147.png?size=512"
+        },
+        {
+          "id": "476677991225884684",
+          "name": "soyonline",
+          "discriminator": "0000",
+          "nickname": "soy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "983588721423187988",
+      "type": "Default",
+      "timestamp": "2022-06-07T00:30:25.382-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@soy @roxella",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "862978789859655680",
+          "name": "roxella",
+          "discriminator": "0000",
+          "nickname": "roxella",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/862978789859655680/cfa07efb8adf962497a9c76d4437e147.png?size=512"
+        },
+        {
+          "id": "476677991225884684",
+          "name": "soyonline",
+          "discriminator": "0000",
+          "nickname": "soy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "983588722589204500",
+      "type": "Default",
+      "timestamp": "2022-06-07T00:30:25.66-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@soy @roxella",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "862978789859655680",
+          "name": "roxella",
+          "discriminator": "0000",
+          "nickname": "roxella",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/862978789859655680/cfa07efb8adf962497a9c76d4437e147.png?size=512"
+        },
+        {
+          "id": "476677991225884684",
+          "name": "soyonline",
+          "discriminator": "0000",
+          "nickname": "soy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "983588723935555584",
+      "type": "Default",
+      "timestamp": "2022-06-07T00:30:25.981-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "v",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "983588725328076820",
+      "type": "Default",
+      "timestamp": "2022-06-07T00:30:26.313-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@soy @roxella",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "862978789859655680",
+          "name": "roxella",
+          "discriminator": "0000",
+          "nickname": "roxella",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/862978789859655680/cfa07efb8adf962497a9c76d4437e147.png?size=512"
+        },
+        {
+          "id": "476677991225884684",
+          "name": "soyonline",
+          "discriminator": "0000",
+          "nickname": "soy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "983588728196964404",
+      "type": "Default",
+      "timestamp": "2022-06-07T00:30:26.997-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@soy @roxella",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "862978789859655680",
+          "name": "roxella",
+          "discriminator": "0000",
+          "nickname": "roxella",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/862978789859655680/cfa07efb8adf962497a9c76d4437e147.png?size=512"
+        },
+        {
+          "id": "476677991225884684",
+          "name": "soyonline",
+          "discriminator": "0000",
+          "nickname": "soy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "983588780797747210",
+      "type": "Default",
+      "timestamp": "2022-06-07T00:30:39.538-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "get out of your esex cave",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "983588791082176572",
+      "type": "Default",
+      "timestamp": "2022-06-07T00:30:41.99-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "come",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "983600143951622194",
+      "type": "Default",
+      "timestamp": "2022-06-07T01:15:48.725-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wait",
+      "author": {
+        "id": "862978789859655680",
+        "name": "roxella",
+        "discriminator": "0000",
+        "nickname": "roxella",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/862978789859655680/cfa07efb8adf962497a9c76d4437e147.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "983600158954639400",
+      "type": "Default",
+      "timestamp": "2022-06-07T01:15:52.302-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i blue screened",
+      "author": {
+        "id": "862978789859655680",
+        "name": "roxella",
+        "discriminator": "0000",
+        "nickname": "roxella",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/862978789859655680/cfa07efb8adf962497a9c76d4437e147.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "983600174603571240",
+      "type": "Default",
+      "timestamp": "2022-06-07T01:15:56.033-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "coming back",
+      "author": {
+        "id": "862978789859655680",
+        "name": "roxella",
+        "discriminator": "0000",
+        "nickname": "roxella",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/862978789859655680/cfa07efb8adf962497a9c76d4437e147.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "983602627856175144",
+      "type": "Default",
+      "timestamp": "2022-06-07T01:25:40.934-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Turn it off and on",
+      "author": {
+        "id": "325441124300881920",
+        "name": "_swmg",
+        "discriminator": "0000",
+        "nickname": "swmg",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/325441124300881920/5172a06c54239bf5b66589274edc1264.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "983621013365473301",
+      "type": "Default",
+      "timestamp": "2022-06-07T02:38:44.381-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://jstris.jezevec10.com/join/7174CD",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Jstris",
+          "url": "https://jstris.jezevec10.com/join/7174CD",
+          "timestamp": null,
+          "description": "Online multiplayer puzzle game",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "983622229860421652",
+      "type": "Default",
+      "timestamp": "2022-06-07T02:43:34.416-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "189874159415853056",
+        "name": "kyoukaixo",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/189874159415853056/d7fccb9d31d0b705d0b692b46c74a9e5.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "983622228547633152",
+          "url": "https://cdn.discordapp.com/attachments/983579896976650260/983622228547633152/unknown.png?ex=661e1e16&is=660ba916&hm=0d6cdc4ec63d04357fe167aef447b396a862a99695dc39d8340fe2a497fbb117&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 3028983
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "983626327351517274",
+      "type": "Default",
+      "timestamp": "2022-06-07T02:59:51.334-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=Kk6pw-PHiK0",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Are you seriously watching porn by yourself?",
+          "url": "https://www.youtube.com/watch?v=Kk6pw-PHiK0",
+          "timestamp": null,
+          "description": "Try Cash App using my code and we’ll each get $5! \r\nhttps://cash.me/app/RMQRFWL\n\nSo rude of porn ads to assume like that. What’s up? Are you seriously watching porn by yourself right now? Nah, IM WITH THE BOYS",
+          "color": "#FF0000",
+          "author": {
+            "name": "Bruh Moment",
+            "url": "https://www.youtube.com/channel/UCFhicBHs9Buu8DewPjI0J1A"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/DL8P3Q2zLNIcZnEhJM7jApbTZ9JwqWMmvusLjvSN8vE/https/i.ytimg.com/vi/Kk6pw-PHiK0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/Kk6pw-PHiK0",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997363519043416105",
+      "type": "RecipientRemove",
+      "timestamp": "2022-07-15T00:46:33.058-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Left the group.",
+      "author": {
+        "id": "189874159415853056",
+        "name": "kyoukaixo",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/189874159415853056/d7fccb9d31d0b705d0b692b46c74a9e5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "189874159415853056",
+          "name": "kyoukaixo",
+          "discriminator": "0000",
+          "nickname": "kai",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/189874159415853056/d7fccb9d31d0b705d0b692b46c74a9e5.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 22
+}

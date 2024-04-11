@@ -1,0 +1,244 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1076358901051686953",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "sofa, 3X3Y, Happi Leaph",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:24:48.0498582-04:00",
+  "messages": [
+    {
+      "id": "1076358901051686954",
+      "type": "RecipientAdd",
+      "timestamp": "2023-02-17T23:25:59.792-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added poat to the group.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1076358920861397052",
+      "type": "Call",
+      "timestamp": "2023-02-17T23:26:04.515-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-02-18T03:37:11.597-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 251 minutes.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "190229916913106944",
+          "name": "happileaph",
+          "discriminator": "0000",
+          "nickname": "Happi Leaph",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/190229916913106944/2fba911006620fbe227bd381e5ad4764.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1076385656500138097",
+      "type": "Default",
+      "timestamp": "2023-02-18T01:12:18.788-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tetr.io/#JCFQ",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TETR.IO",
+          "url": "https://tetr.io/",
+          "timestamp": null,
+          "description": "Puzzle together in this free-to-win modern yet familiar online stacker in the same genre as Tetris. Play multiplayer games against friends and foes all over the world, or claim a spot on the leaderboards - the stacker future is yours!",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hZse2C1KafJuhIcb3qvVfB9E3gZRGBwuvTLlvgT1yi4/https/tetr.io/res/tetrio_social.png",
+            "width": 511,
+            "height": 181
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1076389462055059527",
+      "type": "RecipientAdd",
+      "timestamp": "2023-02-18T01:27:26.103-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added 3X3Y to the group.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "446506942421008394",
+          "name": "3x3y.",
+          "discriminator": "0000",
+          "nickname": "3X3Y",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/446506942421008394/42de7d9fa160d8c5b7b1beda84dd950f.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1076409152408129587",
+      "type": "Default",
+      "timestamp": "2023-02-18T02:45:40.649-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://lichess.org/oYyWYs6f",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Blitz (5+0) From Position casual Chess • Challenge from sofiagoodso...",
+          "url": "https://lichess.org/oYyWYs6f",
+          "timestamp": null,
+          "description": "Join the challenge or watch the game here.",
+          "color": "#2E2A24",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1076409299670151198",
+      "type": "Default",
+      "timestamp": "2023-02-18T02:46:15.759-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://lichess.org/3Wfgt9AY",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Blitz (5+0) casual Chess • Challenge from sofiagoodsophiabad (1500?)",
+          "url": "https://lichess.org/3Wfgt9AY",
+          "timestamp": null,
+          "description": "Join the challenge or watch the game here.",
+          "color": "#2E2A24",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 6
+}

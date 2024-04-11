@@ -1,0 +1,324 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1071700359065649212",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "jas, pakbanana, sofa, awang",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:24:43.2249067-04:00",
+  "messages": [
+    {
+      "id": "1071700359065649213",
+      "type": "RecipientAdd",
+      "timestamp": "2023-02-05T02:54:36.831-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added poat to the group.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1071700375834480680",
+      "type": "Call",
+      "timestamp": "2023-02-05T02:54:40.829-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-02-05T02:55:04.75-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 0 minutes.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "1020446750340825188",
+          "name": "pakbanana",
+          "discriminator": "0000",
+          "nickname": "pakbanana",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1020446750340825188/439dd79f0396090c8ade9dba14203ceb.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1071700480977293353",
+      "type": "Call",
+      "timestamp": "2023-02-05T02:55:05.897-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-02-05T09:44:50.818-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 410 minutes.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "1020446750340825188",
+          "name": "pakbanana",
+          "discriminator": "0000",
+          "nickname": "pakbanana",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1020446750340825188/439dd79f0396090c8ade9dba14203ceb.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1071700567098925116",
+      "type": "RecipientAdd",
+      "timestamp": "2023-02-05T02:55:26.43-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added awang to the group.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "424747654770196492",
+          "name": "awang5999",
+          "discriminator": "0000",
+          "nickname": "awang",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/424747654770196492/6f73a8ecbb6803dab2e469218d296703.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1071700880988045402",
+      "type": "RecipientAdd",
+      "timestamp": "2023-02-05T02:56:41.267-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added jas to the group.",
+      "author": {
+        "id": "424747654770196492",
+        "name": "awang5999",
+        "discriminator": "0000",
+        "nickname": "awang",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/424747654770196492/6f73a8ecbb6803dab2e469218d296703.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1064990358188073041",
+          "name": "yujasminen",
+          "discriminator": "0000",
+          "nickname": "jas",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1064990358188073041/4d6955aee50a6d9db87128a997a6be2a.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1071703111447613450",
+      "type": "Default",
+      "timestamp": "2023-02-05T03:05:33.05-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1071703110906560582",
+          "url": "https://cdn.discordapp.com/attachments/1071700359065649212/1071703110906560582/IMG_5245.jpg?ex=6624c8cc&is=661253cc&hm=74f43d3d86b17354b6be6110db8dae89ab3427f113ccca990acb88998b866567&",
+          "fileName": "IMG_5245.jpg",
+          "fileSizeBytes": 114117
+        },
+        {
+          "id": "1071703111187562526",
+          "url": "https://cdn.discordapp.com/attachments/1071700359065649212/1071703111187562526/IMG_5246.jpg?ex=6624c8cc&is=661253cc&hm=a96a3a53b91eb46892496ed844dd706a24ff4cbcc35cee36d728ff2bb278c2b6&",
+          "fileName": "IMG_5246.jpg",
+          "fileSizeBytes": 116849
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1071709888633389146",
+      "type": "Default",
+      "timestamp": "2023-02-05T03:32:28.857-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1071709888251711509",
+          "url": "https://cdn.discordapp.com/attachments/1071700359065649212/1071709888251711509/IMG_5248.png?ex=6624cf1c&is=66125a1c&hm=d1fdb7d3ffeebafbfe634dc31e3c15ecb9c4277866f4d2e116138b8275d8d85f&",
+          "fileName": "IMG_5248.png",
+          "fileSizeBytes": 546136
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1071729340242481172",
+      "type": "Default",
+      "timestamp": "2023-02-05T04:49:46.482-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tetr.io/#VVQJ",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TETR.IO",
+          "url": "https://tetr.io/",
+          "timestamp": null,
+          "description": "Puzzle together in this free-to-win modern yet familiar online stacker in the same genre as Tetris. Play multiplayer games against friends and foes all over the world, or claim a spot on the leaderboards - the stacker future is yours!",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hZse2C1KafJuhIcb3qvVfB9E3gZRGBwuvTLlvgT1yi4/https/tetr.io/res/tetrio_social.png",
+            "width": 511,
+            "height": 181
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 8
+}

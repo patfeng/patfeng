@@ -1,0 +1,208 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1154595779395211346",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "benji, SHO, naomi, soy, Cake",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:26:31.3946813-04:00",
+  "messages": [
+    {
+      "id": "1154595779395211347",
+      "type": "RecipientAdd",
+      "timestamp": "2023-09-21T21:51:25.16-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added poat to the group.",
+      "author": {
+        "id": "846142038607921253",
+        "name": "amokitize",
+        "discriminator": "0000",
+        "nickname": "naomi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1154595780502503476",
+      "type": "Call",
+      "timestamp": "2023-09-21T21:51:25.424-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-09-22T02:14:59.48-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 264 minutes.",
+      "author": {
+        "id": "846142038607921253",
+        "name": "amokitize",
+        "discriminator": "0000",
+        "nickname": "naomi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "476677991225884684",
+          "name": "soyonline",
+          "discriminator": "0000",
+          "nickname": "soy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1154595840585904138",
+      "type": "RecipientAdd",
+      "timestamp": "2023-09-21T21:51:39.749-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added benji to the group.",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1086039962379616381",
+          "name": "5upercat",
+          "discriminator": "0000",
+          "nickname": "benji",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1086039962379616381/f074bfcd09e3ff2eafc3b95c402550c5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1154598664958922834",
+      "type": "RecipientAdd",
+      "timestamp": "2023-09-21T22:02:53.132-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added SHO to the group.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "232319206958301184",
+          "name": "sho4795",
+          "discriminator": "0000",
+          "nickname": "SHO",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/232319206958301184/58b992c3830357100de87409bab31d0c.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1154617629596725348",
+      "type": "RecipientAdd",
+      "timestamp": "2023-09-21T23:18:14.654-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added Cake to the group.",
+      "author": {
+        "id": "846142038607921253",
+        "name": "amokitize",
+        "discriminator": "0000",
+        "nickname": "naomi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "190606673738596353",
+          "name": "cakelvoer",
+          "discriminator": "0000",
+          "nickname": "Cake",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/190606673738596353/a7bd9e232c83c282c3ac8923d762a05d.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 5
+}

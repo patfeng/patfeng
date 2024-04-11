@@ -1,0 +1,61 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1106098076046864466",
+    "type": "DirectTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "akira",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:25:27.5364145-04:00",
+  "messages": [
+    {
+      "id": "1115193833181950043",
+      "type": "Default",
+      "timestamp": "2023-06-05T04:22:09.13-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus?si=76fac05192f0453c",
+      "author": {
+        "id": "346491152150691840",
+        "name": "intergirl",
+        "discriminator": "0000",
+        "nickname": "akira",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346491152150691840/32e03c1f046bdc8f7c560f8143c3d9e6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Always",
+          "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus?si=76fac05192f0453c",
+          "timestamp": null,
+          "description": "Daniel Caesar · Song · 2023",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/e8WKeurI_X9NF3DRaM7Ie71r4dtaom6-o5rBqLEgXqg/https/i.scdn.co/image/ab67616d0000b2737c68face1dc58127f3a7b1cc",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}

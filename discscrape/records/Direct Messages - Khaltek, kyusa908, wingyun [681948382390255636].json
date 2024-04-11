@@ -1,0 +1,137 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "681948382390255636",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "Khaltek, kyusa908, wingyun",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:21:35.2811481-04:00",
+  "messages": [
+    {
+      "id": "681948397388955764",
+      "type": "Default",
+      "timestamp": "2020-02-25T14:39:27.926-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mutherfuckerers",
+      "author": {
+        "id": "492411160549785628",
+        "name": "wingyun",
+        "discriminator": "0000",
+        "nickname": "wingyun",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492411160549785628/c9101e40443aab01296986afd4c5d49b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "681948446718033970",
+      "type": "Default",
+      "timestamp": "2020-02-25T14:39:39.687-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "681948436873871496",
+          "url": "https://cdn.discordapp.com/attachments/681948382390255636/681948436873871496/image0.png?ex=661ed3f9&is=660c5ef9&hm=a920e13ac01bf4708bd7ebb6d2af82c8d22a04867dff90fb1e53445144aea611&",
+          "fileName": "image0.png",
+          "fileSizeBytes": 366220
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "681948511587008596",
+      "type": "RecipientAdd",
+      "timestamp": "2020-02-25T14:39:55.153-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added kyusa908 to the group.",
+      "author": {
+        "id": "492411160549785628",
+        "name": "wingyun",
+        "discriminator": "0000",
+        "nickname": "wingyun",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492411160549785628/c9101e40443aab01296986afd4c5d49b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "205333587036340224",
+          "name": "kyusa908",
+          "discriminator": "0000",
+          "nickname": "kyusa908",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/205333587036340224/13a80c2dede415d7747afdd31494882f.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "681948524513853470",
+      "type": "Default",
+      "timestamp": "2020-02-25T14:39:58.235-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "HAHAHA",
+      "author": {
+        "id": "492411160549785628",
+        "name": "wingyun",
+        "discriminator": "0000",
+        "nickname": "wingyun",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492411160549785628/c9101e40443aab01296986afd4c5d49b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 4
+}

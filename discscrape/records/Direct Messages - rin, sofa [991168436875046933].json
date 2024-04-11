@@ -1,0 +1,148 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "991168436875046933",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "rin, sofa",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:23:34.0525288-04:00",
+  "messages": [
+    {
+      "id": "991168436875046934",
+      "type": "RecipientAdd",
+      "timestamp": "2022-06-27T22:29:30.37-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added rin to the group.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "652257938207146000",
+          "name": "uzu222",
+          "discriminator": "0000",
+          "nickname": "rin",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/652257938207146000/2ad19d9848bd3932202bf72b2489b168.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "991168438703767583",
+      "type": "Call",
+      "timestamp": "2022-06-27T22:29:30.806-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-06-27T22:36:16.697-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 7 minutes.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "652257938207146000",
+          "name": "uzu222",
+          "discriminator": "0000",
+          "nickname": "rin",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/652257938207146000/2ad19d9848bd3932202bf72b2489b168.png?size=512"
+        },
+        {
+          "id": "265675530253238274",
+          "name": "sofaxchen",
+          "discriminator": "0000",
+          "nickname": "sofa",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+        }
+      ]
+    },
+    {
+      "id": "992256253055221871",
+      "type": "Call",
+      "timestamp": "2022-06-30T22:32:05.958-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-06-30T23:15:49.493-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 44 minutes.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "652257938207146000",
+          "name": "uzu222",
+          "discriminator": "0000",
+          "nickname": "rin",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/652257938207146000/2ad19d9848bd3932202bf72b2489b168.png?size=512"
+        },
+        {
+          "id": "265675530253238274",
+          "name": "sofaxchen",
+          "discriminator": "0000",
+          "nickname": "sofa",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 3
+}

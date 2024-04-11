@@ -1,0 +1,312 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1119077834938396772",
+    "type": "DirectTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "SamKaii",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:25:53.7557561-04:00",
+  "messages": [
+    {
+      "id": "1119077969122566176",
+      "type": "Default",
+      "timestamp": "2023-06-15T21:36:19.302-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "stop",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1119077999342526485",
+      "type": "Default",
+      "timestamp": "2023-06-15T21:36:26.507-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "its me",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1119078028622975016",
+      "type": "Default",
+      "timestamp": "2023-06-15T21:36:33.488-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!!!",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1119078050747908267",
+      "type": "Default",
+      "timestamp": "2023-06-15T21:36:38.763-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you're",
+      "author": {
+        "id": "959552820657389708",
+        "name": "samkaii",
+        "discriminator": "0000",
+        "nickname": "SamKaii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/959552820657389708/aaae6fbf7fdc36065643450c2e82b94f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1119078055332286505",
+      "type": "Default",
+      "timestamp": "2023-06-15T21:36:39.856-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "actually",
+      "author": {
+        "id": "959552820657389708",
+        "name": "samkaii",
+        "discriminator": "0000",
+        "nickname": "SamKaii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/959552820657389708/aaae6fbf7fdc36065643450c2e82b94f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1119078059144904824",
+      "type": "Default",
+      "timestamp": "2023-06-15T21:36:40.765-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "trolling",
+      "author": {
+        "id": "959552820657389708",
+        "name": "samkaii",
+        "discriminator": "0000",
+        "nickname": "SamKaii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/959552820657389708/aaae6fbf7fdc36065643450c2e82b94f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1119078083027292200",
+      "type": "Default",
+      "timestamp": "2023-06-15T21:36:46.459-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "play me in tetrio",
+      "author": {
+        "id": "959552820657389708",
+        "name": "samkaii",
+        "discriminator": "0000",
+        "nickname": "SamKaii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/959552820657389708/aaae6fbf7fdc36065643450c2e82b94f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1119078089578786897",
+      "type": "Default",
+      "timestamp": "2023-06-15T21:36:48.021-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no im actually poat",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1119078115071766618",
+      "type": "Default",
+      "timestamp": "2023-06-15T21:36:54.099-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ur gonna get rolled...",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1119078139935596545",
+      "type": "Call",
+      "timestamp": "2023-06-15T21:37:00.027-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-06-15T21:50:56.702-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 14 minutes.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "959552820657389708",
+          "name": "samkaii",
+          "discriminator": "0000",
+          "nickname": "SamKaii",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/959552820657389708/aaae6fbf7fdc36065643450c2e82b94f.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1119078394085265429",
+      "type": "Default",
+      "timestamp": "2023-06-15T21:38:00.621-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tetr.io/#TWQZ",
+      "author": {
+        "id": "959552820657389708",
+        "name": "samkaii",
+        "discriminator": "0000",
+        "nickname": "SamKaii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/959552820657389708/aaae6fbf7fdc36065643450c2e82b94f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TETR.IO",
+          "url": "https://tetr.io/",
+          "timestamp": null,
+          "description": "Puzzle together in this free-to-win modern yet familiar online stacker in the same genre as Tetris. Play multiplayer games against friends and foes all over the world, or claim a spot on the leaderboards - the stacker future is yours!",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hZse2C1KafJuhIcb3qvVfB9E3gZRGBwuvTLlvgT1yi4/https/tetr.io/res/tetrio_social.png",
+            "width": 511,
+            "height": 181
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 11
+}

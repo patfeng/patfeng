@@ -1,0 +1,183 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1056838241858363442",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "retro, isaac, esz, laura",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:24:37.5723529-04:00",
+  "messages": [
+    {
+      "id": "1056838241858363443",
+      "type": "RecipientAdd",
+      "timestamp": "2022-12-26T02:37:51.964-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added esz to the group.",
+      "author": {
+        "id": "283356175939010561",
+        "name": "laura0002",
+        "discriminator": "0000",
+        "nickname": "laura",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/283356175939010561/a337ed9584c076e31e26a2187b57835d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "404324132772118529",
+          "name": "ensanez",
+          "discriminator": "0000",
+          "nickname": "esz",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/404324132772118529/a0047ee4cd2edc17bd9f0944611022d9.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1056838243418656848",
+      "type": "RecipientAdd",
+      "timestamp": "2022-12-26T02:37:52.336-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added retro to the group.",
+      "author": {
+        "id": "283356175939010561",
+        "name": "laura0002",
+        "discriminator": "0000",
+        "nickname": "laura",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/283356175939010561/a337ed9584c076e31e26a2187b57835d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "143269209214943232",
+          "name": "retro4214",
+          "discriminator": "0000",
+          "nickname": "retro",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/143269209214943232/f190e270d7ea0c17243b91d2afc205e5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1056838254290272327",
+      "type": "Call",
+      "timestamp": "2022-12-26T02:37:54.928-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-12-26T03:00:37.904-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 23 minutes.",
+      "author": {
+        "id": "283356175939010561",
+        "name": "laura0002",
+        "discriminator": "0000",
+        "nickname": "laura",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/283356175939010561/a337ed9584c076e31e26a2187b57835d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "143269209214943232",
+          "name": "retro4214",
+          "discriminator": "0000",
+          "nickname": "retro",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/143269209214943232/f190e270d7ea0c17243b91d2afc205e5.png?size=512"
+        },
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "404324132772118529",
+          "name": "ensanez",
+          "discriminator": "0000",
+          "nickname": "esz",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/404324132772118529/a0047ee4cd2edc17bd9f0944611022d9.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1056842012386676746",
+      "type": "RecipientAdd",
+      "timestamp": "2022-12-26T02:52:50.928-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added isaac to the group.",
+      "author": {
+        "id": "283356175939010561",
+        "name": "laura0002",
+        "discriminator": "0000",
+        "nickname": "laura",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/283356175939010561/a337ed9584c076e31e26a2187b57835d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "279988136602370050",
+          "name": "saev9",
+          "discriminator": "0000",
+          "nickname": "isaac",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/279988136602370050/52e355627a554b8f484abe1c7842005f.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 4
+}

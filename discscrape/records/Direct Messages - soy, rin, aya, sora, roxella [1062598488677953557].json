@@ -1,0 +1,509 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1062598488677953557",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "soy, rin, aya, sora, roxella",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:24:41.2781389-04:00",
+  "messages": [
+    {
+      "id": "1062598488677953558",
+      "type": "RecipientAdd",
+      "timestamp": "2023-01-11T00:07:01.826-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added poat to the group.",
+      "author": {
+        "id": "862978789859655680",
+        "name": "roxella",
+        "discriminator": "0000",
+        "nickname": "roxella",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/862978789859655680/cfa07efb8adf962497a9c76d4437e147.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1062598489961410711",
+      "type": "RecipientAdd",
+      "timestamp": "2023-01-11T00:07:02.132-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added soy to the group.",
+      "author": {
+        "id": "862978789859655680",
+        "name": "roxella",
+        "discriminator": "0000",
+        "nickname": "roxella",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/862978789859655680/cfa07efb8adf962497a9c76d4437e147.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "476677991225884684",
+          "name": "soyonline",
+          "discriminator": "0000",
+          "nickname": "soy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1062598491240677436",
+      "type": "RecipientAdd",
+      "timestamp": "2023-01-11T00:07:02.437-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added fablu to the group.",
+      "author": {
+        "id": "862978789859655680",
+        "name": "roxella",
+        "discriminator": "0000",
+        "nickname": "roxella",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/862978789859655680/cfa07efb8adf962497a9c76d4437e147.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "475087854599536640",
+          "name": "fabluu",
+          "discriminator": "0000",
+          "nickname": "fablu",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/475087854599536640/bebefdac4d977e49c664208036da6458.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1062598498756874280",
+      "type": "Call",
+      "timestamp": "2023-01-11T00:07:04.229-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-01-11T10:05:04.438-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 598 minutes.",
+      "author": {
+        "id": "862978789859655680",
+        "name": "roxella",
+        "discriminator": "0000",
+        "nickname": "roxella",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/862978789859655680/cfa07efb8adf962497a9c76d4437e147.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "475087854599536640",
+          "name": "fabluu",
+          "discriminator": "0000",
+          "nickname": "fablu",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/475087854599536640/bebefdac4d977e49c664208036da6458.png?size=512"
+        },
+        {
+          "id": "313531800125308930",
+          "name": "amongusluvr0214",
+          "discriminator": "0000",
+          "nickname": "aya",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/313531800125308930/fb80e4baaa030db67e3db12e808ca809.png?size=512"
+        },
+        {
+          "id": "476677991225884684",
+          "name": "soyonline",
+          "discriminator": "0000",
+          "nickname": "soy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1062605672425984000",
+      "type": "Default",
+      "timestamp": "2023-01-11T00:35:34.565-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "tell me why the fucing wifi just died???",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1062615114827694141",
+      "type": "RecipientAdd",
+      "timestamp": "2023-01-11T01:13:05.809-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added sora to the group.",
+      "author": {
+        "id": "862978789859655680",
+        "name": "roxella",
+        "discriminator": "0000",
+        "nickname": "roxella",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/862978789859655680/cfa07efb8adf962497a9c76d4437e147.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "155114172869246976",
+          "name": "jonrae",
+          "discriminator": "0000",
+          "nickname": "sora",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/155114172869246976/7639a607f5691892fcdbfeff335f4e95.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1062618451170033734",
+      "type": "Default",
+      "timestamp": "2023-01-11T01:26:21.255-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "there is a nyc fios outage",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1062618519478468618",
+      "type": "Default",
+      "timestamp": "2023-01-11T01:26:37.541-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no one will EVER convince me to rewdownload this game",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1062618579893223516",
+      "type": "Default",
+      "timestamp": "2023-01-11T01:26:51.945-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the universe could not be sending a clearer message",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1062621064607318056",
+      "type": "RecipientAdd",
+      "timestamp": "2023-01-11T01:36:44.347-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added rin to the group.",
+      "author": {
+        "id": "862978789859655680",
+        "name": "roxella",
+        "discriminator": "0000",
+        "nickname": "roxella",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/862978789859655680/cfa07efb8adf962497a9c76d4437e147.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "652257938207146000",
+          "name": "uzu222",
+          "discriminator": "0000",
+          "nickname": "rin",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/652257938207146000/2ad19d9848bd3932202bf72b2489b168.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1062636800641859684",
+      "type": "Default",
+      "timestamp": "2023-01-11T02:39:16.11-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/888nly/status/1612966416902393856?s=20",
+      "author": {
+        "id": "475087854599536640",
+        "name": "fabluu",
+        "discriminator": "0000",
+        "nickname": "fablu",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/475087854599536640/bebefdac4d977e49c664208036da6458.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/888nly/status/1612966416902393856?s=20",
+          "timestamp": "2023-01-10T19:15:35.913-05:00",
+          "description": "i got robbed.",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "rhi (@888nly)",
+            "url": "https://twitter.com/888nly",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/RAgHs_nxzVkKhex7bJAk__JXrSgCSijjJ4qeL0q6r9E/https/pbs.twimg.com/profile_images/1612299161621368832/RF7ppIv6_400x400.jpg"
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/t55_hoeg2GSp1CADRi4nhvYC-DiA6BGQZ1lv_mCeUfE/https/pbs.twimg.com/media/FmJoXgWakAES0ms.png",
+            "width": 519,
+            "height": 572
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/t55_hoeg2GSp1CADRi4nhvYC-DiA6BGQZ1lv_mCeUfE/https/pbs.twimg.com/media/FmJoXgWakAES0ms.png",
+              "width": 519,
+              "height": 572
+            },
+            {
+              "url": "https://images-ext-1.discordapp.net/external/D1f5UnSPUe7XFZJvxJhv5M0rEvsUTFPpA5JZ7JaeHxE/https/pbs.twimg.com/media/FmJoYBVaMAAtcuM.png",
+              "width": 711,
+              "height": 383
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1062662573985632286",
+      "type": "Default",
+      "timestamp": "2023-01-11T04:21:40.954-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/batman-where-is-she-nikkal-nikkalkundhal-nick-gif-18076474",
+      "author": {
+        "id": "155114172869246976",
+        "name": "jonrae",
+        "discriminator": "0000",
+        "nickname": "sora",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155114172869246976/7639a607f5691892fcdbfeff335f4e95.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/batman-where-is-she-nikkal-nikkalkundhal-nick-gif-18076474",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/3HyjCtO9GEPzWF2wOtOp8vK2ZU558HxVVsPdMx1ySQY/https/media.tenor.com/e1QrlO8JCEMAAAAD/batman-where-is-she.png",
+            "width": 640,
+            "height": 446
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/xCIfC_YPd1ve4OnBIABnL8mbk2ffr70JWYdo10-fA-w/https/media.tenor.com/e1QrlO8JCEMAAAPo/batman-where-is-she.mp4",
+            "width": 640,
+            "height": 446
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1062710026814361630",
+      "type": "Default",
+      "timestamp": "2023-01-11T07:30:14.59-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "goodnight !",
+      "author": {
+        "id": "313531800125308930",
+        "name": "amongusluvr0214",
+        "discriminator": "0000",
+        "nickname": "aya",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/313531800125308930/fb80e4baaa030db67e3db12e808ca809.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1062710079792611351",
+      "type": "Default",
+      "timestamp": "2023-01-11T07:30:27.221-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "goodnight aya !",
+      "author": {
+        "id": "475087854599536640",
+        "name": "fabluu",
+        "discriminator": "0000",
+        "nickname": "fablu",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/475087854599536640/bebefdac4d977e49c664208036da6458.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 14
+}

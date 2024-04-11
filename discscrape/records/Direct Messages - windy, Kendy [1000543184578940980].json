@@ -1,0 +1,577 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1000543184578940980",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "windy, Kendy",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:23:57.268666-04:00",
+  "messages": [
+    {
+      "id": "1000543185090658435",
+      "type": "RecipientAdd",
+      "timestamp": "2022-07-23T19:21:24.519-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added Yoshi to the group.",
+      "author": {
+        "id": "222132468495548416",
+        "name": "zhujii",
+        "discriminator": "0000",
+        "nickname": "jodii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/222132468495548416/8666ee9b7e8d03c2b1fae80d1daf07be.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "241718612920893451",
+          "name": "pixlyoshi",
+          "discriminator": "0000",
+          "nickname": "Yoshi",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/241718612920893451/921f9b365f156ca0adeeeb9e83e491b2.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1000543186130837515",
+      "type": "Call",
+      "timestamp": "2022-07-23T19:21:24.767-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-07-23T23:29:28.242-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 248 minutes.",
+      "author": {
+        "id": "172157373446619147",
+        "name": "j.d.",
+        "discriminator": "0000",
+        "nickname": "J.D.",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/172157373446619147/5b25f1ecb7589830a01735c9d1cdd2fa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "222132468495548416",
+          "name": "zhujii",
+          "discriminator": "0000",
+          "nickname": "jodii",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/222132468495548416/8666ee9b7e8d03c2b1fae80d1daf07be.png?size=512"
+        },
+        {
+          "id": "241718612920893451",
+          "name": "pixlyoshi",
+          "discriminator": "0000",
+          "nickname": "Yoshi",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/241718612920893451/921f9b365f156ca0adeeeb9e83e491b2.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1000547694785339552",
+      "type": "RecipientAdd",
+      "timestamp": "2022-07-23T19:39:19.714-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added B1G_qt to the group.",
+      "author": {
+        "id": "222132468495548416",
+        "name": "zhujii",
+        "discriminator": "0000",
+        "nickname": "jodii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/222132468495548416/8666ee9b7e8d03c2b1fae80d1daf07be.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "293565895568261131",
+          "name": "b1g_qt",
+          "discriminator": "0000",
+          "nickname": "B1G_qt",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/293565895568261131/94e319fb7516931dae93ac718a80a59c.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1000548775716212846",
+      "type": "RecipientAdd",
+      "timestamp": "2022-07-23T19:43:37.428-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added windy to the group.",
+      "author": {
+        "id": "222132468495548416",
+        "name": "zhujii",
+        "discriminator": "0000",
+        "nickname": "jodii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/222132468495548416/8666ee9b7e8d03c2b1fae80d1daf07be.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "450114803005128744",
+          "name": "windyful",
+          "discriminator": "0000",
+          "nickname": "windy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/450114803005128744/20d25104744c02430fb0551ee847d303.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1000549016184033320",
+      "type": "RecipientAdd",
+      "timestamp": "2022-07-23T19:44:34.76-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added poat to the group.",
+      "author": {
+        "id": "450114803005128744",
+        "name": "windyful",
+        "discriminator": "0000",
+        "nickname": "windy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/450114803005128744/20d25104744c02430fb0551ee847d303.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1000560559143526561",
+      "type": "Default",
+      "timestamp": "2022-07-23T20:30:26.816-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A Fool Moon Night",
+      "author": {
+        "id": "172157373446619147",
+        "name": "j.d.",
+        "discriminator": "0000",
+        "nickname": "J.D.",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/172157373446619147/5b25f1ecb7589830a01735c9d1cdd2fa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000562725992271952",
+      "type": "Default",
+      "timestamp": "2022-07-23T20:39:03.433-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "172157373446619147",
+        "name": "j.d.",
+        "discriminator": "0000",
+        "nickname": "J.D.",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/172157373446619147/5b25f1ecb7589830a01735c9d1cdd2fa.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1000562724994043944",
+          "url": "https://cdn.discordapp.com/attachments/1000543184578940980/1000562724994043944/unknown.png?ex=66246027&is=6611eb27&hm=033d28124039f6015acadce7970ba34a85b5c94ea0b1739a69b9869b0749eacb&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 1035595
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000563486901936158",
+      "type": "Default",
+      "timestamp": "2022-07-23T20:42:04.848-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@windy",
+      "author": {
+        "id": "222132468495548416",
+        "name": "zhujii",
+        "discriminator": "0000",
+        "nickname": "jodii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/222132468495548416/8666ee9b7e8d03c2b1fae80d1daf07be.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "450114803005128744",
+          "name": "windyful",
+          "discriminator": "0000",
+          "nickname": "windy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/450114803005128744/20d25104744c02430fb0551ee847d303.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1000584101448912897",
+      "type": "Default",
+      "timestamp": "2022-07-23T22:03:59.739-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/993409161243148369/1000120299334942911/unknown.png",
+      "author": {
+        "id": "241718612920893451",
+        "name": "pixlyoshi",
+        "discriminator": "0000",
+        "nickname": "Yoshi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/241718612920893451/921f9b365f156ca0adeeeb9e83e491b2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/993409161243148369/1000120299334942911/unknown.png",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/993409161243148369/1000120299334942911/unknown.png?ex=6622c41c&is=66104f1c&hm=68725c3f04a53ae0f3d93066a95afc2e93c44cedc694a6c205dc2bfca49a0021&",
+            "width": 1348,
+            "height": 680
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000584800198983761",
+      "type": "RecipientAdd",
+      "timestamp": "2022-07-23T22:06:46.334-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added Lord Gacha to the group.",
+      "author": {
+        "id": "241718612920893451",
+        "name": "pixlyoshi",
+        "discriminator": "0000",
+        "nickname": "Yoshi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/241718612920893451/921f9b365f156ca0adeeeb9e83e491b2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "434784123945484298",
+          "name": "lordgacha",
+          "discriminator": "0000",
+          "nickname": "Lord Gacha",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/434784123945484298/43d31cab2024e434f43676e13aa97462.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1000584829944987708",
+      "type": "RecipientAdd",
+      "timestamp": "2022-07-23T22:06:53.426-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added Kendy to the group.",
+      "author": {
+        "id": "450114803005128744",
+        "name": "windyful",
+        "discriminator": "0000",
+        "nickname": "windy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/450114803005128744/20d25104744c02430fb0551ee847d303.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "93025160537346048",
+          "name": "kendy.",
+          "discriminator": "0000",
+          "nickname": "Kendy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/93025160537346048/17a4692865d989563f68e2b1f0f7710e.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1000585336063262730",
+      "type": "Default",
+      "timestamp": "2022-07-23T22:08:54.094-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "434784123945484298",
+        "name": "lordgacha",
+        "discriminator": "0000",
+        "nickname": "Lord Gacha",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/434784123945484298/43d31cab2024e434f43676e13aa97462.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1000585335102771290",
+          "url": "https://cdn.discordapp.com/attachments/1000543184578940980/1000585335102771290/unknown.png?ex=66247535&is=66120035&hm=5c5b5fc57d2279a89645a9571a403d9ff9daf8cf96580779d13b669d8a3c0220&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 107032
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000650369354977322",
+      "type": "RecipientRemove",
+      "timestamp": "2022-07-24T02:27:19.239-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Left the group.",
+      "author": {
+        "id": "241718612920893451",
+        "name": "pixlyoshi",
+        "discriminator": "0000",
+        "nickname": "Yoshi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/241718612920893451/921f9b365f156ca0adeeeb9e83e491b2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "241718612920893451",
+          "name": "pixlyoshi",
+          "discriminator": "0000",
+          "nickname": "Yoshi",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/241718612920893451/921f9b365f156ca0adeeeb9e83e491b2.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1000686050638823445",
+      "type": "RecipientRemove",
+      "timestamp": "2022-07-24T04:49:06.32-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Left the group.",
+      "author": {
+        "id": "434784123945484298",
+        "name": "lordgacha",
+        "discriminator": "0000",
+        "nickname": "Lord Gacha",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/434784123945484298/43d31cab2024e434f43676e13aa97462.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "434784123945484298",
+          "name": "lordgacha",
+          "discriminator": "0000",
+          "nickname": "Lord Gacha",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/434784123945484298/43d31cab2024e434f43676e13aa97462.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1011188860606238720",
+      "type": "RecipientRemove",
+      "timestamp": "2022-08-22T04:23:31.349-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Left the group.",
+      "author": {
+        "id": "222132468495548416",
+        "name": "zhujii",
+        "discriminator": "0000",
+        "nickname": "jodii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/222132468495548416/8666ee9b7e8d03c2b1fae80d1daf07be.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "222132468495548416",
+          "name": "zhujii",
+          "discriminator": "0000",
+          "nickname": "jodii",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/222132468495548416/8666ee9b7e8d03c2b1fae80d1daf07be.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1011428502655995914",
+      "type": "RecipientRemove",
+      "timestamp": "2022-08-22T20:15:46.466-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Left the group.",
+      "author": {
+        "id": "293565895568261131",
+        "name": "b1g_qt",
+        "discriminator": "0000",
+        "nickname": "B1G_qt",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/293565895568261131/94e319fb7516931dae93ac718a80a59c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "293565895568261131",
+          "name": "b1g_qt",
+          "discriminator": "0000",
+          "nickname": "B1G_qt",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/293565895568261131/94e319fb7516931dae93ac718a80a59c.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 16
+}

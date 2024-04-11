@@ -1,0 +1,138 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1016957233151606817",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "sofa, Kestera, ywelly",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:24:12.2709946-04:00",
+  "messages": [
+    {
+      "id": "1016957233151606818",
+      "type": "RecipientAdd",
+      "timestamp": "2022-09-07T02:24:58.535-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added ywelly to the group.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "561738941431152651",
+          "name": "ywelly",
+          "discriminator": "0000",
+          "nickname": "ywelly",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/561738941431152651/0e3af306ca61908e86eea20f24152dab.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1016957233914974259",
+      "type": "Call",
+      "timestamp": "2022-09-07T02:24:58.717-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-09-07T03:03:00.2-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 38 minutes.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "265675530253238274",
+          "name": "sofaxchen",
+          "discriminator": "0000",
+          "nickname": "sofa",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+        },
+        {
+          "id": "561738941431152651",
+          "name": "ywelly",
+          "discriminator": "0000",
+          "nickname": "ywelly",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/561738941431152651/0e3af306ca61908e86eea20f24152dab.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1016957297949409311",
+      "type": "RecipientAdd",
+      "timestamp": "2022-09-07T02:25:13.984-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added Kestera to the group.",
+      "author": {
+        "id": "561738941431152651",
+        "name": "ywelly",
+        "discriminator": "0000",
+        "nickname": "ywelly",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/561738941431152651/0e3af306ca61908e86eea20f24152dab.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "722113857052737537",
+          "name": "kestera.",
+          "discriminator": "0000",
+          "nickname": "Kestera",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/722113857052737537/293b06340857495fd3e9a824f5bffb38.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 3
+}

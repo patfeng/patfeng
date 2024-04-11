@@ -1,0 +1,71 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1103589559884849154",
+    "type": "DirectTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "leia",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:25:12.259076-04:00",
+  "messages": [
+    {
+      "id": "1103589588334821466",
+      "type": "Default",
+      "timestamp": "2023-05-04T03:51:01.562-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/y7nnrMZ3",
+      "author": {
+        "id": "804240735179243550",
+        "name": "1eiaaa",
+        "discriminator": "0000",
+        "nickname": "leia",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/804240735179243550/ebce5c3e6b9667ba4246ab99954e0a7b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1103589681704226817",
+      "type": "Default",
+      "timestamp": "2023-05-04T03:51:23.823-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/yCd8fcaQ",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

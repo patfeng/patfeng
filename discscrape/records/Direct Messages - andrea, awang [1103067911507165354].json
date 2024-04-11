@@ -1,0 +1,103 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1103067911507165354",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "andrea, awang",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:25:10.9239069-04:00",
+  "messages": [
+    {
+      "id": "1103067911507165355",
+      "type": "RecipientAdd",
+      "timestamp": "2023-05-02T17:18:04.114-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added awang to the group.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "424747654770196492",
+          "name": "awang5999",
+          "discriminator": "0000",
+          "nickname": "awang",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/424747654770196492/6f73a8ecbb6803dab2e469218d296703.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1103067912849346640",
+      "type": "Call",
+      "timestamp": "2023-05-02T17:18:04.434-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-05-02T18:06:51.412-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 49 minutes.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "424747654770196492",
+          "name": "awang5999",
+          "discriminator": "0000",
+          "nickname": "awang",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/424747654770196492/6f73a8ecbb6803dab2e469218d296703.png?size=512"
+        },
+        {
+          "id": "798354749569237013",
+          "name": "californut.",
+          "discriminator": "0000",
+          "nickname": "andrea",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/798354749569237013/9c74be2524c41ddf901d921e88137840.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 2
+}

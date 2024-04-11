@@ -1,0 +1,116 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1006652404990750770",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "nickypooo, rin",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:24:05.5683283-04:00",
+  "messages": [
+    {
+      "id": "1006652419318501437",
+      "type": "Call",
+      "timestamp": "2022-08-09T15:57:19.463-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-08-09T16:17:42.09-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 20 minutes.",
+      "author": {
+        "id": "652257938207146000",
+        "name": "uzu222",
+        "discriminator": "0000",
+        "nickname": "rin",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/652257938207146000/2ad19d9848bd3932202bf72b2489b168.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "722558227296026735",
+          "name": "nickypooo_",
+          "discriminator": "0000",
+          "nickname": "nickypooo",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/722558227296026735/36da1c57cf499ea2f209849afc81cbac.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1006652923335430224",
+      "type": "Default",
+      "timestamp": "2022-08-09T15:59:19.63-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nick can u hear",
+      "author": {
+        "id": "652257938207146000",
+        "name": "uzu222",
+        "discriminator": "0000",
+        "nickname": "rin",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/652257938207146000/2ad19d9848bd3932202bf72b2489b168.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1006653238608674886",
+      "type": "Default",
+      "timestamp": "2022-08-09T16:00:34.797-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nighthawk123427",
+      "author": {
+        "id": "722558227296026735",
+        "name": "nickypooo_",
+        "discriminator": "0000",
+        "nickname": "nickypooo",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/722558227296026735/36da1c57cf499ea2f209849afc81cbac.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 3
+}

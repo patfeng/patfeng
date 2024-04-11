@@ -1,0 +1,203 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1131735555894423663",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "sofa, alune",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:26:19.0464784-04:00",
+  "messages": [
+    {
+      "id": "1131735555894423664",
+      "type": "RecipientAdd",
+      "timestamp": "2023-07-20T19:53:03.155-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added alune to the group.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "212702039103373312",
+          "name": "9xv",
+          "discriminator": "0000",
+          "nickname": "alune",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/212702039103373312/3c76274c7235667ff69879a65e6fad44.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1131735556901064784",
+      "type": "Call",
+      "timestamp": "2023-07-20T19:53:03.395-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-07-21T01:25:36.806-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 333 minutes.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "212702039103373312",
+          "name": "9xv",
+          "discriminator": "0000",
+          "nickname": "alune",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/212702039103373312/3c76274c7235667ff69879a65e6fad44.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1131788067359961239",
+      "type": "Default",
+      "timestamp": "2023-07-20T23:21:42.864-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/2QgTg1IySbHJzr6Qle36H0?si=56ad4562e66f4e28",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Violins",
+          "url": "https://open.spotify.com/track/2QgTg1IySbHJzr6Qle36H0?si=56ad4562e66f4e28",
+          "timestamp": null,
+          "description": "Juliana Chahayed · Song · 2020",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/J6TrPj7eREj7HT_XcqbJadIgjjXQJU3ZomHJn7i8gJg/https/i.scdn.co/image/ab67616d0000b2734649a521fff7310ff1baa799",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1131791913071161344",
+      "type": "Default",
+      "timestamp": "2023-07-20T23:36:59.753-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://sites.google.com/nyu.edu/nyu-hpc/hpc-systems/greene/getting-started?authuser=0",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "NYU High Performance Computing - Getting Started",
+          "url": "https://sites.google.com/nyu.edu/nyu-hpc/hpc-systems/greene/getting-started?authuser=0",
+          "timestamp": null,
+          "description": "Accessing the Greene Cluster\nThere are several ways one can use to access the cluster. We only show one example below. Please refer to the Accessing HPC page to read about other options.\nSSH using Terminal or Command Prompt\nSimply open a terminal (Linux, Mac) or the Command Prompt (Windows 10) and",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/F8WOPELlLON7FVOns0ZDQWJDh5fcs7XuzI1G6mqZ_lo/https/lh3.googleusercontent.com/Y3AOmYT95xGjYD6D2Glqeexs9RpBVF82QiVpVxmQdKApBmcGR2iNKF09pvWKM0xMhGWROj-mbTVizfw3Y-79TUw%3Dw16383",
+            "width": 879,
+            "height": 299
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1131809551121907712",
+      "type": "Default",
+      "timestamp": "2023-07-21T00:47:04.992-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#!/bin/bash \n#SBATCH --nodes=1\n#SBATCH --ntasks-per-node=40\n#SBATCH --cpus-per-task=1\n#SBATCH --time=15:00:00\n#SBATCH --mem=8GB\n#SBATCH --job-name=gen_data_sophia\n#SBATCH --output=gen_data_sophia.log\n\nmodule purge\nmodule load python/intel/3.8.6\n\nbash scripts\\1_generate_rp.bash",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 5
+}

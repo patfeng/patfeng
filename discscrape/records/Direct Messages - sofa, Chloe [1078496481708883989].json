@@ -1,0 +1,141 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1078496481708883989",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "sofa, Chloe",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:24:52.1114805-04:00",
+  "messages": [
+    {
+      "id": "1078496481708883990",
+      "type": "RecipientAdd",
+      "timestamp": "2023-02-23T20:59:58.735-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added poat to the group.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1078496482660995133",
+      "type": "Call",
+      "timestamp": "2023-02-23T20:59:58.962-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-02-23T21:58:54.215-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 59 minutes.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "808423380264681492",
+          "name": "chloelily",
+          "discriminator": "0000",
+          "nickname": "Chloe",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/808423380264681492/f9292af8ceb4d136c4fdac74d9ab95be.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1078496682553135134",
+      "type": "Default",
+      "timestamp": "2023-02-23T21:00:46.62-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tetr.io/#RAJG",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TETR.IO",
+          "url": "https://tetr.io/",
+          "timestamp": null,
+          "description": "Puzzle together in this free-to-win modern yet familiar online stacker in the same genre as Tetris. Play multiplayer games against friends and foes all over the world, or claim a spot on the leaderboards - the stacker future is yours!",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hZse2C1KafJuhIcb3qvVfB9E3gZRGBwuvTLlvgT1yi4/https/tetr.io/res/tetrio_social.png",
+            "width": 511,
+            "height": 181
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 3
+}

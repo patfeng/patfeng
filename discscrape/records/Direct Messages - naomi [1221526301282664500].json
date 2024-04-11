@@ -1,0 +1,152 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1221526301282664500",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "naomi",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:27:05.2104845-04:00",
+  "messages": [
+    {
+      "id": "1221526301282664501",
+      "type": "RecipientAdd",
+      "timestamp": "2024-03-24T14:29:25.087-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added hero. to the group.",
+      "author": {
+        "id": "846142038607921253",
+        "name": "amokitize",
+        "discriminator": "0000",
+        "nickname": "naomi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "430172452329357332",
+          "name": "valorantgoat",
+          "discriminator": "0000",
+          "nickname": "hero.",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/430172452329357332/d0d0f537b69c59e0e450220adc6312b2.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1221526341544054925",
+      "type": "Call",
+      "timestamp": "2024-03-24T14:29:34.686-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2024-03-24T16:29:28.944-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 120 minutes.",
+      "author": {
+        "id": "846142038607921253",
+        "name": "amokitize",
+        "discriminator": "0000",
+        "nickname": "naomi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "430172452329357332",
+          "name": "valorantgoat",
+          "discriminator": "0000",
+          "nickname": "hero.",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/430172452329357332/d0d0f537b69c59e0e450220adc6312b2.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1221527238705676309",
+      "type": "Default",
+      "timestamp": "2024-03-24T14:33:08.586-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://x.com/100t_val/status/1771935408806298025?s=46&t=zKVfqehUHGaRI_ngHlAc-A",
+      "author": {
+        "id": "846142038607921253",
+        "name": "amokitize",
+        "discriminator": "0000",
+        "nickname": "naomi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "100 Thieves VALORANT (@100T_VAL) on X",
+          "url": "https://twitter.com/100t_val/status/1771935408806298025?s=46&t=zKVfqehUHGaRI_ngHlAc-A",
+          "timestamp": "2024-03-24T12:21:37.084-04:00",
+          "description": "\"this edible ain't shit\"\n\n30 minutes later:",
+          "color": "#1DA1F2",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/P7h4yWW9bOygg1bDJ5brH367x6wr6LUUwa6dqLM2IP0/https/pbs.twimg.com/amplify_video_thumb/1771935048670797824/img/E319TfbjQvI3OyJa.jpg%3Alarge",
+            "width": 720,
+            "height": 1280
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/P7h4yWW9bOygg1bDJ5brH367x6wr6LUUwa6dqLM2IP0/https/pbs.twimg.com/amplify_video_thumb/1771935048670797824/img/E319TfbjQvI3OyJa.jpg%3Alarge",
+              "width": 720,
+              "height": 1280
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 3
+}

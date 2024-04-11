@@ -1,0 +1,600 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1106075007739773008",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "Kai, zoe, ray, andrea",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:25:22.5966149-04:00",
+  "messages": [
+    {
+      "id": "1106075007739773009",
+      "type": "RecipientAdd",
+      "timestamp": "2023-05-11T00:27:11.725-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added poat to the group.",
+      "author": {
+        "id": "798354749569237013",
+        "name": "californut.",
+        "discriminator": "0000",
+        "nickname": "andrea",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798354749569237013/9c74be2524c41ddf901d921e88137840.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1106075008767377549",
+      "type": "Call",
+      "timestamp": "2023-05-11T00:27:11.97-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-05-11T01:58:27.024-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 91 minutes.",
+      "author": {
+        "id": "798354749569237013",
+        "name": "californut.",
+        "discriminator": "0000",
+        "nickname": "andrea",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798354749569237013/9c74be2524c41ddf901d921e88137840.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "271797489017815050",
+          "name": "rayano.",
+          "discriminator": "0000",
+          "nickname": "ray",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/271797489017815050/a499ebc3fae9a0eac33bf4750bf9b4e4.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1106085897771954196",
+      "type": "RecipientAdd",
+      "timestamp": "2023-05-11T01:10:28.111-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added Kai to the group.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "250016076773982209",
+          "name": "imkaiwoo",
+          "discriminator": "0000",
+          "nickname": "Kai",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/250016076773982209/c0c3b43f955a8281f0c721a6b8cea596.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1106086562292306001",
+      "type": "RecipientAdd",
+      "timestamp": "2023-05-11T01:13:06.545-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added akira to the group.",
+      "author": {
+        "id": "798354749569237013",
+        "name": "californut.",
+        "discriminator": "0000",
+        "nickname": "andrea",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798354749569237013/9c74be2524c41ddf901d921e88137840.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "346491152150691840",
+          "name": "intergirl",
+          "discriminator": "0000",
+          "nickname": "akira",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/346491152150691840/32e03c1f046bdc8f7c560f8143c3d9e6.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1106087439853953064",
+      "type": "RecipientAdd",
+      "timestamp": "2023-05-11T01:16:35.772-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added cly to the group.",
+      "author": {
+        "id": "798354749569237013",
+        "name": "californut.",
+        "discriminator": "0000",
+        "nickname": "andrea",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798354749569237013/9c74be2524c41ddf901d921e88137840.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "561706078174183424",
+          "name": "clyoza",
+          "discriminator": "0000",
+          "nickname": "cly",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/561706078174183424/a_f465b11e1f34611cfcaa70215ec5b87d.gif?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1106411002448326666",
+      "type": "RecipientRemove",
+      "timestamp": "2023-05-11T22:42:19.106-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Removed cly from the group.",
+      "author": {
+        "id": "798354749569237013",
+        "name": "californut.",
+        "discriminator": "0000",
+        "nickname": "andrea",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798354749569237013/9c74be2524c41ddf901d921e88137840.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "561706078174183424",
+          "name": "clyoza",
+          "discriminator": "0000",
+          "nickname": "cly",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/561706078174183424/a_f465b11e1f34611cfcaa70215ec5b87d.gif?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1106411009868038234",
+      "type": "RecipientRemove",
+      "timestamp": "2023-05-11T22:42:20.875-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Removed akira from the group.",
+      "author": {
+        "id": "798354749569237013",
+        "name": "californut.",
+        "discriminator": "0000",
+        "nickname": "andrea",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798354749569237013/9c74be2524c41ddf901d921e88137840.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "346491152150691840",
+          "name": "intergirl",
+          "discriminator": "0000",
+          "nickname": "akira",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/346491152150691840/32e03c1f046bdc8f7c560f8143c3d9e6.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1106411036967448666",
+      "type": "Call",
+      "timestamp": "2023-05-11T22:42:27.336-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-05-12T00:36:11.431-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 114 minutes.",
+      "author": {
+        "id": "798354749569237013",
+        "name": "californut.",
+        "discriminator": "0000",
+        "nickname": "andrea",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798354749569237013/9c74be2524c41ddf901d921e88137840.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "250016076773982209",
+          "name": "imkaiwoo",
+          "discriminator": "0000",
+          "nickname": "Kai",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/250016076773982209/c0c3b43f955a8281f0c721a6b8cea596.png?size=512"
+        },
+        {
+          "id": "271797489017815050",
+          "name": "rayano.",
+          "discriminator": "0000",
+          "nickname": "ray",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/271797489017815050/a499ebc3fae9a0eac33bf4750bf9b4e4.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1106411215862902844",
+      "type": "RecipientAdd",
+      "timestamp": "2023-05-11T22:43:09.988-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added zoe to the group.",
+      "author": {
+        "id": "250016076773982209",
+        "name": "imkaiwoo",
+        "discriminator": "0000",
+        "nickname": "Kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/250016076773982209/c0c3b43f955a8281f0c721a6b8cea596.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "341075496739667980",
+          "name": "zoeboo.",
+          "discriminator": "0000",
+          "nickname": "zoe",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/341075496739667980/6398e65e08320287f46bfe2193b42766.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1106439677109604353",
+      "type": "Default",
+      "timestamp": "2023-05-12T00:36:15.678-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pat just yelled at me",
+      "author": {
+        "id": "271797489017815050",
+        "name": "rayano.",
+        "discriminator": "0000",
+        "nickname": "ray",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/271797489017815050/a499ebc3fae9a0eac33bf4750bf9b4e4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106439689302462584",
+      "type": "Default",
+      "timestamp": "2023-05-12T00:36:18.585-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and called me some shit",
+      "author": {
+        "id": "271797489017815050",
+        "name": "rayano.",
+        "discriminator": "0000",
+        "nickname": "ray",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/271797489017815050/a499ebc3fae9a0eac33bf4750bf9b4e4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106439701528858654",
+      "type": "Default",
+      "timestamp": "2023-05-12T00:36:21.5-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "when u all left",
+      "author": {
+        "id": "271797489017815050",
+        "name": "rayano.",
+        "discriminator": "0000",
+        "nickname": "ray",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/271797489017815050/a499ebc3fae9a0eac33bf4750bf9b4e4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106439723829956639",
+      "type": "Default",
+      "timestamp": "2023-05-12T00:36:26.817-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i called him like 5 slurs",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106440005351637002",
+      "type": "Default",
+      "timestamp": "2023-05-12T00:37:33.937-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I FORGOT TO SAY BYE",
+      "author": {
+        "id": "798354749569237013",
+        "name": "californut.",
+        "discriminator": "0000",
+        "nickname": "andrea",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798354749569237013/9c74be2524c41ddf901d921e88137840.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106440009151697009",
+      "type": "Default",
+      "timestamp": "2023-05-12T00:37:34.843-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "BYE GUYS",
+      "author": {
+        "id": "798354749569237013",
+        "name": "californut.",
+        "discriminator": "0000",
+        "nickname": "andrea",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798354749569237013/9c74be2524c41ddf901d921e88137840.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106440299976347708",
+      "type": "Default",
+      "timestamp": "2023-05-12T00:38:44.181-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "baiii",
+      "author": {
+        "id": "341075496739667980",
+        "name": "zoeboo.",
+        "discriminator": "0000",
+        "nickname": "zoe",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/341075496739667980/6398e65e08320287f46bfe2193b42766.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106442331407781949",
+      "type": "Default",
+      "timestamp": "2023-05-12T00:46:48.512-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "BYEBYE ANDREA :3",
+      "author": {
+        "id": "250016076773982209",
+        "name": "imkaiwoo",
+        "discriminator": "0000",
+        "nickname": "Kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/250016076773982209/c0c3b43f955a8281f0c721a6b8cea596.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106442359115366430",
+      "type": "Reply",
+      "timestamp": "2023-05-12T00:46:55.118-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sounds abt right",
+      "author": {
+        "id": "250016076773982209",
+        "name": "imkaiwoo",
+        "discriminator": "0000",
+        "nickname": "Kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/250016076773982209/c0c3b43f955a8281f0c721a6b8cea596.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1106439723829956639",
+        "channelId": "1106075007739773008",
+        "guildId": null
+      }
+    }
+  ],
+  "messageCount": 18
+}

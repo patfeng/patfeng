@@ -1,0 +1,538 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1094088937770852543",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "MYTOP5DRAKEDRAKEDRAKEDRAKEDRAKE, henny7416",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:25:00.2182695-04:00",
+  "messages": [
+    {
+      "id": "1094088937770852544",
+      "type": "RecipientAdd",
+      "timestamp": "2023-04-07T22:38:49.954-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added henny7416 to the group.",
+      "author": {
+        "id": "310461617852645378",
+        "name": "mentally_sauced",
+        "discriminator": "0000",
+        "nickname": "deegs",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/310461617852645378/7a763dd29832dd972f5f445b3a8f5e38.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "397450263100784641",
+          "name": "henny7416",
+          "discriminator": "0000",
+          "nickname": "henny7416",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/397450263100784641/e590e1a47f1276c0b11951ad961ae199.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1094088938399993887",
+      "type": "Call",
+      "timestamp": "2023-04-07T22:38:50.104-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-04-08T00:09:01.687-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 90 minutes.",
+      "author": {
+        "id": "310461617852645378",
+        "name": "mentally_sauced",
+        "discriminator": "0000",
+        "nickname": "deegs",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/310461617852645378/7a763dd29832dd972f5f445b3a8f5e38.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "306232534545596416",
+          "name": "kingslimefrfr",
+          "discriminator": "0000",
+          "nickname": "MYTOP5DRAKEDRAKEDRAKEDRAKEDRAKE",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/306232534545596416/908bfbda94aedf54e1fb819929b7b9c3.png?size=512"
+        },
+        {
+          "id": "397450263100784641",
+          "name": "henny7416",
+          "discriminator": "0000",
+          "nickname": "henny7416",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/397450263100784641/e590e1a47f1276c0b11951ad961ae199.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1094089161029460088",
+      "type": "Default",
+      "timestamp": "2023-04-07T22:39:43.183-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "u ready or need time",
+      "author": {
+        "id": "306232534545596416",
+        "name": "kingslimefrfr",
+        "discriminator": "0000",
+        "nickname": "MYTOP5DRAKEDRAKEDRAKEDRAKEDRAKE",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306232534545596416/908bfbda94aedf54e1fb819929b7b9c3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094110252401688617",
+      "type": "Default",
+      "timestamp": "2023-04-08T00:03:31.758-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bruh i got kicked out",
+      "author": {
+        "id": "397450263100784641",
+        "name": "henny7416",
+        "discriminator": "0000",
+        "nickname": "henny7416",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/397450263100784641/e590e1a47f1276c0b11951ad961ae199.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094110272177840162",
+      "type": "Default",
+      "timestamp": "2023-04-08T00:03:36.473-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "they don’t close at 12 anymore",
+      "author": {
+        "id": "397450263100784641",
+        "name": "henny7416",
+        "discriminator": "0000",
+        "nickname": "henny7416",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/397450263100784641/e590e1a47f1276c0b11951ad961ae199.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094110300543918080",
+      "type": "Default",
+      "timestamp": "2023-04-08T00:03:43.236-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "damn",
+      "author": {
+        "id": "310461617852645378",
+        "name": "mentally_sauced",
+        "discriminator": "0000",
+        "nickname": "deegs",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/310461617852645378/7a763dd29832dd972f5f445b3a8f5e38.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094110307812638750",
+      "type": "Default",
+      "timestamp": "2023-04-08T00:03:44.969-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "tough timing",
+      "author": {
+        "id": "310461617852645378",
+        "name": "mentally_sauced",
+        "discriminator": "0000",
+        "nickname": "deegs",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/310461617852645378/7a763dd29832dd972f5f445b3a8f5e38.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1101927393398112326",
+      "type": "Call",
+      "timestamp": "2023-04-29T13:46:03.407-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-04-29T18:17:29.047-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 271 minutes.",
+      "author": {
+        "id": "306232534545596416",
+        "name": "kingslimefrfr",
+        "discriminator": "0000",
+        "nickname": "MYTOP5DRAKEDRAKEDRAKEDRAKEDRAKE",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306232534545596416/908bfbda94aedf54e1fb819929b7b9c3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "397450263100784641",
+          "name": "henny7416",
+          "discriminator": "0000",
+          "nickname": "henny7416",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/397450263100784641/e590e1a47f1276c0b11951ad961ae199.png?size=512"
+        },
+        {
+          "id": "310461617852645378",
+          "name": "mentally_sauced",
+          "discriminator": "0000",
+          "nickname": "deegs",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/310461617852645378/7a763dd29832dd972f5f445b3a8f5e38.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1103839375550316565",
+      "type": "Default",
+      "timestamp": "2023-05-04T20:23:35.475-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sup bluds",
+      "author": {
+        "id": "397450263100784641",
+        "name": "henny7416",
+        "discriminator": "0000",
+        "nickname": "henny7416",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/397450263100784641/e590e1a47f1276c0b11951ad961ae199.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1103839382110224384",
+      "type": "Default",
+      "timestamp": "2023-05-04T20:23:37.039-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hop any1",
+      "author": {
+        "id": "397450263100784641",
+        "name": "henny7416",
+        "discriminator": "0000",
+        "nickname": "henny7416",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/397450263100784641/e590e1a47f1276c0b11951ad961ae199.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1103848147702251530",
+      "type": "Call",
+      "timestamp": "2023-05-04T20:58:26.919-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-05-05T01:26:03.524-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 268 minutes.",
+      "author": {
+        "id": "310461617852645378",
+        "name": "mentally_sauced",
+        "discriminator": "0000",
+        "nickname": "deegs",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/310461617852645378/7a763dd29832dd972f5f445b3a8f5e38.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "306232534545596416",
+          "name": "kingslimefrfr",
+          "discriminator": "0000",
+          "nickname": "MYTOP5DRAKEDRAKEDRAKEDRAKEDRAKE",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/306232534545596416/908bfbda94aedf54e1fb819929b7b9c3.png?size=512"
+        },
+        {
+          "id": "397450263100784641",
+          "name": "henny7416",
+          "discriminator": "0000",
+          "nickname": "henny7416",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/397450263100784641/e590e1a47f1276c0b11951ad961ae199.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1103848242342535269",
+      "type": "Default",
+      "timestamp": "2023-05-04T20:58:49.483-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Finishing shit 1 min",
+      "author": {
+        "id": "306232534545596416",
+        "name": "kingslimefrfr",
+        "discriminator": "0000",
+        "nickname": "MYTOP5DRAKEDRAKEDRAKEDRAKEDRAKE",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306232534545596416/908bfbda94aedf54e1fb819929b7b9c3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1103849041357439107",
+      "type": "Default",
+      "timestamp": "2023-05-04T21:01:59.983-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@henny7416",
+      "author": {
+        "id": "306232534545596416",
+        "name": "kingslimefrfr",
+        "discriminator": "0000",
+        "nickname": "MYTOP5DRAKEDRAKEDRAKEDRAKEDRAKE",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306232534545596416/908bfbda94aedf54e1fb819929b7b9c3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "397450263100784641",
+          "name": "henny7416",
+          "discriminator": "0000",
+          "nickname": "henny7416",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/397450263100784641/e590e1a47f1276c0b11951ad961ae199.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1103861212183273483",
+      "type": "RecipientAdd",
+      "timestamp": "2023-05-04T21:50:21.734-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added sabs to the group.",
+      "author": {
+        "id": "306232534545596416",
+        "name": "kingslimefrfr",
+        "discriminator": "0000",
+        "nickname": "MYTOP5DRAKEDRAKEDRAKEDRAKEDRAKE",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306232534545596416/908bfbda94aedf54e1fb819929b7b9c3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "664142058826629141",
+          "name": "sabs444",
+          "discriminator": "0000",
+          "nickname": "sabs",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+        }
+      ]
+    },
+    {
+      "id": "1103864292077473843",
+      "type": "RecipientAdd",
+      "timestamp": "2023-05-04T22:02:36.038-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added poat to the group.",
+      "author": {
+        "id": "664142058826629141",
+        "name": "sabs444",
+        "discriminator": "0000",
+        "nickname": "sabs",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1103864425477308447",
+      "type": "Default",
+      "timestamp": "2023-05-04T22:03:07.843-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sabs444",
+      "author": {
+        "id": "664142058826629141",
+        "name": "sabs444",
+        "discriminator": "0000",
+        "nickname": "sabs",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1103864473405624400",
+      "type": "Default",
+      "timestamp": "2023-05-04T22:03:19.27-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pass: sabs444sabs",
+      "author": {
+        "id": "664142058826629141",
+        "name": "sabs444",
+        "discriminator": "0000",
+        "nickname": "sabs",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 17
+}

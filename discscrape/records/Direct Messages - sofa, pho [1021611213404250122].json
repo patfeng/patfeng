@@ -1,0 +1,182 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1021611213404250122",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "sofa, pho",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:24:16.2516928-04:00",
+  "messages": [
+    {
+      "id": "1021611213404250123",
+      "type": "RecipientAdd",
+      "timestamp": "2022-09-19T22:38:13.894-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added pho to the group.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "361322076973563915",
+          "name": "pho9182",
+          "discriminator": "0000",
+          "nickname": "pho",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/361322076973563915/d84e17c991615d43cb87a7312e34ab1e.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1021611213840461844",
+      "type": "Call",
+      "timestamp": "2022-09-19T22:38:13.998-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-09-20T00:22:16.107-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 104 minutes.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "361322076973563915",
+          "name": "pho9182",
+          "discriminator": "0000",
+          "nickname": "pho",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/361322076973563915/d84e17c991615d43cb87a7312e34ab1e.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1021618119132852264",
+      "type": "Default",
+      "timestamp": "2022-09-19T23:05:40.348-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "∃x∈R,x2+1>9.\n\nNOTE THAT THERE IS JUST ONE ATTEMPT ALLOWED AT THIS QUESTION!!!!\n\nA. A.∃x∈R,x2+1≤9\nB. B.∀x∈R,x2+1>9\nC. C.∀x∈R,x2+1≤9\nD. D. None of these",
+      "author": {
+        "id": "361322076973563915",
+        "name": "pho9182",
+        "discriminator": "0000",
+        "nickname": "pho",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/361322076973563915/d84e17c991615d43cb87a7312e34ab1e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1021618400167989298",
+      "type": "Default",
+      "timestamp": "2022-09-19T23:06:47.352-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "361322076973563915",
+        "name": "pho9182",
+        "discriminator": "0000",
+        "nickname": "pho",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/361322076973563915/d84e17c991615d43cb87a7312e34ab1e.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1021618399744376902",
+          "url": "https://cdn.discordapp.com/attachments/1021611213404250122/1021618399744376902/unknown.png?ex=661deb47&is=660b7647&hm=b44d707355bec1aca11e3ec3041370dfdf52f3838dfcbe8d11a0592a0028181a&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 26994
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1021621191905120377",
+      "type": "Default",
+      "timestamp": "2022-09-19T23:17:52.954-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "baji#Pho",
+      "author": {
+        "id": "361322076973563915",
+        "name": "pho9182",
+        "discriminator": "0000",
+        "nickname": "pho",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/361322076973563915/d84e17c991615d43cb87a7312e34ab1e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 5
+}

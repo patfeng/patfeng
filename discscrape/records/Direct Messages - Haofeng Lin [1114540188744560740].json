@@ -1,0 +1,71 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1114540188744560740",
+    "type": "DirectTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "Haofeng Lin",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:25:48.8346567-04:00",
+  "messages": [
+    {
+      "id": "1114540358618067115",
+      "type": "Default",
+      "timestamp": "2023-06-03T09:05:28.653-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Good morning！I’m afraid I need to ask for leave today.",
+      "author": {
+        "id": "1113083819923345469",
+        "name": "hfl3004",
+        "discriminator": "0000",
+        "nickname": "Haofeng Lin",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1113083819923345469/6748055a5ff21550abc96c74c9a66bd8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1114542914941485066",
+      "type": "Default",
+      "timestamp": "2023-06-03T09:15:38.128-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no worries. thanks for letting us know",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

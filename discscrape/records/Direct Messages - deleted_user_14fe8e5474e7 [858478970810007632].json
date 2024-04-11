@@ -1,0 +1,383 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "858478970810007632",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "deleted_user_14fe8e5474e7",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:22:10.7637224-04:00",
+  "messages": [
+    {
+      "id": "858478970810007633",
+      "type": "RecipientAdd",
+      "timestamp": "2021-06-26T18:48:56.409-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added poat to the group.",
+      "author": {
+        "id": "280878730593959939",
+        "name": "nutsplaining",
+        "discriminator": "0000",
+        "nickname": "Megan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/280878730593959939/b58a8f0730d3ffd4ed9697500ee5f37d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "858478971649392651",
+      "type": "Call",
+      "timestamp": "2021-06-26T18:48:56.609-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2021-06-26T22:20:47.532-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 212 minutes.",
+      "author": {
+        "id": "280878730593959939",
+        "name": "nutsplaining",
+        "discriminator": "0000",
+        "nickname": "Megan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/280878730593959939/b58a8f0730d3ffd4ed9697500ee5f37d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "303383006444257281",
+          "name": "krysssskryssss",
+          "discriminator": "0000",
+          "nickname": "krysssskryssss",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/303383006444257281/b3f0905ea882d03dcaa0c7d26cb62d02.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "858479371001004102",
+      "type": "Default",
+      "timestamp": "2021-06-26T18:50:31.822-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "peebpoob.minehut.gg",
+      "author": {
+        "id": "303383006444257281",
+        "name": "krysssskryssss",
+        "discriminator": "0000",
+        "nickname": "krysssskryssss",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303383006444257281/b3f0905ea882d03dcaa0c7d26cb62d02.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "858489024585662495",
+      "type": "Default",
+      "timestamp": "2021-06-26T19:28:53.416-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "280878730593959939",
+        "name": "nutsplaining",
+        "discriminator": "0000",
+        "nickname": "Megan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/280878730593959939/b58a8f0730d3ffd4ed9697500ee5f37d.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "858489024285245481",
+          "url": "https://cdn.discordapp.com/attachments/858478970810007632/858489024285245481/image0.png?ex=66244fb5&is=6611dab5&hm=8a6e1b633025e8943da8896bb4b670fae5b5a43ca269a088a73ee7e6d2c92978&",
+          "fileName": "image0.png",
+          "fileSizeBytes": 824215
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "858520637852483606",
+      "type": "Default",
+      "timestamp": "2021-06-26T21:34:30.606-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "megan u sussy baka",
+      "author": {
+        "id": "303383006444257281",
+        "name": "krysssskryssss",
+        "discriminator": "0000",
+        "nickname": "krysssskryssss",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303383006444257281/b3f0905ea882d03dcaa0c7d26cb62d02.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "858520656039116811",
+      "type": "Default",
+      "timestamp": "2021-06-26T21:34:34.942-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "patric u are very sussy baka",
+      "author": {
+        "id": "303383006444257281",
+        "name": "krysssskryssss",
+        "discriminator": "0000",
+        "nickname": "krysssskryssss",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303383006444257281/b3f0905ea882d03dcaa0c7d26cb62d02.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "858520677077221376",
+      "type": "Default",
+      "timestamp": "2021-06-26T21:34:39.958-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "why",
+      "author": {
+        "id": "280878730593959939",
+        "name": "nutsplaining",
+        "discriminator": "0000",
+        "nickname": "Megan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/280878730593959939/b58a8f0730d3ffd4ed9697500ee5f37d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "858520733054664715",
+      "type": "Default",
+      "timestamp": "2021-06-26T21:34:53.304-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "teehee *pees*",
+      "author": {
+        "id": "303383006444257281",
+        "name": "krysssskryssss",
+        "discriminator": "0000",
+        "nickname": "krysssskryssss",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303383006444257281/b3f0905ea882d03dcaa0c7d26cb62d02.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "858522107805433876",
+      "type": "RecipientAdd",
+      "timestamp": "2021-06-26T21:40:21.07-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added Deleted User to the group.",
+      "author": {
+        "id": "280878730593959939",
+        "name": "nutsplaining",
+        "discriminator": "0000",
+        "nickname": "Megan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/280878730593959939/b58a8f0730d3ffd4ed9697500ee5f37d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ]
+    },
+    {
+      "id": "858522157771128832",
+      "type": "Default",
+      "timestamp": "2021-06-26T21:40:32.983-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "peebpoob.minehut.gg",
+      "author": {
+        "id": "280878730593959939",
+        "name": "nutsplaining",
+        "discriminator": "0000",
+        "nickname": "Megan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/280878730593959939/b58a8f0730d3ffd4ed9697500ee5f37d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "858579903863455754",
+      "type": "RecipientRemove",
+      "timestamp": "2021-06-27T01:30:00.724-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Left the group.",
+      "author": {
+        "id": "280878730593959939",
+        "name": "nutsplaining",
+        "discriminator": "0000",
+        "nickname": "Megan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/280878730593959939/b58a8f0730d3ffd4ed9697500ee5f37d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "280878730593959939",
+          "name": "nutsplaining",
+          "discriminator": "0000",
+          "nickname": "Megan",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/280878730593959939/b58a8f0730d3ffd4ed9697500ee5f37d.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "868965933086015578",
+      "type": "RecipientRemove",
+      "timestamp": "2021-07-25T17:20:23.054-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Left the group.",
+      "author": {
+        "id": "303383006444257281",
+        "name": "krysssskryssss",
+        "discriminator": "0000",
+        "nickname": "krysssskryssss",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303383006444257281/b3f0905ea882d03dcaa0c7d26cb62d02.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "303383006444257281",
+          "name": "krysssskryssss",
+          "discriminator": "0000",
+          "nickname": "krysssskryssss",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/303383006444257281/b3f0905ea882d03dcaa0c7d26cb62d02.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 12
+}

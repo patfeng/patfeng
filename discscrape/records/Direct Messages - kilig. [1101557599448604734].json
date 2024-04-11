@@ -1,0 +1,95 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1101557599448604734",
+    "type": "DirectTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "kilig.",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:25:06.1981041-04:00",
+  "messages": [
+    {
+      "id": "1101557692104974396",
+      "type": "Default",
+      "timestamp": "2023-04-28T13:16:59.75-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "LOG ONTO VAL AND ACCEPT THE BINGO BONGO REQUEST TODAY IS LAST DAY",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1101589432223662132",
+      "type": "Default",
+      "timestamp": "2023-04-28T15:23:07.184-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "OKAI",
+      "author": {
+        "id": "820712342551396392",
+        "name": "kilig.",
+        "discriminator": "0000",
+        "nickname": "kilig.",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/820712342551396392/e59c4b1b9adf7e6951ebcdd25b801d48.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1101680564936904814",
+      "type": "Default",
+      "timestamp": "2023-04-28T21:25:14.916-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ACCEPT THE INVITE U HAVE 2 HOURS AHHHHHHHHH",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 3
+}

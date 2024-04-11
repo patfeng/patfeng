@@ -1,0 +1,375 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1073348896203489350",
+    "type": "DirectTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "jas",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:24:44.247522-04:00",
+  "messages": [
+    {
+      "id": "1073348917447622656",
+      "type": "Call",
+      "timestamp": "2023-02-09T16:05:23.778-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-02-09T17:24:32.436-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 79 minutes.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1064990358188073041",
+          "name": "yujasminen",
+          "discriminator": "0000",
+          "nickname": "jas",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1064990358188073041/4d6955aee50a6d9db87128a997a6be2a.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1073348975542948001",
+      "type": "Default",
+      "timestamp": "2023-02-09T16:05:37.629-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1064990358188073041",
+        "name": "yujasminen",
+        "discriminator": "0000",
+        "nickname": "jas",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1064990358188073041/4d6955aee50a6d9db87128a997a6be2a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "749054660769218631",
+          "name": "Wave",
+          "format": "Lottie",
+          "sourceUrl": "https://cdn.discordapp.com/stickers/749054660769218631.json"
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1077021510969085952",
+      "type": "Call",
+      "timestamp": "2023-02-19T19:18:58.307-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-02-19T19:19:39.035-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 1 minutes.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1064990358188073041",
+          "name": "yujasminen",
+          "discriminator": "0000",
+          "nickname": "jas",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1064990358188073041/4d6955aee50a6d9db87128a997a6be2a.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1077021812526944268",
+      "type": "Call",
+      "timestamp": "2023-02-19T19:20:10.204-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-02-19T19:43:26.804-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 23 minutes.",
+      "author": {
+        "id": "1064990358188073041",
+        "name": "yujasminen",
+        "discriminator": "0000",
+        "nickname": "jas",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1064990358188073041/4d6955aee50a6d9db87128a997a6be2a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1077736825831030794",
+      "type": "Call",
+      "timestamp": "2023-02-21T18:41:22.66-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-02-21T19:14:34.082-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 33 minutes.",
+      "author": {
+        "id": "1064990358188073041",
+        "name": "yujasminen",
+        "discriminator": "0000",
+        "nickname": "jas",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1064990358188073041/4d6955aee50a6d9db87128a997a6be2a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1077737731318358157",
+      "type": "Default",
+      "timestamp": "2023-02-21T18:44:58.545-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://checkmate.marriagepact.com/invite?firstName=Pat&lastName=Feng&code=1DLtly",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://checkmate.marriagepact.com/invite?firstName=Pat&lastName=Feng&code=1DLtly",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/7Jle7OuDOfY7AzHmIecSdobl0IrSD9EruD4MViAJIbI/%3FfirstName%3DPat%26lastName%3DFeng%26code%3D1DLtly/https/checkmate.marriagepact.com/api/invite-meta-image",
+            "width": 400,
+            "height": 490
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1123442584862339072",
+      "type": "Call",
+      "timestamp": "2023-06-27T22:39:44.785-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-06-27T23:19:49.524-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 40 minutes.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1064990358188073041",
+          "name": "yujasminen",
+          "discriminator": "0000",
+          "nickname": "jas",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1064990358188073041/4d6955aee50a6d9db87128a997a6be2a.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1127696647346995330",
+      "type": "Call",
+      "timestamp": "2023-07-09T16:23:52.318-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-07-09T17:42:46.415-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 79 minutes.",
+      "author": {
+        "id": "1064990358188073041",
+        "name": "yujasminen",
+        "discriminator": "0000",
+        "nickname": "jas",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1064990358188073041/4d6955aee50a6d9db87128a997a6be2a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1127698065889960128",
+      "type": "Default",
+      "timestamp": "2023-07-09T16:29:30.525-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://smvcalculator.com/",
+      "author": {
+        "id": "1064990358188073041",
+        "name": "yujasminen",
+        "discriminator": "0000",
+        "nickname": "jas",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1064990358188073041/4d6955aee50a6d9db87128a997a6be2a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SMV Calculator",
+          "url": "https://smvcalculator.com/",
+          "timestamp": null,
+          "description": "Calculate your Sexual Market Value (SMV) or Dating Market Value using this SMV calculator. Works for both men (males) and women (females)",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/9sAIJrPGSJVgbB7jTQZpYomcsXI8KvHMok7pfZC8IbQ/https/smvcalculator.com/images/smv_logo.jpg",
+            "width": 321,
+            "height": 321
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1148356706531823716",
+      "type": "Call",
+      "timestamp": "2023-09-04T16:39:34.273-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-09-04T17:11:25.248-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 32 minutes.",
+      "author": {
+        "id": "1064990358188073041",
+        "name": "yujasminen",
+        "discriminator": "0000",
+        "nickname": "jas",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1064990358188073041/4d6955aee50a6d9db87128a997a6be2a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 10
+}

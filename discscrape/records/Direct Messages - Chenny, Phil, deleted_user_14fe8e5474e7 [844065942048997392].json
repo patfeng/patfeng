@@ -1,0 +1,560 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "844065942048997392",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "Chenny, Phil, deleted_user_14fe8e5474e7",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:22:01.5823402-04:00",
+  "messages": [
+    {
+      "id": "844065942048997393",
+      "type": "RecipientAdd",
+      "timestamp": "2021-05-18T00:16:42.571-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added Deleted User to the group.",
+      "author": {
+        "id": "251826007294607360",
+        "name": "happyasianlee",
+        "discriminator": "0000",
+        "nickname": "Phil",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/251826007294607360/b40bf01e3cd5d6bb080bffc2e815b45c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ]
+    },
+    {
+      "id": "844065943046586378",
+      "type": "Call",
+      "timestamp": "2021-05-18T00:16:42.809-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2021-05-18T02:32:13.045-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 136 minutes.",
+      "author": {
+        "id": "251826007294607360",
+        "name": "happyasianlee",
+        "discriminator": "0000",
+        "nickname": "Phil",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/251826007294607360/b40bf01e3cd5d6bb080bffc2e815b45c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "391421412830740490",
+          "name": "chenny4275",
+          "discriminator": "0000",
+          "nickname": "Chenny",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/391421412830740490/8ea2a01f1f99b28ee234e6f4ec4879ed.png?size=512"
+        },
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ]
+    },
+    {
+      "id": "844071217346773003",
+      "type": "RecipientAdd",
+      "timestamp": "2021-05-18T00:37:40.3-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added poat to the group.",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "844071436868255785",
+      "type": "Default",
+      "timestamp": "2021-05-18T00:38:32.638-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/700076891822096404/838631347195084810/image0.png",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/700076891822096404/838631347195084810/image0.png",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/700076891822096404/838631347195084810/image0.png?ex=6625e5ce&is=661370ce&hm=4855bad0dbc6aa63ed1dfee3260d240fec4c3a4df8ab5b3a04ee4e76df3fb6fa&",
+            "width": 1095,
+            "height": 1785
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "844071564034179072",
+      "type": "Default",
+      "timestamp": "2021-05-18T00:39:02.957-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "asdf",
+      "author": {
+        "id": "251826007294607360",
+        "name": "happyasianlee",
+        "discriminator": "0000",
+        "nickname": "Phil",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/251826007294607360/b40bf01e3cd5d6bb080bffc2e815b45c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "844071565233487903",
+      "type": "Default",
+      "timestamp": "2021-05-18T00:39:03.243-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "asdf",
+      "author": {
+        "id": "251826007294607360",
+        "name": "happyasianlee",
+        "discriminator": "0000",
+        "nickname": "Phil",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/251826007294607360/b40bf01e3cd5d6bb080bffc2e815b45c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "844071567113322517",
+      "type": "Default",
+      "timestamp": "2021-05-18T00:39:03.691-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "asdf",
+      "author": {
+        "id": "251826007294607360",
+        "name": "happyasianlee",
+        "discriminator": "0000",
+        "nickname": "Phil",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/251826007294607360/b40bf01e3cd5d6bb080bffc2e815b45c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "844071567835267074",
+      "type": "Default",
+      "timestamp": "2021-05-18T00:39:03.863-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "asdf",
+      "author": {
+        "id": "251826007294607360",
+        "name": "happyasianlee",
+        "discriminator": "0000",
+        "nickname": "Phil",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/251826007294607360/b40bf01e3cd5d6bb080bffc2e815b45c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "844071569520328714",
+      "type": "Default",
+      "timestamp": "2021-05-18T00:39:04.265-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "asdf",
+      "author": {
+        "id": "251826007294607360",
+        "name": "happyasianlee",
+        "discriminator": "0000",
+        "nickname": "Phil",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/251826007294607360/b40bf01e3cd5d6bb080bffc2e815b45c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "844071570640207882",
+      "type": "Default",
+      "timestamp": "2021-05-18T00:39:04.532-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "asdf",
+      "author": {
+        "id": "251826007294607360",
+        "name": "happyasianlee",
+        "discriminator": "0000",
+        "nickname": "Phil",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/251826007294607360/b40bf01e3cd5d6bb080bffc2e815b45c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "844071571865337856",
+      "type": "Default",
+      "timestamp": "2021-05-18T00:39:04.824-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "asdf",
+      "author": {
+        "id": "251826007294607360",
+        "name": "happyasianlee",
+        "discriminator": "0000",
+        "nickname": "Phil",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/251826007294607360/b40bf01e3cd5d6bb080bffc2e815b45c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "844071573094137866",
+      "type": "Default",
+      "timestamp": "2021-05-18T00:39:05.117-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "asdf",
+      "author": {
+        "id": "251826007294607360",
+        "name": "happyasianlee",
+        "discriminator": "0000",
+        "nickname": "Phil",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/251826007294607360/b40bf01e3cd5d6bb080bffc2e815b45c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "844071574441033748",
+      "type": "Default",
+      "timestamp": "2021-05-18T00:39:05.438-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "asdf",
+      "author": {
+        "id": "251826007294607360",
+        "name": "happyasianlee",
+        "discriminator": "0000",
+        "nickname": "Phil",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/251826007294607360/b40bf01e3cd5d6bb080bffc2e815b45c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "844071575380688909",
+      "type": "Default",
+      "timestamp": "2021-05-18T00:39:05.662-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "asdf",
+      "author": {
+        "id": "251826007294607360",
+        "name": "happyasianlee",
+        "discriminator": "0000",
+        "nickname": "Phil",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/251826007294607360/b40bf01e3cd5d6bb080bffc2e815b45c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "844071606112092211",
+      "type": "Default",
+      "timestamp": "2021-05-18T00:39:12.989-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "asd",
+      "author": {
+        "id": "251826007294607360",
+        "name": "happyasianlee",
+        "discriminator": "0000",
+        "nickname": "Phil",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/251826007294607360/b40bf01e3cd5d6bb080bffc2e815b45c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "844071606674391040",
+      "type": "Default",
+      "timestamp": "2021-05-18T00:39:13.123-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fasd",
+      "author": {
+        "id": "251826007294607360",
+        "name": "happyasianlee",
+        "discriminator": "0000",
+        "nickname": "Phil",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/251826007294607360/b40bf01e3cd5d6bb080bffc2e815b45c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "844071607143104542",
+      "type": "Default",
+      "timestamp": "2021-05-18T00:39:13.235-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fasd",
+      "author": {
+        "id": "251826007294607360",
+        "name": "happyasianlee",
+        "discriminator": "0000",
+        "nickname": "Phil",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/251826007294607360/b40bf01e3cd5d6bb080bffc2e815b45c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "844071607697932329",
+      "type": "Default",
+      "timestamp": "2021-05-18T00:39:13.367-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fasdf",
+      "author": {
+        "id": "251826007294607360",
+        "name": "happyasianlee",
+        "discriminator": "0000",
+        "nickname": "Phil",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/251826007294607360/b40bf01e3cd5d6bb080bffc2e815b45c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "844071608251580416",
+      "type": "Default",
+      "timestamp": "2021-05-18T00:39:13.499-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "asdf",
+      "author": {
+        "id": "251826007294607360",
+        "name": "happyasianlee",
+        "discriminator": "0000",
+        "nickname": "Phil",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/251826007294607360/b40bf01e3cd5d6bb080bffc2e815b45c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "844071608666423296",
+      "type": "Default",
+      "timestamp": "2021-05-18T00:39:13.598-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "asdf",
+      "author": {
+        "id": "251826007294607360",
+        "name": "happyasianlee",
+        "discriminator": "0000",
+        "nickname": "Phil",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/251826007294607360/b40bf01e3cd5d6bb080bffc2e815b45c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 20
+}

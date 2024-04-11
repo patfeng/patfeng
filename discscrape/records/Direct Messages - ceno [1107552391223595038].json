@@ -1,0 +1,102 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1107552391223595038",
+    "type": "DirectTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "ceno",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:25:31.8046961-04:00",
+  "messages": [
+    {
+      "id": "1144331690177740840",
+      "type": "Default",
+      "timestamp": "2023-08-24T14:05:35.593-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "725408500976713761",
+        "name": "ceno.",
+        "discriminator": "0000",
+        "nickname": "ceno",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/725408500976713761/68356a6852918d15758c8ae8d48efe05.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "749054660769218631",
+          "name": "Wave",
+          "format": "Lottie",
+          "sourceUrl": "https://cdn.discordapp.com/stickers/749054660769218631.json"
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1144331722759090307",
+      "type": "Default",
+      "timestamp": "2023-08-24T14:05:43.361-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "happy bday\uD83E\uDD73",
+      "author": {
+        "id": "725408500976713761",
+        "name": "ceno.",
+        "discriminator": "0000",
+        "nickname": "ceno",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/725408500976713761/68356a6852918d15758c8ae8d48efe05.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1144436665822216243",
+      "type": "Default",
+      "timestamp": "2023-08-24T21:02:43.737-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ty :)))))",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 3
+}

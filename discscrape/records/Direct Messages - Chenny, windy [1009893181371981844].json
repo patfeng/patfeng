@@ -1,0 +1,103 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1009893181371981844",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "Chenny, windy",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:24:09.9149334-04:00",
+  "messages": [
+    {
+      "id": "1009893181371981845",
+      "type": "RecipientAdd",
+      "timestamp": "2022-08-18T14:34:57.347-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added Chenny to the group.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "391421412830740490",
+          "name": "chenny4275",
+          "discriminator": "0000",
+          "nickname": "Chenny",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/391421412830740490/8ea2a01f1f99b28ee234e6f4ec4879ed.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1009893182017908817",
+      "type": "Call",
+      "timestamp": "2022-08-18T14:34:57.501-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-08-18T15:04:28.525-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 30 minutes.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "450114803005128744",
+          "name": "windyful",
+          "discriminator": "0000",
+          "nickname": "windy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/450114803005128744/20d25104744c02430fb0551ee847d303.png?size=512"
+        },
+        {
+          "id": "391421412830740490",
+          "name": "chenny4275",
+          "discriminator": "0000",
+          "nickname": "Chenny",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/391421412830740490/8ea2a01f1f99b28ee234e6f4ec4879ed.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 2
+}

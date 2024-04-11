@@ -1,0 +1,1372 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1040154907430375425",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "dxckiii, brandocito, procrastinasian, Ky, rin, tavian, enzo",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:24:23.6042421-04:00",
+  "messages": [
+    {
+      "id": "1040154930364825660",
+      "type": "Default",
+      "timestamp": "2022-11-10T01:44:20.543-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "add TOOMF in here",
+      "author": {
+        "id": "466321983303581696",
+        "name": "dxckiii",
+        "discriminator": "0000",
+        "nickname": "dxckiii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040154953437683724",
+      "type": "Call",
+      "timestamp": "2022-11-10T01:44:26.044-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-11-10T04:31:00.842-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 167 minutes.",
+      "author": {
+        "id": "518281993893707776",
+        "name": "brandocito",
+        "discriminator": "0000",
+        "nickname": "brandocito",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/518281993893707776/b35546a9252628849400b7262caddca1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "466321983303581696",
+          "name": "dxckiii",
+          "discriminator": "0000",
+          "nickname": "dxckiii",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+        },
+        {
+          "id": "676293026825502744",
+          "name": "enzo_enchilada",
+          "discriminator": "0000",
+          "nickname": "enzo",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/676293026825502744/27b3764327dbb43bddb6522aaaf45423.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1040164048458747934",
+      "type": "RecipientAdd",
+      "timestamp": "2022-11-10T02:20:34.466-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added tavian to the group.",
+      "author": {
+        "id": "518281993893707776",
+        "name": "brandocito",
+        "discriminator": "0000",
+        "nickname": "brandocito",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/518281993893707776/b35546a9252628849400b7262caddca1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "458644287425609758",
+          "name": "tavian0811",
+          "discriminator": "0000",
+          "nickname": "tavian",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/458644287425609758/52aa1bc7269a3b391cdd2602677287d2.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1040164095279759371",
+      "type": "RecipientAdd",
+      "timestamp": "2022-11-10T02:20:45.629-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added procrastinasian to the group.",
+      "author": {
+        "id": "466321983303581696",
+        "name": "dxckiii",
+        "discriminator": "0000",
+        "nickname": "dxckiii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "167499505867030530",
+          "name": "procrastinasian",
+          "discriminator": "0000",
+          "nickname": "procrastinasian",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/167499505867030530/a_e7a06242c0b7234a1d9412ee7dd4f816.gif?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1040164342949220382",
+      "type": "RecipientAdd",
+      "timestamp": "2022-11-10T02:21:44.678-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added Ky to the group.",
+      "author": {
+        "id": "167499505867030530",
+        "name": "procrastinasian",
+        "discriminator": "0000",
+        "nickname": "procrastinasian",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/167499505867030530/a_e7a06242c0b7234a1d9412ee7dd4f816.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "324364315501133854",
+          "name": "honest_flamingo_79340",
+          "discriminator": "0000",
+          "nickname": "Ky",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/324364315501133854/d54fddce3901228e9c6fa617981b2023.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1040164344199139368",
+      "type": "RecipientAdd",
+      "timestamp": "2022-11-10T02:21:44.976-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added rin to the group.",
+      "author": {
+        "id": "167499505867030530",
+        "name": "procrastinasian",
+        "discriminator": "0000",
+        "nickname": "procrastinasian",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/167499505867030530/a_e7a06242c0b7234a1d9412ee7dd4f816.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "652257938207146000",
+          "name": "uzu222",
+          "discriminator": "0000",
+          "nickname": "rin",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/652257938207146000/2ad19d9848bd3932202bf72b2489b168.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1040164344685662248",
+      "type": "RecipientAdd",
+      "timestamp": "2022-11-10T02:21:45.092-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added brenda to the group.",
+      "author": {
+        "id": "167499505867030530",
+        "name": "procrastinasian",
+        "discriminator": "0000",
+        "nickname": "procrastinasian",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/167499505867030530/a_e7a06242c0b7234a1d9412ee7dd4f816.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "488053437498392576",
+          "name": "ko9mis",
+          "discriminator": "0000",
+          "nickname": "brenda",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/488053437498392576/72ad8054577e09e872530cb088166a7f.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1040164345298034768",
+      "type": "RecipientAdd",
+      "timestamp": "2022-11-10T02:21:45.238-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added poat to the group.",
+      "author": {
+        "id": "167499505867030530",
+        "name": "procrastinasian",
+        "discriminator": "0000",
+        "nickname": "procrastinasian",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/167499505867030530/a_e7a06242c0b7234a1d9412ee7dd4f816.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1043034758822756412",
+      "type": "Call",
+      "timestamp": "2022-11-18T00:27:45.152-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-11-18T00:27:50.599-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 0 minutes.",
+      "author": {
+        "id": "458644287425609758",
+        "name": "tavian0811",
+        "discriminator": "0000",
+        "nickname": "tavian",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458644287425609758/52aa1bc7269a3b391cdd2602677287d2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "466321983303581696",
+          "name": "dxckiii",
+          "discriminator": "0000",
+          "nickname": "dxckiii",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+        },
+        {
+          "id": "167499505867030530",
+          "name": "procrastinasian",
+          "discriminator": "0000",
+          "nickname": "procrastinasian",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/167499505867030530/a_e7a06242c0b7234a1d9412ee7dd4f816.gif?size=512"
+        },
+        {
+          "id": "488053437498392576",
+          "name": "ko9mis",
+          "discriminator": "0000",
+          "nickname": "brenda",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/488053437498392576/72ad8054577e09e872530cb088166a7f.png?size=512"
+        },
+        {
+          "id": "518281993893707776",
+          "name": "brandocito",
+          "discriminator": "0000",
+          "nickname": "brandocito",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/518281993893707776/b35546a9252628849400b7262caddca1.png?size=512"
+        },
+        {
+          "id": "652257938207146000",
+          "name": "uzu222",
+          "discriminator": "0000",
+          "nickname": "rin",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/652257938207146000/2ad19d9848bd3932202bf72b2489b168.png?size=512"
+        },
+        {
+          "id": "676293026825502744",
+          "name": "enzo_enchilada",
+          "discriminator": "0000",
+          "nickname": "enzo",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/676293026825502744/27b3764327dbb43bddb6522aaaf45423.png?size=512"
+        },
+        {
+          "id": "324364315501133854",
+          "name": "honest_flamingo_79340",
+          "discriminator": "0000",
+          "nickname": "Ky",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/324364315501133854/d54fddce3901228e9c6fa617981b2023.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1043034792159084575",
+      "type": "Call",
+      "timestamp": "2022-11-18T00:27:53.1-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-11-18T00:27:56.874-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 0 minutes.",
+      "author": {
+        "id": "518281993893707776",
+        "name": "brandocito",
+        "discriminator": "0000",
+        "nickname": "brandocito",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/518281993893707776/b35546a9252628849400b7262caddca1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "466321983303581696",
+          "name": "dxckiii",
+          "discriminator": "0000",
+          "nickname": "dxckiii",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+        },
+        {
+          "id": "167499505867030530",
+          "name": "procrastinasian",
+          "discriminator": "0000",
+          "nickname": "procrastinasian",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/167499505867030530/a_e7a06242c0b7234a1d9412ee7dd4f816.gif?size=512"
+        },
+        {
+          "id": "488053437498392576",
+          "name": "ko9mis",
+          "discriminator": "0000",
+          "nickname": "brenda",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/488053437498392576/72ad8054577e09e872530cb088166a7f.png?size=512"
+        },
+        {
+          "id": "652257938207146000",
+          "name": "uzu222",
+          "discriminator": "0000",
+          "nickname": "rin",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/652257938207146000/2ad19d9848bd3932202bf72b2489b168.png?size=512"
+        },
+        {
+          "id": "458644287425609758",
+          "name": "tavian0811",
+          "discriminator": "0000",
+          "nickname": "tavian",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/458644287425609758/52aa1bc7269a3b391cdd2602677287d2.png?size=512"
+        },
+        {
+          "id": "676293026825502744",
+          "name": "enzo_enchilada",
+          "discriminator": "0000",
+          "nickname": "enzo",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/676293026825502744/27b3764327dbb43bddb6522aaaf45423.png?size=512"
+        },
+        {
+          "id": "324364315501133854",
+          "name": "honest_flamingo_79340",
+          "discriminator": "0000",
+          "nickname": "Ky",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/324364315501133854/d54fddce3901228e9c6fa617981b2023.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1043035350924275762",
+      "type": "Default",
+      "timestamp": "2022-11-18T00:30:06.32-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hello???",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043048634415058985",
+      "type": "Default",
+      "timestamp": "2022-11-18T01:22:53.351-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It twas an accident omg",
+      "author": {
+        "id": "518281993893707776",
+        "name": "brandocito",
+        "discriminator": "0000",
+        "nickname": "brandocito",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/518281993893707776/b35546a9252628849400b7262caddca1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043048640412917760",
+      "type": "Default",
+      "timestamp": "2022-11-18T01:22:54.781-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "911",
+      "author": {
+        "id": "518281993893707776",
+        "name": "brandocito",
+        "discriminator": "0000",
+        "nickname": "brandocito",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/518281993893707776/b35546a9252628849400b7262caddca1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043048647945895976",
+      "type": "Default",
+      "timestamp": "2022-11-18T01:22:56.577-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Was bad",
+      "author": {
+        "id": "518281993893707776",
+        "name": "brandocito",
+        "discriminator": "0000",
+        "nickname": "brandocito",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/518281993893707776/b35546a9252628849400b7262caddca1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043077777391353856",
+      "type": "Default",
+      "timestamp": "2022-11-18T03:18:41.578-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "WOOOOOO",
+      "author": {
+        "id": "167499505867030530",
+        "name": "procrastinasian",
+        "discriminator": "0000",
+        "nickname": "procrastinasian",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/167499505867030530/a_e7a06242c0b7234a1d9412ee7dd4f816.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043205232374583346",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:45:09.214-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "JUST CHUGGED PREWORKOUT ON ACCIDENT THINKING IT WAS IV WATER",
+      "author": {
+        "id": "466321983303581696",
+        "name": "dxckiii",
+        "discriminator": "0000",
+        "nickname": "dxckiii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043205275382972446",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:45:19.468-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@brandocito YOU WILL RUE THE DAY",
+      "author": {
+        "id": "466321983303581696",
+        "name": "dxckiii",
+        "discriminator": "0000",
+        "nickname": "dxckiii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "518281993893707776",
+          "name": "brandocito",
+          "discriminator": "0000",
+          "nickname": "brandocito",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/518281993893707776/b35546a9252628849400b7262caddca1.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1043205396975857715",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:45:48.458-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh mama ur abt to have a heart attack",
+      "author": {
+        "id": "167499505867030530",
+        "name": "procrastinasian",
+        "discriminator": "0000",
+        "nickname": "procrastinasian",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/167499505867030530/a_e7a06242c0b7234a1d9412ee7dd4f816.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043205431188795433",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:45:56.615-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and shit ur pants :EMgiggle:",
+      "author": {
+        "id": "167499505867030530",
+        "name": "procrastinasian",
+        "discriminator": "0000",
+        "nickname": "procrastinasian",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/167499505867030530/a_e7a06242c0b7234a1d9412ee7dd4f816.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043205574617215116",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:46:30.811-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "girk i forgot this was not actual pedialyte we were using a preworkout mix as a chaser",
+      "author": {
+        "id": "466321983303581696",
+        "name": "dxckiii",
+        "discriminator": "0000",
+        "nickname": "dxckiii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1043205574088720455",
+          "url": "https://cdn.discordapp.com/attachments/1040154907430375425/1043205574088720455/0C338378-1CA5-4E13-A362-DA53EA69CCA7.jpg?ex=66229fe6&is=66102ae6&hm=7f78283b300f098467e3c4a5612f67a0f2f3be870ca842266326a3879d560690&",
+          "fileName": "0C338378-1CA5-4E13-A362-DA53EA69CCA7.jpg",
+          "fileSizeBytes": 3892161
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043205615394230322",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:46:40.533-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i CHUGGED THE FUCK OUTTA THIS THINKING I WAS SAVING MY LIFE",
+      "author": {
+        "id": "466321983303581696",
+        "name": "dxckiii",
+        "discriminator": "0000",
+        "nickname": "dxckiii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043205629008945213",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:46:43.779-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "now i’m bout to die",
+      "author": {
+        "id": "466321983303581696",
+        "name": "dxckiii",
+        "discriminator": "0000",
+        "nickname": "dxckiii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043205641356984471",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:46:46.723-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "LMFAOO",
+      "author": {
+        "id": "167499505867030530",
+        "name": "procrastinasian",
+        "discriminator": "0000",
+        "nickname": "procrastinasian",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/167499505867030530/a_e7a06242c0b7234a1d9412ee7dd4f816.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043205646885072956",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:46:48.041-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it’s been real",
+      "author": {
+        "id": "466321983303581696",
+        "name": "dxckiii",
+        "discriminator": "0000",
+        "nickname": "dxckiii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043205706171560056",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:47:02.176-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nick i’m shaking like a hooker",
+      "author": {
+        "id": "466321983303581696",
+        "name": "dxckiii",
+        "discriminator": "0000",
+        "nickname": "dxckiii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043205717601026131",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:47:04.901-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "help me",
+      "author": {
+        "id": "466321983303581696",
+        "name": "dxckiii",
+        "discriminator": "0000",
+        "nickname": "dxckiii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043205766368219268",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:47:16.528-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ooh lemme get my ones",
+      "author": {
+        "id": "167499505867030530",
+        "name": "procrastinasian",
+        "discriminator": "0000",
+        "nickname": "procrastinasian",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/167499505867030530/a_e7a06242c0b7234a1d9412ee7dd4f816.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043205837147095112",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:47:33.403-05:00",
+      "timestampEdited": "2022-11-18T11:47:39.665-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i wanna play overwatch while im this cracked out",
+      "author": {
+        "id": "466321983303581696",
+        "name": "dxckiii",
+        "discriminator": "0000",
+        "nickname": "dxckiii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043205869074133052",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:47:41.015-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "omg get on",
+      "author": {
+        "id": "167499505867030530",
+        "name": "procrastinasian",
+        "discriminator": "0000",
+        "nickname": "procrastinasian",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/167499505867030530/a_e7a06242c0b7234a1d9412ee7dd4f816.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043205899772235776",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:47:48.334-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok but come with me",
+      "author": {
+        "id": "466321983303581696",
+        "name": "dxckiii",
+        "discriminator": "0000",
+        "nickname": "dxckiii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043205931682504746",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:47:55.942-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "im on im on !!",
+      "author": {
+        "id": "167499505867030530",
+        "name": "procrastinasian",
+        "discriminator": "0000",
+        "nickname": "procrastinasian",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/167499505867030530/a_e7a06242c0b7234a1d9412ee7dd4f816.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043205982358089818",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:48:08.024-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok coming",
+      "author": {
+        "id": "466321983303581696",
+        "name": "dxckiii",
+        "discriminator": "0000",
+        "nickname": "dxckiii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1043205982039330826",
+          "url": "https://cdn.discordapp.com/attachments/1040154907430375425/1043205982039330826/IMG_8706.jpg?ex=6622a047&is=66102b47&hm=45c25ec32527e028b2aa74fec34f649c382d06e75bc599cf9a1bcd284f6c8375&",
+          "fileName": "IMG_8706.jpg",
+          "fileSizeBytes": 107052
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043206042068205658",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:48:22.26-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i lied btw im cozy in bed gimme 5 minutes",
+      "author": {
+        "id": "167499505867030530",
+        "name": "procrastinasian",
+        "discriminator": "0000",
+        "nickname": "procrastinasian",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/167499505867030530/a_e7a06242c0b7234a1d9412ee7dd4f816.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043206116303188020",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:48:39.959-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "me checking friend list seeing you’re a god damn liar",
+      "author": {
+        "id": "466321983303581696",
+        "name": "dxckiii",
+        "discriminator": "0000",
+        "nickname": "dxckiii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1043206116101857390",
+          "url": "https://cdn.discordapp.com/attachments/1040154907430375425/1043206116101857390/IMG_8706.jpg?ex=6622a067&is=66102b67&hm=31c89c5f55f285455c22091360fda4d566a2eb14e1434feacc05b6d003028aec&",
+          "fileName": "IMG_8706.jpg",
+          "fileSizeBytes": 107052
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043206195265155232",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:48:58.785-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "167499505867030530",
+        "name": "procrastinasian",
+        "discriminator": "0000",
+        "nickname": "procrastinasian",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/167499505867030530/a_e7a06242c0b7234a1d9412ee7dd4f816.gif?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1043206194858303578",
+          "url": "https://cdn.discordapp.com/attachments/1040154907430375425/1043206194858303578/F5D92532-071F-4FF0-A9AA-8B15271734C1.jpg?ex=6622a07a&is=66102b7a&hm=87f9aab4242d5ea729dfb038dbe33ab813c845c20d23db408244a0a1b31d04a5&",
+          "fileName": "F5D92532-071F-4FF0-A9AA-8B15271734C1.jpg",
+          "fileSizeBytes": 100088
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043206222389727302",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:49:05.252-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "YOU WERE UP FOUR HOURS AGO?",
+      "author": {
+        "id": "466321983303581696",
+        "name": "dxckiii",
+        "discriminator": "0000",
+        "nickname": "dxckiii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043206266622836867",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:49:15.798-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "etto…",
+      "author": {
+        "id": "167499505867030530",
+        "name": "procrastinasian",
+        "discriminator": "0000",
+        "nickname": "procrastinasian",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/167499505867030530/a_e7a06242c0b7234a1d9412ee7dd4f816.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043206585553530940",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:50:31.837-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/dxckiii/status/1593647824746385410?s=46&t=tCCN6N0vwwoCSAiL0oUCuA",
+      "author": {
+        "id": "466321983303581696",
+        "name": "dxckiii",
+        "discriminator": "0000",
+        "nickname": "dxckiii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/dxckiii/status/1593647824746385410?s=46&t=tCCN6N0vwwoCSAiL0oUCuA",
+          "timestamp": "2022-11-18T11:50:24.621-05:00",
+          "description": "me and bastion",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "dxckiii \uD83C\uDFF3️‍⚧️ (@dxckiii)",
+            "url": "https://twitter.com/dxckiii",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/Hs7yq9aSy0SUmgcIwfmQkpGmjtOquuZlLOreCkquLok/https/pbs.twimg.com/profile_images/1588095485411176448/4YgkkeTN_400x400.jpg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/GCGx8wfevENbNZ8EGGBlLjCXf1LY4l5pffA75Ejy5-c/https/pbs.twimg.com/ext_tw_video_thumb/1593404491440627712/pu/img/-rfSW_F2IQ47nVXP.jpg",
+            "width": 576,
+            "height": 1024
+          },
+          "video": {
+            "url": "https://twitter.com/i/videos/tweet/1593647824746385410",
+            "width": 576,
+            "height": 1024
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043206602100052038",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:50:35.782-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nick this video",
+      "author": {
+        "id": "466321983303581696",
+        "name": "dxckiii",
+        "discriminator": "0000",
+        "nickname": "dxckiii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043206664922341396",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:50:50.76-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "my Man my MAN MY MAN MY MANNNN- (bastion)",
+      "author": {
+        "id": "466321983303581696",
+        "name": "dxckiii",
+        "discriminator": "0000",
+        "nickname": "dxckiii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043206887857979484",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:51:43.912-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that was me and mei",
+      "author": {
+        "id": "167499505867030530",
+        "name": "procrastinasian",
+        "discriminator": "0000",
+        "nickname": "procrastinasian",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/167499505867030530/a_e7a06242c0b7234a1d9412ee7dd4f816.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043207002152763434",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:52:11.162-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "HDJWJJDDJZBXB",
+      "author": {
+        "id": "466321983303581696",
+        "name": "dxckiii",
+        "discriminator": "0000",
+        "nickname": "dxckiii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1043207047413501954",
+      "type": "Default",
+      "timestamp": "2022-11-18T11:52:21.953-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i wanna play mei",
+      "author": {
+        "id": "466321983303581696",
+        "name": "dxckiii",
+        "discriminator": "0000",
+        "nickname": "dxckiii",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466321983303581696/6c7dc0b984c334a23283e915685be6ef.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 43
+}

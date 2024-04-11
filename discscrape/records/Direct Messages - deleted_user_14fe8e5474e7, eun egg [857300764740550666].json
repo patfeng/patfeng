@@ -1,0 +1,215 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "857300764740550666",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "deleted_user_14fe8e5474e7, eun egg",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:22:08.7490278-04:00",
+  "messages": [
+    {
+      "id": "857300776452227112",
+      "type": "Default",
+      "timestamp": "2021-06-23T12:47:12.984-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "should i",
+      "author": {
+        "id": "704480511971819561",
+        "name": "eunegg",
+        "discriminator": "0000",
+        "nickname": "eun egg",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/704480511971819561/592f6a895e08bbc3c90ca431afa3378f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "857300801886224434",
+      "type": "Default",
+      "timestamp": "2021-06-23T12:47:19.048-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "go out and buy more soju",
+      "author": {
+        "id": "704480511971819561",
+        "name": "eunegg",
+        "discriminator": "0000",
+        "nickname": "eun egg",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/704480511971819561/592f6a895e08bbc3c90ca431afa3378f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "857300830901370890",
+      "type": "Default",
+      "timestamp": "2021-06-23T12:47:25.966-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "857300845300023297",
+      "type": "Default",
+      "timestamp": "2021-06-23T12:47:29.399-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "?",
+      "author": {
+        "id": "704480511971819561",
+        "name": "eunegg",
+        "discriminator": "0000",
+        "nickname": "eun egg",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/704480511971819561/592f6a895e08bbc3c90ca431afa3378f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "857300853061058600",
+      "type": "Default",
+      "timestamp": "2021-06-23T12:47:31.249-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "y not wtf",
+      "author": {
+        "id": "704480511971819561",
+        "name": "eunegg",
+        "discriminator": "0000",
+        "nickname": "eun egg",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/704480511971819561/592f6a895e08bbc3c90ca431afa3378f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "857300869754519552",
+      "type": "Default",
+      "timestamp": "2021-06-23T12:47:35.229-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "drunk",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "857300872399945768",
+      "type": "Default",
+      "timestamp": "2021-06-23T12:47:35.86-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bad",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "857300902062719018",
+      "type": "Default",
+      "timestamp": "2021-06-23T12:47:42.932-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but im not \uD83D\uDE26",
+      "author": {
+        "id": "704480511971819561",
+        "name": "eunegg",
+        "discriminator": "0000",
+        "nickname": "eun egg",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/704480511971819561/592f6a895e08bbc3c90ca431afa3378f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 8
+}

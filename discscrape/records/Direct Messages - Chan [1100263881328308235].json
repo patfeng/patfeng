@@ -1,0 +1,119 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1100263881328308235",
+    "type": "DirectTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "Chan",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:25:03.0190242-04:00",
+  "messages": [
+    {
+      "id": "1127728860167933982",
+      "type": "Default",
+      "timestamp": "2023-07-09T18:31:52.453-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "HAPPY BDAY",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1127728950177697872",
+      "type": "Default",
+      "timestamp": "2023-07-09T18:32:13.913-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83C\uDF82\uD83C\uDF82\uD83C\uDF82\uD83C\uDF82\uD83C\uDF82\uD83C\uDF82",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1127755651783864431",
+      "type": "Default",
+      "timestamp": "2023-07-09T20:18:20.072-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TY PAT ILY",
+      "author": {
+        "id": "112392042507739136",
+        "name": "fchannie",
+        "discriminator": "0000",
+        "nickname": "Chan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/112392042507739136/bb55c09ff4cc04aa2f1819b37eec58b3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1127755655822974976",
+      "type": "Default",
+      "timestamp": "2023-07-09T20:18:21.035-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "❤️",
+      "author": {
+        "id": "112392042507739136",
+        "name": "fchannie",
+        "discriminator": "0000",
+        "nickname": "Chan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/112392042507739136/bb55c09ff4cc04aa2f1819b37eec58b3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 4
+}

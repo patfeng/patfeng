@@ -1,0 +1,103 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1123452651187732500",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "jas, MissGabers",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:26:01.3980477-04:00",
+  "messages": [
+    {
+      "id": "1123452651187732502",
+      "type": "RecipientAdd",
+      "timestamp": "2023-06-27T23:19:44.784-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added MissGabers to the group.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "436272194667020288",
+          "name": "missgabers",
+          "discriminator": "0000",
+          "nickname": "MissGabers",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/436272194667020288/39c715e36590786d0bc7d46919add198.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1123452652701892629",
+      "type": "Call",
+      "timestamp": "2023-06-27T23:19:45.145-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-06-27T23:48:38.031-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 29 minutes.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "436272194667020288",
+          "name": "missgabers",
+          "discriminator": "0000",
+          "nickname": "MissGabers",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/436272194667020288/39c715e36590786d0bc7d46919add198.png?size=512"
+        },
+        {
+          "id": "1064990358188073041",
+          "name": "yujasminen",
+          "discriminator": "0000",
+          "nickname": "jas",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1064990358188073041/4d6955aee50a6d9db87128a997a6be2a.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 2
+}

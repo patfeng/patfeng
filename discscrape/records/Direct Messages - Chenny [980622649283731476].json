@@ -1,0 +1,116 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "980622649283731476",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "Chenny",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:23:09.9234502-04:00",
+  "messages": [
+    {
+      "id": "980622684570402876",
+      "type": "Default",
+      "timestamp": "2022-05-29T20:04:27.09-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "add",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980622700651352074",
+      "type": "Default",
+      "timestamp": "2022-05-29T20:04:30.924-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ashley",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980622738576269342",
+      "type": "Call",
+      "timestamp": "2022-05-29T20:04:39.966-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-05-29T20:04:49.006-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 0 minutes.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "391421412830740490",
+          "name": "chenny4275",
+          "discriminator": "0000",
+          "nickname": "Chenny",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/391421412830740490/8ea2a01f1f99b28ee234e6f4ec4879ed.png?size=512"
+        },
+        {
+          "id": "280878730593959939",
+          "name": "nutsplaining",
+          "discriminator": "0000",
+          "nickname": "Megan",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/280878730593959939/b58a8f0730d3ffd4ed9697500ee5f37d.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 3
+}

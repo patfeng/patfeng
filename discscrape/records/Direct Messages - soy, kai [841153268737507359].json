@@ -1,0 +1,2686 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "841153268737507359",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "soy, kai",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:21:59.3326237-04:00",
+  "messages": [
+    {
+      "id": "841153287154565120",
+      "type": "Call",
+      "timestamp": "2021-05-09T23:22:51.53-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2021-05-09T23:35:49.545-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 13 minutes.",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "215346950311116800",
+          "name": "avocadosonpizza",
+          "discriminator": "0000",
+          "nickname": "kai",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "856604641546076170",
+      "type": "Call",
+      "timestamp": "2021-06-21T14:41:01.489-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2021-06-21T16:06:19.907-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 85 minutes.",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "215346950311116800",
+          "name": "avocadosonpizza",
+          "discriminator": "0000",
+          "nickname": "kai",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "856607207603961868",
+      "type": "Default",
+      "timestamp": "2021-06-21T14:51:13.285-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://docs.google.com/spreadsheets/d/1DPORCGuIjcub55MPfjSfUDUj9yhu9y-ZDhIm20_t7jk/edit?usp=sharing",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Google Sheets - create and edit spreadsheets online, for free.",
+          "url": "https://docs.google.com/spreadsheets/d/1DPORCGuIjcub55MPfjSfUDUj9yhu9y-ZDhIm20_t7jk/edit?usp=sharing",
+          "timestamp": null,
+          "description": "Create a new spreadsheet and edit with others at the same time -- from your computer, phone or tablet. Get stuff done with or without an internet connection. Use Sheets to edit Excel files. Free from Google.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "856607331600039956",
+      "type": "Default",
+      "timestamp": "2021-06-21T14:51:42.848-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://streeteasy.com/building/375-state-street-brooklyn/3c",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "856608308428406836",
+      "type": "Default",
+      "timestamp": "2021-06-21T14:55:35.742-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://streeteasy.com/building/489-washington-avenue-brooklyn/1q?similar=1",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "856608820548337664",
+      "type": "Default",
+      "timestamp": "2021-06-21T14:57:37.841-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "talking to mom",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "856609116822175754",
+      "type": "Default",
+      "timestamp": "2021-06-21T14:58:48.478-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://streeteasy.com/building/45-beekman-street-new_york/3n",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "856609686593601557",
+      "type": "Default",
+      "timestamp": "2021-06-21T15:01:04.322-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://streeteasy.com/building/68-vanderbilt-avenue-brooklyn/2",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "856611411676626954",
+      "type": "Default",
+      "timestamp": "2021-06-21T15:07:55.614-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://streeteasy.com/building/64-henry-street-brooklyn/2",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "856612405395456031",
+      "type": "Default",
+      "timestamp": "2021-06-21T15:11:52.535-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://streeteasy.com/building/92-atlantic-avenue-brooklyn/63",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "856613115293728779",
+      "type": "Default",
+      "timestamp": "2021-06-21T15:14:41.788-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://streeteasy.com/building/487-atlantic-avenue-brooklyn/3f",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "856615746875162645",
+      "type": "Default",
+      "timestamp": "2021-06-21T15:25:09.206-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://streeteasy.com/building/207-madison-street-new_york/1",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "856617665815642122",
+      "type": "Default",
+      "timestamp": "2021-06-21T15:32:46.717-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://streeteasy.com/building/15-essex-street-new_york/3",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "856624203422629918",
+      "type": "Default",
+      "timestamp": "2021-06-21T15:58:45.404-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone I'll be heading off for now. lmk if anything happens or news. I'll hop back on",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "856630223595634728",
+      "type": "Default",
+      "timestamp": "2021-06-21T16:22:40.725-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Okie bet",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "856630330839531520",
+      "type": "Default",
+      "timestamp": "2021-06-21T16:23:06.294-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "My moms still p adamant about no manhattan",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "858201492501299200",
+      "type": "Default",
+      "timestamp": "2021-06-26T00:26:20.425-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://streeteasy.com/building/136-william-street-new_york/2b",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "858201553617682432",
+      "type": "Default",
+      "timestamp": "2021-06-26T00:26:34.996-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if we can nab one more person this might be interesting",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "858201613802143796",
+      "type": "Default",
+      "timestamp": "2021-06-26T00:26:49.345-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but @poat it's leaning more to atlantic",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "859474281372844042",
+      "type": "Default",
+      "timestamp": "2021-06-29T12:43:56.939-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone the one 375 state that we were looking at is already under contract",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "859520304497033236",
+      "type": "Default",
+      "timestamp": "2021-06-29T15:46:49.707-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "shit",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "859520723034439750",
+      "type": "Default",
+      "timestamp": "2021-06-29T15:48:29.494-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "my thoughts exactly",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861772277770223647",
+      "type": "Default",
+      "timestamp": "2021-07-05T20:55:21.975-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone https://nooklyn.com/listings/1-duffield-st-brooklyn-ny-11201-usa-410-downtown-brooklyn-26961",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "1 Duffield St - Unit: 410 in Downtown Brooklyn, Brooklyn | Nooklyn",
+          "url": "https://nooklyn.com/listings/1-duffield-st-brooklyn-ny-11201-usa-410-downtown-brooklyn-26961",
+          "timestamp": null,
+          "description": "Introducing one duffield, a brand new luxury building in downtown brooklyn. the building is perfectly positioned in between dumbo and brooklyn heights, and has beautiful parks nearby. the apartments get great light, have high ceilings, herringbone hardwood floors and modern stainless steel appliances. we can help you find roommates on nooklyn.",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/KELzSWwZK1f4JU7vcqmEwhsnEOfDnn36vsvPu_QONbA/%3F1560307967/https/s3.amazonaws.com/nooklyn-pro/listings/26961/large/000_208497582.jpg",
+            "width": 750,
+            "height": 750
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861772299392778261",
+      "type": "Default",
+      "timestamp": "2021-07-05T20:55:27.13-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Take a look at this",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861772343591698442",
+      "type": "Default",
+      "timestamp": "2021-07-05T20:55:37.668-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Get back to me ASAP creating a group chat with the realtor",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861772386550677514",
+      "type": "Default",
+      "timestamp": "2021-07-05T20:55:47.91-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The building is maybe a 5 min walk to school",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861772691592446005",
+      "type": "Default",
+      "timestamp": "2021-07-05T20:57:00.638-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bet bet",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861773583210250280",
+      "type": "Default",
+      "timestamp": "2021-07-05T21:00:33.216-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<< 3",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861773682794954792",
+      "type": "Default",
+      "timestamp": "2021-07-05T21:00:56.959-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you can drop your email and your name to the text chat I made for the realtor that would be amazing",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861773821429547008",
+      "type": "Default",
+      "timestamp": "2021-07-05T21:01:30.012-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you pattt",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861773863518994442",
+      "type": "Default",
+      "timestamp": "2021-07-05T21:01:40.047-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ya ya",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861773937179361332",
+      "type": "Default",
+      "timestamp": "2021-07-05T21:01:57.609-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What’re your thoughts with the place and pricing ?",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861775666432835594",
+      "type": "Default",
+      "timestamp": "2021-07-05T21:08:49.895-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@poat the place looks unreal in the video",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "861797883366998026",
+      "type": "Default",
+      "timestamp": "2021-07-05T22:37:06.825-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I can go 50 on the deposit",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861797912472059934",
+      "type": "Default",
+      "timestamp": "2021-07-05T22:37:13.764-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Looked it up and it’s legit",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861800422238060555",
+      "type": "Default",
+      "timestamp": "2021-07-05T22:47:12.139-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "isn't the deposit 1k",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861800619094310972",
+      "type": "Default",
+      "timestamp": "2021-07-05T22:47:59.073-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone do you think there's wiggle room on the price. lw there's some alternatives with washer dryer in unit that are cheaper but they're farther and not as close",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861800750791655455",
+      "type": "Default",
+      "timestamp": "2021-07-05T22:48:30.472-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also do you think it's worth in terms of cost in comparison to other alternatives that include but aren't limited to dorming and other housing",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861800785864032287",
+      "type": "Default",
+      "timestamp": "2021-07-05T22:48:38.834-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that's what i got witht the talk with my dad",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861800848819486740",
+      "type": "Default",
+      "timestamp": "2021-07-05T22:48:53.844-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "he said he's not against it but do you research",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861807486679253012",
+      "type": "Call",
+      "timestamp": "2021-07-05T23:15:16.433-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2021-07-05T23:32:27.975-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 17 minutes.",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "215346950311116800",
+          "name": "avocadosonpizza",
+          "discriminator": "0000",
+          "nickname": "kai",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "861808099902619670",
+      "type": "Default",
+      "timestamp": "2021-07-05T23:17:42.637-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@poat yo wya",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "861808472571904011",
+      "type": "Default",
+      "timestamp": "2021-07-05T23:19:11.488-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://streeteasy.com/building/487-atlantic-avenue-brooklyn/3",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861811630358921246",
+      "type": "Default",
+      "timestamp": "2021-07-05T23:31:44.363-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone 4pm eastern /1pm pst  MEETING to talk about the 1k payment for the application",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861816956059254794",
+      "type": "Default",
+      "timestamp": "2021-07-05T23:52:54.109-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone my dad's verdict is that pat has to go visit the building first before anything with the money but he's down otherwise. (saying you're paying for location and the value of being that close to school)",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861833836256821259",
+      "type": "Default",
+      "timestamp": "2021-07-06T00:59:58.662-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I meant 50/50 lmfao not 50 dollars",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861836829710745630",
+      "type": "Default",
+      "timestamp": "2021-07-06T01:11:52.357-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "a'sldkfjas'flkasjj",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861836853770584074",
+      "type": "Default",
+      "timestamp": "2021-07-06T01:11:58.093-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i think we can split 3 way",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861836982639788044",
+      "type": "Default",
+      "timestamp": "2021-07-06T01:12:28.818-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but as long as you visist my dad is in. so we just have to make sure the realtor knows we're all in and good people type stuff for tmr",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "862036141418217512",
+      "type": "Default",
+      "timestamp": "2021-07-06T14:23:51.971-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone application is open once we pay the 10 dollar app thing",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "862036180534820895",
+      "type": "Default",
+      "timestamp": "2021-07-06T14:24:01.297-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So let’s try to get it ready for tmr",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "862059879732477952",
+      "type": "Default",
+      "timestamp": "2021-07-06T15:58:11.626-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone i'm here so whenever",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "862060252019294208",
+      "type": "Call",
+      "timestamp": "2021-07-06T15:59:40.386-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2021-07-06T16:58:18.855-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 59 minutes.",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "215346950311116800",
+          "name": "avocadosonpizza",
+          "discriminator": "0000",
+          "nickname": "kai",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "862061692292563015",
+      "type": "Default",
+      "timestamp": "2021-07-06T16:05:23.774-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Peiyingjia2000@yahoo.com",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "862091471669428235",
+      "type": "Default",
+      "timestamp": "2021-07-06T18:03:43.731-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The mf coo \uD83D\uDC80",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "862453773875281970",
+      "type": "Call",
+      "timestamp": "2021-07-07T18:03:23.308-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2021-07-07T18:39:34.476-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 36 minutes.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "215346950311116800",
+          "name": "avocadosonpizza",
+          "discriminator": "0000",
+          "nickname": "kai",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+        },
+        {
+          "id": "476677991225884684",
+          "name": "soyonline",
+          "discriminator": "0000",
+          "nickname": "soy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "862498325332361216",
+      "type": "Call",
+      "timestamp": "2021-07-07T21:00:25.203-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2021-07-07T21:00:58.454-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 1 minutes.",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "476677991225884684",
+          "name": "soyonline",
+          "discriminator": "0000",
+          "nickname": "soy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "862498516739424266",
+      "type": "Call",
+      "timestamp": "2021-07-07T21:01:10.838-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2021-07-07T22:21:36.792-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 80 minutes.",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "215346950311116800",
+          "name": "avocadosonpizza",
+          "discriminator": "0000",
+          "nickname": "kai",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "862501650894422016",
+      "type": "Default",
+      "timestamp": "2021-07-07T21:13:38.079-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "862501650517721107",
+          "url": "https://cdn.discordapp.com/attachments/841153268737507359/862501650517721107/IMG_0875.jpeg?ex=662073c1&is=660dfec1&hm=88c507c80681793605359bb8351c40834a2614b72a226a5e873f0d8fb938a70d&",
+          "fileName": "IMG_0875.jpeg",
+          "fileSizeBytes": 315672
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "862512736956973116",
+      "type": "Default",
+      "timestamp": "2021-07-07T21:57:41.202-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.amazon.com/Light-Color-Changing-Dimmable-Screw/dp/B06XX3K36V/ref=sr_1_6?dchild=1&keywords=colored+led+light+bulbs&qid=1625709438&s=hi&sr=1-6",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "RGB LED Light Bulb, Color Changing Light Bulb, 40W Equivalent, 450L...",
+          "url": "https://www.amazon.com/Light-Color-Changing-Dimmable-Screw/dp/B06XX3K36V/ref=sr_1_6?dchild=1&keywords=colored+led+light+bulbs&qid=1625709438&s=hi&sr=1-6",
+          "timestamp": null,
+          "description": "RGB LED Light Bulb, Color Changing Light Bulb, 40W Equivalent, 450LM Dimmable 5W E26 Screw Base RGBW, Mood Light Flood Light Bulb - 12 Color Choices - Timing Infrared Remote Control Included (4 Pack) - - Amazon.com",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "862513027572170752",
+      "type": "Default",
+      "timestamp": "2021-07-07T21:58:50.49-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.amazon.com/gp/product/B07QYMPT6W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07MKDLV1V&linkCode=as2&tag=nooklyn-20&linkId=f299ce68dd07696fcb3a289474b15618&th=1",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Smart WiFi Alexa Light Bulb, Peteme Led RGB Color Changing Bulbs, C...",
+          "url": "https://www.amazon.com/gp/product/B07QYMPT6W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07MKDLV1V&linkCode=as2&tag=nooklyn-20&linkId=f299ce68dd07696fcb3a289474b15618&th=1",
+          "timestamp": null,
+          "description": "Smart WiFi Alexa Light Bulb, Peteme Led RGB Color Changing Bulbs, Compatible with Alexa, Siri, Echo, Google Home (No Hub Required), E26 A19 60W Multicolor (4 Pack) - - Amazon.com",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "862513090989916180",
+      "type": "Default",
+      "timestamp": "2021-07-07T21:59:05.61-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.amazon.com/Lapuretes-Changing-Equivalent-Google-Required/dp/B093ST3W2S/ref=sr_1_5?dchild=1&keywords=colored+led+light+bulbs+alexa+controlled&qid=1625709532&s=hi&sr=1-5",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Alexa Smart Light Bulbs, Lapurete’s LED RGBCW Color Changing, 85W E...",
+          "url": "https://www.amazon.com/Lapuretes-Changing-Equivalent-Google-Required/dp/B093ST3W2S/ref=sr_1_5?dchild=1&keywords=colored+led+light+bulbs+alexa+controlled&qid=1625709532&s=hi&sr=1-5",
+          "timestamp": null,
+          "description": "Alexa Smart Light Bulbs, Lapurete’s LED RGBCW Color Changing, 85W Equivalent E26 9W WiFi Led Bulb, Work with Google Home Amazon Echo, 2.4Ghz WiFi Only, No Hub Required 4 Pack - - Amazon.com",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "862513257653600266",
+      "type": "Default",
+      "timestamp": "2021-07-07T21:59:45.346-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.cb2.com/snake-table-lamp/s342883",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "862833598142218252",
+      "type": "Call",
+      "timestamp": "2021-07-08T19:12:40.47-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2021-07-08T19:14:16.789-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 2 minutes.",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "476677991225884684",
+          "name": "soyonline",
+          "discriminator": "0000",
+          "nickname": "soy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "862833730225307679",
+      "type": "Default",
+      "timestamp": "2021-07-08T19:13:11.961-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i can’t join rn",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "862833745048109077",
+      "type": "Default",
+      "timestamp": "2021-07-08T19:13:15.495-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i’m at work",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "862833945761415208",
+      "type": "Default",
+      "timestamp": "2021-07-08T19:14:03.349-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "when can u call :)",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "862854732821037086",
+      "type": "Call",
+      "timestamp": "2021-07-08T20:36:39.37-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2021-07-08T20:36:44.439-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 0 minutes.",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "215346950311116800",
+          "name": "avocadosonpizza",
+          "discriminator": "0000",
+          "nickname": "kai",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "862854879642910743",
+      "type": "Call",
+      "timestamp": "2021-07-08T20:37:14.375-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2021-07-08T20:39:35.893-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 2 minutes.",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "215346950311116800",
+          "name": "avocadosonpizza",
+          "discriminator": "0000",
+          "nickname": "kai",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "870398611656151101",
+      "type": "Call",
+      "timestamp": "2021-07-29T16:13:20.243-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2021-07-29T17:02:29.55-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 49 minutes.",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "215346950311116800",
+          "name": "avocadosonpizza",
+          "discriminator": "0000",
+          "nickname": "kai",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "870403041591963680",
+      "type": "Default",
+      "timestamp": "2021-07-29T16:30:56.422-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.coned.com/en/services-and-outages/service-management-page",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Start, Move, or Stop Service | Con Edison",
+          "url": "https://www.coned.com/en/services-and-outages/service-management-page",
+          "timestamp": null,
+          "description": "Learn how to start, stop, or, if you’re moving, transfer utility service to your new residence.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "870403089448976404",
+      "type": "Default",
+      "timestamp": "2021-07-29T16:31:07.832-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.nationalgridus.com/NY-Home/Billing-Payments/Ways-to-Pay",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Ways to Pay | National Grid",
+          "url": "https://www.nationalgridus.com/NY-Home/Billing-Payments/Ways-to-Pay",
+          "timestamp": null,
+          "description": "National Grid offers many convenient ways to pay your bill. Choose what’s right for you.",
+          "color": "#00148C",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "870410021631066132",
+      "type": "Default",
+      "timestamp": "2021-07-29T16:58:40.593-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "870410021085777920",
+          "url": "https://cdn.discordapp.com/attachments/841153268737507359/870410021085777920/unknown.png?ex=66218980&is=660f1480&hm=c2cd50bc1022df794cff93a444f4244a1084d0fcc4350a7ac634bcd8ca2643e4&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 2497982
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "870477517490884658",
+      "type": "Default",
+      "timestamp": "2021-07-29T21:26:52.86-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "its 200 nassau St",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "873725608834785300",
+      "type": "Call",
+      "timestamp": "2021-08-07T20:33:38.183-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2021-08-07T20:34:10.223-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 1 minutes.",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "476677991225884684",
+          "name": "soyonline",
+          "discriminator": "0000",
+          "nickname": "soy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "873726924613095445",
+      "type": "Call",
+      "timestamp": "2021-08-07T20:38:51.889-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2021-08-07T21:49:32.811-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 71 minutes.",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "476677991225884684",
+          "name": "soyonline",
+          "discriminator": "0000",
+          "nickname": "soy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "873729855114575912",
+      "type": "Default",
+      "timestamp": "2021-08-07T20:50:30.575-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.ikea.com/us/en/p/malm-high-bed-frame-4-storage-boxes-black-brown-luroey-s79009502/",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MALM High bed frame/4 storage boxes - black-brown/Luröy - IKEA",
+          "url": "https://www.ikea.com/us/en/p/malm-high-bed-frame-4-storage-boxes-black-brown-luroey-s79009502/",
+          "timestamp": null,
+          "description": "IKEA - MALM, High bed frame/4 storage boxes, black-brown/Luröy, Ample storage space is hidden neatly under the bed in 4 large drawers. Perfect for storing quilts, pillows and bed linen. The storage boxes are easy to roll out and in thanks to the castors on the base.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sSRIC8Py9g9poZ0JPZR8VknV2Iyv5JT4YaDwDcbhVc4/https/www.ikea.com/us/en/images/products/malm-high-bed-frame-4-storage-boxes-black-brown-luroey__0637597_pe698414_s5.jpg",
+            "width": 1400,
+            "height": 1400
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "873730144920010822",
+      "type": "Default",
+      "timestamp": "2021-08-07T20:51:39.67-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.ikea.com/us/en/p/brimnes-bed-frame-with-storage-headboard-black-luroey-s79129608/",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "BRIMNES Bed frame with storage & headboard - black/Luröy - IKEA",
+          "url": "https://www.ikea.com/us/en/p/brimnes-bed-frame-with-storage-headboard-black-luroey-s79129608/",
+          "timestamp": null,
+          "description": "IKEA - BRIMNES, Bed frame with storage & headboard, black/Luröy, Everything is kept close at hand with integrated storage in the headboard. Ample storage space is hidden neatly under the bed in 4 large drawers. Perfect for storing quilts, pillows and bed linen.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/FFy9NT1RLWT7XfEb3yK2F4CRulA5zdcixNqxWGS0rMc/https/www.ikea.com/us/en/images/products/brimnes-bed-frame-with-storage-headboard-black-luroey__0637519_pe698355_s5.jpg",
+            "width": 1400,
+            "height": 1400
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "873731672984657971",
+      "type": "Default",
+      "timestamp": "2021-08-07T20:57:43.989-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.hermanmiller.com/products/seating/lounge-seating/eames-lounge-chair-and-ottoman/",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Eames Lounge Chair and Ottoman",
+          "url": "https://www.hermanmiller.com/products/seating/lounge-seating/eames-lounge-chair-and-ottoman/",
+          "timestamp": null,
+          "description": "The Eames Lounge Chair and Ottoman live in stylish interiors everywhere and have been the subject of documentaries and books.",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "873732900326084709",
+      "type": "Default",
+      "timestamp": "2021-08-07T21:02:36.61-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.ikea.com/us/en/p/ekedalen-odger-table-and-4-chairs-brown-white-beige-s69221438/",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "EKEDALEN / ODGER Table and 4 chairs - brown/white beige - IKEA",
+          "url": "https://www.ikea.com/us/en/p/ekedalen-odger-table-and-4-chairs-brown-white-beige-s69221438/",
+          "timestamp": null,
+          "description": "IKEA - EKEDALEN / ODGER, Table and 4 chairs, brown/white beige, Every table is unique, with varying grain pattern and natural color shifts that are part of the charm of wood. One person can quickly and smoothly extend the table before the guests arrive.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/DXvvsCCz4RDAq2N_-cIgYcnjcuLVx_fbnKl3oZN-wTU/https/www.ikea.com/us/en/images/products/ekedalen-odger-table-and-4-chairs-brown-white-beige__0737722_pe741235_s5.jpg",
+            "width": 1400,
+            "height": 1400
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "873737570603905075",
+      "type": "Default",
+      "timestamp": "2021-08-07T21:21:10.091-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.facebook.com/marketplace/item/207032694568057/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Log In or Sign Up to View",
+          "url": "https://www.facebook.com/marketplace/item/207032694568057/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+          "timestamp": null,
+          "description": "See posts, photos and more on Facebook.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "873741266423279669",
+      "type": "Default",
+      "timestamp": "2021-08-07T21:35:51.243-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.ikea.com/us/en/p/balkarp-sleeper-sofa-knisa-black-00376932/",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "BALKARP Sleeper sofa, Knisa black",
+          "url": "https://www.ikea.com/us/en/p/balkarp-sleeper-sofa-knisa-black-00376932/",
+          "timestamp": null,
+          "description": "BALKARP Sleeper sofa, Knisa black. The adjustable back means you can choose whether you want to sit, recline or lie down. Easily converts into a bed.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/E7O_Y4f0gpX0PmvDWKO-tU8FTL1JkGjBfNzI7yL9mNE/https/www.ikea.com/us/en/images/products/balkarp-sleeper-sofa-knisa-black__0530584_pe646760_s5.jpg",
+            "width": 1400,
+            "height": 1400
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "873741409914593310",
+      "type": "Default",
+      "timestamp": "2021-08-07T21:36:25.454-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.ikea.com/us/en/p/ravaror-daybed-vansta-dark-blue-10458357/",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "RÅVAROR Daybed, Vansta dark blue, Twin",
+          "url": "https://www.ikea.com/us/en/p/ravaror-daybed-vansta-dark-blue-10458357/",
+          "timestamp": null,
+          "description": "RÅVAROR Daybed, Vansta dark blue, Twin Day-bed, sofa or chaise – and at night a comfy bed with a mattress of choice. It also has a backrest that can be mounted in different ways. And you can easily divide it into 2 parts when moving. You can mount the backrest straight or create a corner.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/PIPLA55IYmYwaXLIrUz67_gHuXXtb16VjD3ZWqtHq_U/https/www.ikea.com/us/en/images/products/ravaror-daybed-vansta-dark-blue__0835222_pe778346_s5.jpg",
+            "width": 1400,
+            "height": 1400
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "873744201991487508",
+      "type": "Default",
+      "timestamp": "2021-08-07T21:47:31.137-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.ikea.com/us/en/p/lack-tv-unit-black-90243297/",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "LACK TV unit, black, 353/8x101/4x173/4\"",
+          "url": "https://www.ikea.com/us/en/p/lack-tv-unit-black-90243297/",
+          "timestamp": null,
+          "description": "LACK TV unit, black, 353/8x101/4x173/4\" The opening at the back allows you to easily gather and organize all wires.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/CAUqVfrxXpNAnZ25pK1ijH37O0_tpJhvtfufyskhGxw/https/www.ikea.com/us/en/images/products/lack-tv-unit-black__0644748_pe702932_s5.jpg",
+            "width": 1400,
+            "height": 1400
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "874381918035124284",
+      "type": "Call",
+      "timestamp": "2021-08-09T16:01:34.49-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2021-08-09T17:10:34.119-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 69 minutes.",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "215346950311116800",
+          "name": "avocadosonpizza",
+          "discriminator": "0000",
+          "nickname": "kai",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "874384978857844818",
+      "type": "Default",
+      "timestamp": "2021-08-09T16:13:44.247-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.facebook.com/marketplace/item/425254298749919/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Log In or Sign Up to View",
+          "url": "https://www.facebook.com/marketplace/item/425254298749919/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+          "timestamp": null,
+          "description": "See posts, photos and more on Facebook.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "874385830230233098",
+      "type": "Default",
+      "timestamp": "2021-08-09T16:17:07.23-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.ikea.com/us/en/p/brathult-sectional-3-seat-corner-borred-gray-green-s79217822/",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "BRÅTHULT Sectional, 3-seat corner - Borred gray-green - IKEA",
+          "url": "https://www.ikea.com/us/en/p/brathult-sectional-3-seat-corner-borred-gray-green-s79217822/",
+          "timestamp": null,
+          "description": "IKEA - BRÅTHULT, Sectional, 3-seat corner, Borred gray-green, You sit comfortably thanks to the resilient foam and springy seat. You can use the ottoman as an extra seat or as a comfortable extension of the sofa. 10 year Limited warranty. Read about the terms in the warranty brochure.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/FARGFD7jRjwAlR72XGbVku3Iwh4Peq7woHlGUq2F0Lo/https/www.ikea.com/us/en/images/products/brathult-sectional-3-seat-corner-borred-gray-green__0524899_pe644625_s5.jpg",
+            "width": 1400,
+            "height": 1400
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "874391251137478657",
+      "type": "Default",
+      "timestamp": "2021-08-09T16:38:39.675-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.amazon.com/Cuisinart-C55-12PCKSAM-Guards-knives-covers/dp/B016OD70Q8/ref=sr_1_4?dchild=1&keywords=knife+set&qid=1628541496&sr=8-4",
+      "author": {
+        "id": "215346950311116800",
+        "name": "avocadosonpizza",
+        "discriminator": "0000",
+        "nickname": "kai",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215346950311116800/5f1440617c31f2943f4e9448739cc9a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Cuisinart C55-12PCKSAM 12 Piece Color Knife Set with Blade Guards (...",
+          "url": "https://www.amazon.com/Cuisinart-C55-12PCKSAM-Guards-knives-covers/dp/B016OD70Q8/ref=sr_1_4?dchild=1&keywords=knife+set&qid=1628541496&sr=8-4",
+          "timestamp": null,
+          "description": "Cuisinart C55-12PCKSAM 12 Piece Color Knife Set with Blade Guards (6 knives and 6 knife covers), Jewel - Amazon Exclusive",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/xrIOj3jWN011o24RiEuUzayrqEOuvC3yN5soWC2w9zc/https/images-na.ssl-images-amazon.com/images/I/51q9OVRt%252BAL._SR600%252c315_PIWhiteStrip%252cBottomLeft%252c0%252c35_PIStarRatingFIVE%252cBottomLeft%252c360%252c-6_SR600%252c315_ZA15%25252C673%252c445%252c290%252c400%252c400%252cAmazonEmberBold%252c12%252c4%252c0%252c0%252c5_SCLZZZZZZZ_FMpng_BG255%252c255%252c255.jpg",
+            "width": 600,
+            "height": 315
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 88
+}

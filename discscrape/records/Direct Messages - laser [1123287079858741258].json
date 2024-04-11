@@ -1,0 +1,103 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1123287079858741258",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "laser",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:25:59.2939087-04:00",
+  "messages": [
+    {
+      "id": "1123287079858741259",
+      "type": "RecipientAdd",
+      "timestamp": "2023-06-27T12:21:49.503-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added poat to the group.",
+      "author": {
+        "id": "215476034223603712",
+        "name": "shiroyana",
+        "discriminator": "0000",
+        "nickname": "Jae",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215476034223603712/74a501be36e75bf4910d0aef3f30e2f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1123287081163182262",
+      "type": "Call",
+      "timestamp": "2023-06-27T12:21:49.814-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-06-27T14:34:32.505-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 133 minutes.",
+      "author": {
+        "id": "215476034223603712",
+        "name": "shiroyana",
+        "discriminator": "0000",
+        "nickname": "Jae",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215476034223603712/74a501be36e75bf4910d0aef3f30e2f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "384896691196919808",
+          "name": "lasercs",
+          "discriminator": "0000",
+          "nickname": "laser",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/384896691196919808/a_051e9da96c6c4d0e5376348d84325712.gif?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 2
+}

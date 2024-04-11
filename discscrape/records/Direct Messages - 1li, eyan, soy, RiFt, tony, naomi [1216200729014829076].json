@@ -1,0 +1,270 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1216200729014829076",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "1li, eyan, soy, RiFt, tony, naomi",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:27:03.6113258-04:00",
+  "messages": [
+    {
+      "id": "1216200740117287022",
+      "type": "Call",
+      "timestamp": "2024-03-09T20:47:32.361-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2024-03-10T00:34:55.611-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 227 minutes.",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "198954320551608320",
+          "name": "eyantv",
+          "discriminator": "0000",
+          "nickname": "eyan",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/198954320551608320/d207b822cc1614ff527f6c53843c3559.png?size=512"
+        },
+        {
+          "id": "320027147852840960",
+          "name": "1li",
+          "discriminator": "0000",
+          "nickname": "1li",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/320027147852840960/911071809fd7fa6e6667063d155950ea.png?size=512"
+        },
+        {
+          "id": "846142038607921253",
+          "name": "amokitize",
+          "discriminator": "0000",
+          "nickname": "naomi",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+        },
+        {
+          "id": "995076544231919718",
+          "name": "abc000191",
+          "discriminator": "0000",
+          "nickname": "tony",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/995076544231919718/450615c6f033a6e6070a59dc10ea32f4.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1216200748627394751",
+      "type": "Default",
+      "timestamp": "2024-03-09T20:47:34.39-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hello world",
+      "author": {
+        "id": "995076544231919718",
+        "name": "abc000191",
+        "discriminator": "0000",
+        "nickname": "tony",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/995076544231919718/450615c6f033a6e6070a59dc10ea32f4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1216241166186713128",
+      "type": "Default",
+      "timestamp": "2024-03-09T23:28:10.687-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://garticphone.com/en/?c=00415a426c",
+      "author": {
+        "id": "846142038607921253",
+        "name": "amokitize",
+        "discriminator": "0000",
+        "nickname": "naomi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Gartic Phone - The Telephone Game",
+          "url": "https://garticphone.com/en/?c=00415a426c",
+          "timestamp": null,
+          "description": "The online Telephone Game! Play the popular game for free now",
+          "color": "#6520A0",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/DHIq_SyOuFGkoqukEWW7TkzHl2u9_-BHfHz8grTtoyI/https/garticphone.com/images/thumb.png",
+            "width": 1952,
+            "height": 1153
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1216241324257443942",
+      "type": "RecipientAdd",
+      "timestamp": "2024-03-09T23:28:48.374-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added RiFt to the group.",
+      "author": {
+        "id": "846142038607921253",
+        "name": "amokitize",
+        "discriminator": "0000",
+        "nickname": "naomi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "116317949651976193",
+          "name": "riftcs",
+          "discriminator": "0000",
+          "nickname": "RiFt",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/116317949651976193/a_5280bf2729f7ab47e254156de30dc4e9.gif?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1216241366548615248",
+      "type": "Default",
+      "timestamp": "2024-03-09T23:28:58.457-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@RiFt time to garticp phone",
+      "author": {
+        "id": "846142038607921253",
+        "name": "amokitize",
+        "discriminator": "0000",
+        "nickname": "naomi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "116317949651976193",
+          "name": "riftcs",
+          "discriminator": "0000",
+          "nickname": "RiFt",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/116317949651976193/a_5280bf2729f7ab47e254156de30dc4e9.gif?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1216245830831575050",
+      "type": "Default",
+      "timestamp": "2024-03-09T23:46:42.825-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://garticphone.com/en/?c=01b11ea1f3",
+      "author": {
+        "id": "476677991225884684",
+        "name": "soyonline",
+        "discriminator": "0000",
+        "nickname": "soy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Gartic Phone - The Telephone Game",
+          "url": "https://garticphone.com/en/?c=01b11ea1f3",
+          "timestamp": null,
+          "description": "The online Telephone Game! Play the popular game for free now",
+          "color": "#6520A0",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/DHIq_SyOuFGkoqukEWW7TkzHl2u9_-BHfHz8grTtoyI/https/garticphone.com/images/thumb.png",
+            "width": 1952,
+            "height": 1153
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 6
+}

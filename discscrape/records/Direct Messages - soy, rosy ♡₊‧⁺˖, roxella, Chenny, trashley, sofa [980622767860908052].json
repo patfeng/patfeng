@@ -1,0 +1,359 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "980622767860908052",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "soy, rosy ♡₊‧⁺˖, roxella, Chenny, trashley, sofa",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:23:12.4068871-04:00",
+  "messages": [
+    {
+      "id": "980622767860908053",
+      "type": "RecipientAdd",
+      "timestamp": "2022-05-29T20:04:46.948-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added Chenny to the group.",
+      "author": {
+        "id": "280878730593959939",
+        "name": "nutsplaining",
+        "discriminator": "0000",
+        "nickname": "Megan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/280878730593959939/b58a8f0730d3ffd4ed9697500ee5f37d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "391421412830740490",
+          "name": "chenny4275",
+          "discriminator": "0000",
+          "nickname": "Chenny",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/391421412830740490/8ea2a01f1f99b28ee234e6f4ec4879ed.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "980622769052061787",
+      "type": "Call",
+      "timestamp": "2022-05-29T20:04:47.232-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-05-29T23:52:24.311-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 228 minutes.",
+      "author": {
+        "id": "280878730593959939",
+        "name": "nutsplaining",
+        "discriminator": "0000",
+        "nickname": "Megan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/280878730593959939/b58a8f0730d3ffd4ed9697500ee5f37d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "391421412830740490",
+          "name": "chenny4275",
+          "discriminator": "0000",
+          "nickname": "Chenny",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/391421412830740490/8ea2a01f1f99b28ee234e6f4ec4879ed.png?size=512"
+        },
+        {
+          "id": "528044172675121165",
+          "name": "trashley9460",
+          "discriminator": "0000",
+          "nickname": "trashley",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/528044172675121165/2aa44fe381d3eddb647d95dd1fe3ac35.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "980622769605738547",
+      "type": "RecipientAdd",
+      "timestamp": "2022-05-29T20:04:47.364-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added poat to the group.",
+      "author": {
+        "id": "280878730593959939",
+        "name": "nutsplaining",
+        "discriminator": "0000",
+        "nickname": "Megan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/280878730593959939/b58a8f0730d3ffd4ed9697500ee5f37d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "980642335127912518",
+      "type": "Default",
+      "timestamp": "2022-05-29T21:22:32.148-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://jstris.jezevec10.com/join/KY2FW7",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Jstris",
+          "url": "https://jstris.jezevec10.com/join/KY2FW7",
+          "timestamp": null,
+          "description": "Online multiplayer puzzle game",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980644079689932813",
+      "type": "Default",
+      "timestamp": "2022-05-29T21:29:28.084-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "SHERIFFBREACH",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980644095552811039",
+      "type": "Default",
+      "timestamp": "2022-05-29T21:29:31.866-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nutsinmyass1",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980665356899192892",
+      "type": "RecipientAdd",
+      "timestamp": "2022-05-29T22:54:00.966-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added sofa to the group.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "265675530253238274",
+          "name": "sofaxchen",
+          "discriminator": "0000",
+          "nickname": "sofa",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+        }
+      ]
+    },
+    {
+      "id": "980672539317649438",
+      "type": "RecipientAdd",
+      "timestamp": "2022-05-29T23:22:33.388-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added rosy ♡₊‧⁺˖ to the group.",
+      "author": {
+        "id": "528044172675121165",
+        "name": "trashley9460",
+        "discriminator": "0000",
+        "nickname": "trashley",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/528044172675121165/2aa44fe381d3eddb647d95dd1fe3ac35.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "691889478536658945",
+          "name": "rosy.chu",
+          "discriminator": "0000",
+          "nickname": "rosy ♡₊‧⁺˖",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/691889478536658945/f4bddf210bbd386b9f75a37c5405bd76.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "980672721539186708",
+      "type": "RecipientAdd",
+      "timestamp": "2022-05-29T23:23:16.833-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added soy to the group.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "476677991225884684",
+          "name": "soyonline",
+          "discriminator": "0000",
+          "nickname": "soy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "980672722252222484",
+      "type": "RecipientAdd",
+      "timestamp": "2022-05-29T23:23:17.003-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added roxella to the group.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "862978789859655680",
+          "name": "roxella",
+          "discriminator": "0000",
+          "nickname": "roxella",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/862978789859655680/cfa07efb8adf962497a9c76d4437e147.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 10
+}

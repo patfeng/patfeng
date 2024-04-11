@@ -1,0 +1,109 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "995620938131451995",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "soy, shibalom",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:23:46.0042211-04:00",
+  "messages": [
+    {
+      "id": "995622819411005500",
+      "type": "Default",
+      "timestamp": "2022-07-10T05:29:37.925-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "517839186267734019",
+        "name": "shibalom",
+        "discriminator": "0000",
+        "nickname": "shibalom",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/517839186267734019/535f9a1baeff67aba7b7368ab6e9d64e.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "995622819176120411",
+          "url": "https://cdn.discordapp.com/attachments/995620938131451995/995622819176120411/IMG_0107.jpg?ex=6624dc81&is=66126781&hm=f92046ea74bbe373f75fd315e8fc2d348b9508cdd1cb591a2822976bbb61e364&",
+          "fileName": "IMG_0107.jpg",
+          "fileSizeBytes": 75103
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "995627660761894942",
+      "type": "Default",
+      "timestamp": "2022-07-10T05:48:52.193-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "517839186267734019",
+        "name": "shibalom",
+        "discriminator": "0000",
+        "nickname": "shibalom",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/517839186267734019/535f9a1baeff67aba7b7368ab6e9d64e.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "995627660531204168",
+          "url": "https://cdn.discordapp.com/attachments/995620938131451995/995627660531204168/03C6F476-D7F3-4B95-9216-EC64512D5560.jpg?ex=6624e104&is=66126c04&hm=59bce47c2349b64ddcf773c0ea9c7358c4be14c5800f90d284c0fc3554b95126&",
+          "fileName": "03C6F476-D7F3-4B95-9216-EC64512D5560.jpg",
+          "fileSizeBytes": 459488
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1001625294265917490",
+      "type": "Default",
+      "timestamp": "2022-07-26T19:01:19.451-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/nhHxVPDN",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 3
+}

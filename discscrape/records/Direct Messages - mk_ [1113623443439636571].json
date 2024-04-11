@@ -1,0 +1,71 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1113623443439636571",
+    "type": "DirectTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "mk_",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:25:46.8922673-04:00",
+  "messages": [
+    {
+      "id": "1113623448363728987",
+      "type": "Default",
+      "timestamp": "2023-05-31T20:22:00.213-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hi, just wondering where the new dietary form is so we can put in which days we can/cannot make it?",
+      "author": {
+        "id": "870660716464590859",
+        "name": "mk_1755",
+        "discriminator": "0000",
+        "nickname": "mk_",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/870660716464590859/08eb6c30f844e643b65ea04bcf08b563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1113655707770814515",
+      "type": "Default",
+      "timestamp": "2023-05-31T22:30:11.455-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "im going to send it right now. thanks for reminding me!",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

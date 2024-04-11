@@ -1,0 +1,3292 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "703269748691173407",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "deleted_user_dad7cb2009ef",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:21:40.666936-04:00",
+  "messages": [
+    {
+      "id": "703269748691173408",
+      "type": "RecipientAdd",
+      "timestamp": "2020-04-24T11:42:54.208-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added General Booty to the group.",
+      "author": {
+        "id": "318502776718098444",
+        "name": "annoyingorange6091",
+        "discriminator": "0000",
+        "nickname": "FloodZone",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318502776718098444/fbaeaabfa64c8b29f36682a86b7e5e41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "318497494726344705",
+          "name": "general.booty",
+          "discriminator": "0000",
+          "nickname": "General Booty",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/318497494726344705/e626d314cab6bd3628a580b0867b7175.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "703269750087876638",
+      "type": "Call",
+      "timestamp": "2020-04-24T11:42:54.541-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2020-04-24T22:55:59.899-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 673 minutes.",
+      "author": {
+        "id": "437063612356362240",
+        "name": "shadow_plex",
+        "discriminator": "0000",
+        "nickname": "Shadowplex",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437063612356362240/d8c0f42bd30dc679ab8d9f1cede28af7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "318497494726344705",
+          "name": "general.booty",
+          "discriminator": "0000",
+          "nickname": "General Booty",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/318497494726344705/e626d314cab6bd3628a580b0867b7175.png?size=512"
+        },
+        {
+          "id": "318502776718098444",
+          "name": "annoyingorange6091",
+          "discriminator": "0000",
+          "nickname": "FloodZone",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/318502776718098444/fbaeaabfa64c8b29f36682a86b7e5e41.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "703290728733999114",
+      "type": "RecipientAdd",
+      "timestamp": "2020-04-24T13:06:16.24-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added dat_negro to the group.",
+      "author": {
+        "id": "318497494726344705",
+        "name": "general.booty",
+        "discriminator": "0000",
+        "nickname": "General Booty",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318497494726344705/e626d314cab6bd3628a580b0867b7175.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "318498893434322944",
+          "name": "dat_nibba.",
+          "discriminator": "0000",
+          "nickname": "dat_negro",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/318498893434322944/797ac3cf6044e8512627a3af0d318eff.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "703290729467871315",
+      "type": "RecipientAdd",
+      "timestamp": "2020-04-24T13:06:16.415-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added Deleted User to the group.",
+      "author": {
+        "id": "318497494726344705",
+        "name": "general.booty",
+        "discriminator": "0000",
+        "nickname": "General Booty",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318497494726344705/e626d314cab6bd3628a580b0867b7175.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ]
+    },
+    {
+      "id": "703292219183857824",
+      "type": "Default",
+      "timestamp": "2020-04-24T13:12:11.591-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=ZengOKCUBHo",
+      "author": {
+        "id": "318497494726344705",
+        "name": "general.booty",
+        "discriminator": "0000",
+        "nickname": "General Booty",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318497494726344705/e626d314cab6bd3628a580b0867b7175.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Juice WRLD - Righteous (Official Video)",
+          "url": "https://www.youtube.com/watch?v=ZengOKCUBHo",
+          "timestamp": null,
+          "description": "Juice WRLD - Righteous: https://smarturl.it/RighteousLLJW\nDirected, Shot, and Edited by Steve Cannon @stevecannon_\n\nAnimation by: Tristan Zammit @tristious, Bao @ndibao, Geoffrey Maclean @geoffreymaclean, Michael Sung @miccool, Alex Sarzosa @alexsarzosa1\nProduction Company: Gr...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Juice WRLD",
+            "url": "https://www.youtube.com/channel/UC0BletW9phE4xHFM44q4qKA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/QfAzPDyXOYv1vHdsv1TNI732o-uKc7CHhHoM_Eyrwg0/https/i.ytimg.com/vi/ZengOKCUBHo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/ZengOKCUBHo",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703342876599255180",
+      "type": "Default",
+      "timestamp": "2020-04-24T16:33:29.26-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Synched Clash",
+      "author": {
+        "id": "318502776718098444",
+        "name": "annoyingorange6091",
+        "discriminator": "0000",
+        "nickname": "FloodZone",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318502776718098444/fbaeaabfa64c8b29f36682a86b7e5e41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703342916151804005",
+      "type": "Default",
+      "timestamp": "2020-04-24T16:33:38.69-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/channel/UC-MLTxPZd_cp_BdbKiq5t7g;",
+      "author": {
+        "id": "318502776718098444",
+        "name": "annoyingorange6091",
+        "discriminator": "0000",
+        "nickname": "FloodZone",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318502776718098444/fbaeaabfa64c8b29f36682a86b7e5e41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703364914374377514",
+      "type": "Default",
+      "timestamp": "2020-04-24T18:01:03.475-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "envy has a corrupt knife",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703384589112180756",
+      "type": "Default",
+      "timestamp": "2020-04-24T19:19:14.298-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "318502776718098444",
+        "name": "annoyingorange6091",
+        "discriminator": "0000",
+        "nickname": "FloodZone",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318502776718098444/fbaeaabfa64c8b29f36682a86b7e5e41.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "703384588889620600",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703384588889620600/AOh14Gg14a_DyQ4vQhJZ-Mor3GGSjb2dhLUCIWDtD5tekAs70-p-k-rw-no.png?ex=6622fbf2&is=661086f2&hm=cdf0a7ebfcd38213252e5049e7bade4e5f661e23441788c230613a3efe8eaaba&",
+          "fileName": "AOh14Gg14a_DyQ4vQhJZ-Mor3GGSjb2dhLUCIWDtD5tekAs70-p-k-rw-no.png",
+          "fileSizeBytes": 11928
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703426883802628148",
+      "type": "Default",
+      "timestamp": "2020-04-24T22:07:18.138-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "318497494726344705",
+        "name": "general.booty",
+        "discriminator": "0000",
+        "nickname": "General Booty",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318497494726344705/e626d314cab6bd3628a580b0867b7175.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "703426883609559060",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703426883609559060/aEBV4XM_460s.jpg?ex=66232356&is=6610ae56&hm=fad6cb37e0399e3e58af2b3d267a75c9573dabedcab8b10a720f9fcd9a0435ef&",
+          "fileName": "aEBV4XM_460s.jpg",
+          "fileSizeBytes": 58188
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703432924858548315",
+      "type": "RecipientRemove",
+      "timestamp": "2020-04-24T22:31:18.438-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Removed dat_negro from the group.",
+      "author": {
+        "id": "318502776718098444",
+        "name": "annoyingorange6091",
+        "discriminator": "0000",
+        "nickname": "FloodZone",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318502776718098444/fbaeaabfa64c8b29f36682a86b7e5e41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "318498893434322944",
+          "name": "dat_nibba.",
+          "discriminator": "0000",
+          "nickname": "dat_negro",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/318498893434322944/797ac3cf6044e8512627a3af0d318eff.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "703432951894900873",
+      "type": "RecipientAdd",
+      "timestamp": "2020-04-24T22:31:24.884-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added dat_negro to the group.",
+      "author": {
+        "id": "318502776718098444",
+        "name": "annoyingorange6091",
+        "discriminator": "0000",
+        "nickname": "FloodZone",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318502776718098444/fbaeaabfa64c8b29f36682a86b7e5e41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "318498893434322944",
+          "name": "dat_nibba.",
+          "discriminator": "0000",
+          "nickname": "dat_negro",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/318498893434322944/797ac3cf6044e8512627a3af0d318eff.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "703616802151858236",
+      "type": "Call",
+      "timestamp": "2020-04-25T10:41:58.201-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2020-04-26T02:11:51.614-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 930 minutes.",
+      "author": {
+        "id": "318497494726344705",
+        "name": "general.booty",
+        "discriminator": "0000",
+        "nickname": "General Booty",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318497494726344705/e626d314cab6bd3628a580b0867b7175.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "318498893434322944",
+          "name": "dat_nibba.",
+          "discriminator": "0000",
+          "nickname": "dat_negro",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/318498893434322944/797ac3cf6044e8512627a3af0d318eff.png?size=512"
+        },
+        {
+          "id": "437063612356362240",
+          "name": "shadow_plex",
+          "discriminator": "0000",
+          "nickname": "Shadowplex",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/437063612356362240/d8c0f42bd30dc679ab8d9f1cede28af7.png?size=512"
+        },
+        {
+          "id": "318502776718098444",
+          "name": "annoyingorange6091",
+          "discriminator": "0000",
+          "nickname": "FloodZone",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/318502776718098444/fbaeaabfa64c8b29f36682a86b7e5e41.png?size=512"
+        },
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ]
+    },
+    {
+      "id": "703621123564240927",
+      "type": "Default",
+      "timestamp": "2020-04-25T10:59:08.506-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "318497494726344705",
+        "name": "general.booty",
+        "discriminator": "0000",
+        "nickname": "General Booty",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318497494726344705/e626d314cab6bd3628a580b0867b7175.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "703621123471835177",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703621123471835177/image0.jpg?ex=6623d83c&is=6611633c&hm=5f79eea8f0a721165245aa30f6fb97b6ffe2b8ee84c41af1b8205b7e76484312&",
+          "fileName": "image0.jpg",
+          "fileSizeBytes": 1054933
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703673486953939004",
+      "type": "Default",
+      "timestamp": "2020-04-25T14:27:12.911-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "318497494726344705",
+        "name": "general.booty",
+        "discriminator": "0000",
+        "nickname": "General Booty",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318497494726344705/e626d314cab6bd3628a580b0867b7175.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "703673486580908042",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703673486580908042/image0.jpg?ex=66240900&is=66119400&hm=f9d99e1518389ac0161f42757f5d58ea579f9a978f765259bbeb3e7cf4acad11&",
+          "fileName": "image0.jpg",
+          "fileSizeBytes": 1491905
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703673544663629844",
+      "type": "Default",
+      "timestamp": "2020-04-25T14:27:26.67-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "looks nice",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703676547592224778",
+      "type": "Default",
+      "timestamp": "2020-04-25T14:39:22.624-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it wont let me talk",
+      "author": {
+        "id": "318502776718098444",
+        "name": "annoyingorange6091",
+        "discriminator": "0000",
+        "nickname": "FloodZone",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318502776718098444/fbaeaabfa64c8b29f36682a86b7e5e41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703676634682622022",
+      "type": "Default",
+      "timestamp": "2020-04-25T14:39:43.388-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "my mic is not working with my ps4 controller",
+      "author": {
+        "id": "318502776718098444",
+        "name": "annoyingorange6091",
+        "discriminator": "0000",
+        "nickname": "FloodZone",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318502776718098444/fbaeaabfa64c8b29f36682a86b7e5e41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703705749691432990",
+      "type": "Default",
+      "timestamp": "2020-04-25T16:35:24.947-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "318497494726344705",
+        "name": "general.booty",
+        "discriminator": "0000",
+        "nickname": "General Booty",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318497494726344705/e626d314cab6bd3628a580b0867b7175.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "703705749246705675",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703705749246705675/VALORANT_RANK.png?ex=6624270c&is=6611b20c&hm=05f03de1b7cfc9f74b4129595a74ce163668571d68d4aa110a28e7a217d63e78&",
+          "fileName": "VALORANT_RANK.png",
+          "fileSizeBytes": 1188199
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703716823040000072",
+      "type": "Default",
+      "timestamp": "2020-04-25T17:19:25.039-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "guys i have to install drivers for my computer i will be back",
+      "author": {
+        "id": "318502776718098444",
+        "name": "annoyingorange6091",
+        "discriminator": "0000",
+        "nickname": "FloodZone",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318502776718098444/fbaeaabfa64c8b29f36682a86b7e5e41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703729791303549030",
+      "type": "Default",
+      "timestamp": "2020-04-25T18:10:56.914-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can you guys hear me",
+      "author": {
+        "id": "318498893434322944",
+        "name": "dat_nibba.",
+        "discriminator": "0000",
+        "nickname": "dat_negro",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318498893434322944/797ac3cf6044e8512627a3af0d318eff.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703786377829023805",
+      "type": "RecipientAdd",
+      "timestamp": "2020-04-25T21:55:48.193-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added Deleted User to the group.",
+      "author": {
+        "id": "318502776718098444",
+        "name": "annoyingorange6091",
+        "discriminator": "0000",
+        "nickname": "FloodZone",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318502776718098444/fbaeaabfa64c8b29f36682a86b7e5e41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ]
+    },
+    {
+      "id": "703787397074386964",
+      "type": "RecipientAdd",
+      "timestamp": "2020-04-25T21:59:51.2-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added valentine! to the group.",
+      "author": {
+        "id": "318497494726344705",
+        "name": "general.booty",
+        "discriminator": "0000",
+        "nickname": "General Booty",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318497494726344705/e626d314cab6bd3628a580b0867b7175.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "347537520604610561",
+          "name": "valentine6892",
+          "discriminator": "0000",
+          "nickname": "valentine!",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/347537520604610561/5f8933577631f176161a62cf992e14b5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "703787397900664853",
+      "type": "RecipientAdd",
+      "timestamp": "2020-04-25T21:59:51.397-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added Gordiie to the group.",
+      "author": {
+        "id": "318497494726344705",
+        "name": "general.booty",
+        "discriminator": "0000",
+        "nickname": "General Booty",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318497494726344705/e626d314cab6bd3628a580b0867b7175.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "167085363435798528",
+          "name": "gordiie.",
+          "discriminator": "0000",
+          "nickname": "Gordiie",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/167085363435798528/a316beb3546d1a278b94cc4c2aaa088b.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "703787398445924433",
+      "type": "RecipientAdd",
+      "timestamp": "2020-04-25T21:59:51.527-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added poat to the group.",
+      "author": {
+        "id": "318497494726344705",
+        "name": "general.booty",
+        "discriminator": "0000",
+        "nickname": "General Booty",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318497494726344705/e626d314cab6bd3628a580b0867b7175.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "703788148735475742",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:02:50.41-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bois just shaved my head and it looks great",
+      "author": {
+        "id": "318498893434322944",
+        "name": "dat_nibba.",
+        "discriminator": "0000",
+        "nickname": "dat_negro",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318498893434322944/797ac3cf6044e8512627a3af0d318eff.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703788832612548619",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:05:33.459-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "318498893434322944",
+        "name": "dat_nibba.",
+        "discriminator": "0000",
+        "nickname": "dat_negro",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318498893434322944/797ac3cf6044e8512627a3af0d318eff.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "703788829642981456",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703788829642981456/20200425_182123.jpg?ex=6624746c&is=6611ff6c&hm=a64728d62c1758e37cfef388785618d6c052e1515b09ea7c306ffc84024c17c9&",
+          "fileName": "20200425_182123.jpg",
+          "fileSizeBytes": 547321
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703788967476068373",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:06:05.613-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83C\uDFF3️‍\uD83C\uDF08\uD83E\uDD23",
+      "author": {
+        "id": "347537520604610561",
+        "name": "valentine6892",
+        "discriminator": "0000",
+        "nickname": "valentine!",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347537520604610561/5f8933577631f176161a62cf992e14b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703789075177537588",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:06:31.291-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://web.roblox.com/games/4625120259/LGBTQ-Hangout?refPageId=8a12033d-62f8-4e93-804c-67065c6da163#!/game-instances",
+      "author": {
+        "id": "347537520604610561",
+        "name": "valentine6892",
+        "discriminator": "0000",
+        "nickname": "valentine!",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347537520604610561/5f8933577631f176161a62cf992e14b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "LGBTQ+ Hangout \uD83C\uDF08",
+          "url": "https://web.roblox.com/games/4625120259/LGBTQ-Hangout?refPageId=8a12033d-62f8-4e93-804c-67065c6da163",
+          "timestamp": null,
+          "description": "Check out LGBTQ+ Hangout \uD83C\uDF08. It’s one of the millions of unique, user-generated 3D experiences created on Roblox. You can join our fan group here: https://www.roblox.com/groups/group.aspx?gid=5253408 \uD83C\uDF08\n\nThis game was made by Swocks\nPlease follow all in-game rules and ROBLOX ter...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/E6DSn3mV6hGqlr413_JE68Rn5N_JS1F9WBENdiUm8J8/https/t3.rbxcdn.com/928d7523ad22b5936988df057cc70ed1",
+            "width": 500,
+            "height": 280
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703789168727162890",
+      "type": "RecipientRemove",
+      "timestamp": "2020-04-25T22:06:53.595-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Left the group.",
+      "author": {
+        "id": "167085363435798528",
+        "name": "gordiie.",
+        "discriminator": "0000",
+        "nickname": "Gordiie",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/167085363435798528/a316beb3546d1a278b94cc4c2aaa088b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "167085363435798528",
+          "name": "gordiie.",
+          "discriminator": "0000",
+          "nickname": "Gordiie",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/167085363435798528/a316beb3546d1a278b94cc4c2aaa088b.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "703789221269209170",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:07:06.122-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "318497494726344705",
+        "name": "general.booty",
+        "discriminator": "0000",
+        "nickname": "General Booty",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318497494726344705/e626d314cab6bd3628a580b0867b7175.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "703789220514496602",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703789220514496602/image0.jpg?ex=662474c9&is=6611ffc9&hm=f108035db268036bc61d26b88d12704b5e902dc82e8fd785f9f25a4ebd743562&",
+          "fileName": "image0.jpg",
+          "fileSizeBytes": 1491905
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703789360658776115",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:07:39.355-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "347537520604610561",
+        "name": "valentine6892",
+        "discriminator": "0000",
+        "nickname": "valentine!",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347537520604610561/5f8933577631f176161a62cf992e14b5.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "703789358318354442",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703789358318354442/image0.jpg?ex=662474ea&is=6611ffea&hm=852ab620e5883078b517df3f9651782f6b5cdf6dda2947df0b6021d13c5a8c23&",
+          "fileName": "image0.jpg",
+          "fileSizeBytes": 217608
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703789451398086678",
+      "type": "RecipientRemove",
+      "timestamp": "2020-04-25T22:08:00.989-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Left the group.",
+      "author": {
+        "id": "318497494726344705",
+        "name": "general.booty",
+        "discriminator": "0000",
+        "nickname": "General Booty",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318497494726344705/e626d314cab6bd3628a580b0867b7175.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "318497494726344705",
+          "name": "general.booty",
+          "discriminator": "0000",
+          "nickname": "General Booty",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/318497494726344705/e626d314cab6bd3628a580b0867b7175.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "703789583179186216",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:08:32.408-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "347537520604610561",
+        "name": "valentine6892",
+        "discriminator": "0000",
+        "nickname": "valentine!",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347537520604610561/5f8933577631f176161a62cf992e14b5.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "703789581752860742",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703789581752860742/image0.jpg?ex=66247520&is=66120020&hm=35188c65923bd3cf8c8c15b2123c0359b6ec27e53841e3fa5c5ee2c1788ecf70&",
+          "fileName": "image0.jpg",
+          "fileSizeBytes": 110169
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703789611838865408",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:08:39.241-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "703789610739695766",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703789610739695766/1073826399-cover_20timeline_20vector_20despicable_20me_20.jpg?ex=66247526&is=66120026&hm=4b1ca9e0fcc10416d96af07fe3327f91d1bf02612f649e7de44d1c98bea16413&",
+          "fileName": "1073826399-cover_20timeline_20vector_20despicable_20me_20.jpg",
+          "fileSizeBytes": 37968
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703789678125645905",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:08:55.045-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "347537520604610561",
+        "name": "valentine6892",
+        "discriminator": "0000",
+        "nickname": "valentine!",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347537520604610561/5f8933577631f176161a62cf992e14b5.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "703789674061234257",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703789674061234257/video0.mp4?ex=66247536&is=66120036&hm=733b5b477ccb1d8e74a78719a2a3145f592a9483e85e304ad09ed8736409be4b&",
+          "fileName": "video0.mp4",
+          "fileSizeBytes": 2898676
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703789800859107430",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:09:24.307-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "347537520604610561",
+        "name": "valentine6892",
+        "discriminator": "0000",
+        "nickname": "valentine!",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347537520604610561/5f8933577631f176161a62cf992e14b5.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "703789798149586994",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703789798149586994/video0.mov?ex=66247553&is=66120053&hm=98580eb1871844d6a6e061cfa6368c93c5b2fd728316497cf92882c3aa0d53ca&",
+          "fileName": "video0.mov",
+          "fileSizeBytes": 530862
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703789882987905064",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:09:43.888-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "703789880316133446",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703789880316133446/a9d5c2a9dd4001f6a6188a29855aa974.jpg?ex=66247567&is=66120067&hm=8747ada9aa1ac700606e4062ac497ca60d43439291d35b08cb60100c06e6cee2&",
+          "fileName": "a9d5c2a9dd4001f6a6188a29855aa974.jpg",
+          "fileSizeBytes": 34965
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703790010524106822",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:10:14.295-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "347537520604610561",
+        "name": "valentine6892",
+        "discriminator": "0000",
+        "nickname": "valentine!",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347537520604610561/5f8933577631f176161a62cf992e14b5.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "703790007533437008",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703790007533437008/video0.mp4?ex=66247585&is=66120085&hm=d450f9bbc7ae237f801ebaf550d4360e97048a98c81b4bfda6e8de3ffc044adb&",
+          "fileName": "video0.mp4",
+          "fileSizeBytes": 2948377
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703790094703657090",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:10:34.365-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "347537520604610561",
+        "name": "valentine6892",
+        "discriminator": "0000",
+        "nickname": "valentine!",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347537520604610561/5f8933577631f176161a62cf992e14b5.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "703790090555621406",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703790090555621406/image0.jpg?ex=66247599&is=66120099&hm=5a937da66f4dbffb9c7792291b8720d14e8cb97ea49dd7152c7fa249debdb5ce&",
+          "fileName": "image0.jpg",
+          "fileSizeBytes": 83401
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703790275272769566",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:11:17.416-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "347537520604610561",
+        "name": "valentine6892",
+        "discriminator": "0000",
+        "nickname": "valentine!",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347537520604610561/5f8933577631f176161a62cf992e14b5.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "703790272877690910",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703790272877690910/video0.mov?ex=662475c4&is=661200c4&hm=6a134ddb2156f626c2296893944fc9d4b984426959a7a7758cf826e1c479a0d6&",
+          "fileName": "video0.mov",
+          "fileSizeBytes": 555918
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703790430743035976",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:11:54.483-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "347537520604610561",
+        "name": "valentine6892",
+        "discriminator": "0000",
+        "nickname": "valentine!",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347537520604610561/5f8933577631f176161a62cf992e14b5.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "703790424837455935",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703790424837455935/video0.mov?ex=662475e9&is=661200e9&hm=f458f5cd377ce6af198be8bec06a9df692288fb401b126c1c6a1cee67c0698c5&",
+          "fileName": "video0.mov",
+          "fileSizeBytes": 7058334
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703790548523417630",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:12:22.564-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "703790545360781342",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703790545360781342/4eea16739d614b58a39528fc6ee6fdd3.jpg?ex=66247605&is=66120105&hm=c78fafe837796212b23cc6cb13a4e09a0d01d84f5742946ec18370bd79666590&",
+          "fileName": "4eea16739d614b58a39528fc6ee6fdd3.jpg",
+          "fileSizeBytes": 23367
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703790597437259812",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:12:34.226-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "703790595063283712",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703790595063283712/b10008958-001.jpg?ex=66247611&is=66120111&hm=dc23993cbff588a871c2c512441ca06a283f6f94b7f0f932fc730e03b945fb98&",
+          "fileName": "b10008958-001.jpg",
+          "fileSizeBytes": 48016
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703790604626296842",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:12:35.94-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "347537520604610561",
+        "name": "valentine6892",
+        "discriminator": "0000",
+        "nickname": "valentine!",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347537520604610561/5f8933577631f176161a62cf992e14b5.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "703790602315366401",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703790602315366401/video0.mp4?ex=66247613&is=66120113&hm=876dfa3e6ec54ab0c40c6e54d9b3a9960b2684fca36e0dcfae3d32f9d77f092c&",
+          "fileName": "video0.mp4",
+          "fileSizeBytes": 2306294
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703790679075061862",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:12:53.69-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "703790677984673902",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703790677984673902/funny-bad-hair-mugshots6.jpg?ex=66247625&is=66120125&hm=d09791a8202f725a3a7d0ebc421ffb78e8e3361b4f2ed40df4c792b4e5ea21c4&",
+          "fileName": "funny-bad-hair-mugshots6.jpg",
+          "fileSizeBytes": 12168
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703790809937477722",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:13:24.89-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gay",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "703790806447685662",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703790806447685662/images_2.jpg?ex=66247644&is=66120144&hm=bcd1a403e5daadd85787176a75b71b9859a8dc2aebc37c95185add493df6772c&",
+          "fileName": "images_2.jpg",
+          "fileSizeBytes": 8388
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703790838572122124",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:13:31.717-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "318498893434322944",
+        "name": "dat_nibba.",
+        "discriminator": "0000",
+        "nickname": "dat_negro",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318498893434322944/797ac3cf6044e8512627a3af0d318eff.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "703790835577126932",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703790835577126932/download_1.png?ex=6624764b&is=6612014b&hm=fc4116e34845fc96af04a6750eeef7fd1b64cf7464b7908f3a8003bd171a640f&",
+          "fileName": "download_1.png",
+          "fileSizeBytes": 4958
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703790874139820063",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:13:40.197-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "347537520604610561",
+        "name": "valentine6892",
+        "discriminator": "0000",
+        "nickname": "valentine!",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347537520604610561/5f8933577631f176161a62cf992e14b5.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "703790871602135071",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703790871602135071/image0.png?ex=66247653&is=66120153&hm=52a0e0227dd79ea1bfc8dcd662dfc954c1eaab8c7cf5b141bd25c98dcf7910c5&",
+          "fileName": "image0.png",
+          "fileSizeBytes": 4239928
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703790902740779009",
+      "type": "RecipientAdd",
+      "timestamp": "2020-04-25T22:13:47.016-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added General Booty to the group.",
+      "author": {
+        "id": "318498893434322944",
+        "name": "dat_nibba.",
+        "discriminator": "0000",
+        "nickname": "dat_negro",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318498893434322944/797ac3cf6044e8512627a3af0d318eff.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "318497494726344705",
+          "name": "general.booty",
+          "discriminator": "0000",
+          "nickname": "General Booty",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/318497494726344705/e626d314cab6bd3628a580b0867b7175.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "703790905974325287",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:13:47.787-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "347537520604610561",
+        "name": "valentine6892",
+        "discriminator": "0000",
+        "nickname": "valentine!",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347537520604610561/5f8933577631f176161a62cf992e14b5.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "703790901499002929",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703790901499002929/video0.mp4?ex=6624765a&is=6612015a&hm=3abab1c4b38c968c6ac5c43a7665799efb86773e7dce3d4ecf153b1737c81a8b&",
+          "fileName": "video0.mp4",
+          "fileSizeBytes": 2278684
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703790921686450286",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:13:51.533-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "do you want some drugs man",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "703790919274725456",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703790919274725456/funny-bad-hair-mugshots6.jpg?ex=6624765e&is=6612015e&hm=c20eb363022800db55d820d2a09b1c3edc10575b9daa9dab356848db024f0af4&",
+          "fileName": "funny-bad-hair-mugshots6.jpg",
+          "fileSizeBytes": 12168
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703791003697414195",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:14:11.086-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "347537520604610561",
+        "name": "valentine6892",
+        "discriminator": "0000",
+        "nickname": "valentine!",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347537520604610561/5f8933577631f176161a62cf992e14b5.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "703791001910902855",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703791001910902855/video0.mp4?ex=66247672&is=66120172&hm=a531d7154b288e59f12611c528e6cd77799fc10c9d921f50f626e07a6a32a36b&",
+          "fileName": "video0.mp4",
+          "fileSizeBytes": 741492
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703791079337492540",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:14:29.12-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "347537520604610561",
+        "name": "valentine6892",
+        "discriminator": "0000",
+        "nickname": "valentine!",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347537520604610561/5f8933577631f176161a62cf992e14b5.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "703791078200967188",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703791078200967188/image0.jpg?ex=66247684&is=66120184&hm=03b82e98922b156b6192d0124d81ad8d830efc782efc6419364552cd8af01cf5&",
+          "fileName": "image0.jpg",
+          "fileSizeBytes": 158488
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703791098539147355",
+      "type": "RecipientRemove",
+      "timestamp": "2020-04-25T22:14:33.698-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Removed valentine! from the group.",
+      "author": {
+        "id": "318502776718098444",
+        "name": "annoyingorange6091",
+        "discriminator": "0000",
+        "nickname": "FloodZone",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318502776718098444/fbaeaabfa64c8b29f36682a86b7e5e41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "347537520604610561",
+          "name": "valentine6892",
+          "discriminator": "0000",
+          "nickname": "valentine!",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/347537520604610561/5f8933577631f176161a62cf992e14b5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "703791855468281876",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:17:34.164-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lol",
+      "author": {
+        "id": "437063612356362240",
+        "name": "shadow_plex",
+        "discriminator": "0000",
+        "nickname": "Shadowplex",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437063612356362240/d8c0f42bd30dc679ab8d9f1cede28af7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703792180732362782",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:18:51.713-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "437063612356362240",
+        "name": "shadow_plex",
+        "discriminator": "0000",
+        "nickname": "Shadowplex",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437063612356362240/d8c0f42bd30dc679ab8d9f1cede28af7.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "703792180090896404",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg?ex=6624778b&is=6612028b&hm=8d3e5a7d9c2390694e3e0ff560724293eb0c8633c74e2f21c74afd466b062997&",
+          "fileName": "Snapchat-895553013.jpg",
+          "fileSizeBytes": 106642
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703792264664842432",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:19:11.724-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "703792262122831872",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703792262122831872/image7.jpg?ex=6624779f&is=6612029f&hm=649882db860cc12c3f612e0017ecc0a1e839fedd76ce55ed7fd4f8e7e56cb59d&",
+          "fileName": "image7.jpg",
+          "fileSizeBytes": 21745
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703792434840207421",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:19:52.297-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+      "author": {
+        "id": "437063612356362240",
+        "name": "shadow_plex",
+        "discriminator": "0000",
+        "nickname": "Shadowplex",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437063612356362240/d8c0f42bd30dc679ab8d9f1cede28af7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg?ex=6624778b&is=6612028b&hm=8d3e5a7d9c2390694e3e0ff560724293eb0c8633c74e2f21c74afd466b062997&",
+            "width": 666,
+            "height": 1280
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703792436819918868",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:19:52.769-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+      "author": {
+        "id": "437063612356362240",
+        "name": "shadow_plex",
+        "discriminator": "0000",
+        "nickname": "Shadowplex",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437063612356362240/d8c0f42bd30dc679ab8d9f1cede28af7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg?ex=6624778b&is=6612028b&hm=8d3e5a7d9c2390694e3e0ff560724293eb0c8633c74e2f21c74afd466b062997&",
+            "width": 666,
+            "height": 1280
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703792437877014548",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:19:53.021-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+      "author": {
+        "id": "437063612356362240",
+        "name": "shadow_plex",
+        "discriminator": "0000",
+        "nickname": "Shadowplex",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437063612356362240/d8c0f42bd30dc679ab8d9f1cede28af7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg?ex=6624778b&is=6612028b&hm=8d3e5a7d9c2390694e3e0ff560724293eb0c8633c74e2f21c74afd466b062997&",
+            "width": 666,
+            "height": 1280
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703792439110140015",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:19:53.315-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+      "author": {
+        "id": "437063612356362240",
+        "name": "shadow_plex",
+        "discriminator": "0000",
+        "nickname": "Shadowplex",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437063612356362240/d8c0f42bd30dc679ab8d9f1cede28af7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg?ex=6624778b&is=6612028b&hm=8d3e5a7d9c2390694e3e0ff560724293eb0c8633c74e2f21c74afd466b062997&",
+            "width": 666,
+            "height": 1280
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703792440473288754",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:19:53.64-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+      "author": {
+        "id": "437063612356362240",
+        "name": "shadow_plex",
+        "discriminator": "0000",
+        "nickname": "Shadowplex",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437063612356362240/d8c0f42bd30dc679ab8d9f1cede28af7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg?ex=6624778b&is=6612028b&hm=8d3e5a7d9c2390694e3e0ff560724293eb0c8633c74e2f21c74afd466b062997&",
+            "width": 666,
+            "height": 1280
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703792441605488722",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:19:53.91-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+      "author": {
+        "id": "437063612356362240",
+        "name": "shadow_plex",
+        "discriminator": "0000",
+        "nickname": "Shadowplex",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437063612356362240/d8c0f42bd30dc679ab8d9f1cede28af7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg?ex=6624778b&is=6612028b&hm=8d3e5a7d9c2390694e3e0ff560724293eb0c8633c74e2f21c74afd466b062997&",
+            "width": 666,
+            "height": 1280
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703792443035877417",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:19:54.251-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+      "author": {
+        "id": "437063612356362240",
+        "name": "shadow_plex",
+        "discriminator": "0000",
+        "nickname": "Shadowplex",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437063612356362240/d8c0f42bd30dc679ab8d9f1cede28af7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg?ex=6624778b&is=6612028b&hm=8d3e5a7d9c2390694e3e0ff560724293eb0c8633c74e2f21c74afd466b062997&",
+            "width": 666,
+            "height": 1280
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703792444323659808",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:19:54.558-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+      "author": {
+        "id": "437063612356362240",
+        "name": "shadow_plex",
+        "discriminator": "0000",
+        "nickname": "Shadowplex",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437063612356362240/d8c0f42bd30dc679ab8d9f1cede28af7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg?ex=6624778b&is=6612028b&hm=8d3e5a7d9c2390694e3e0ff560724293eb0c8633c74e2f21c74afd466b062997&",
+            "width": 666,
+            "height": 1280
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703792446319886446",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:19:55.034-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+      "author": {
+        "id": "437063612356362240",
+        "name": "shadow_plex",
+        "discriminator": "0000",
+        "nickname": "Shadowplex",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437063612356362240/d8c0f42bd30dc679ab8d9f1cede28af7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg?ex=6624778b&is=6612028b&hm=8d3e5a7d9c2390694e3e0ff560724293eb0c8633c74e2f21c74afd466b062997&",
+            "width": 666,
+            "height": 1280
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703792450229108747",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:19:55.966-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+      "author": {
+        "id": "437063612356362240",
+        "name": "shadow_plex",
+        "discriminator": "0000",
+        "nickname": "Shadowplex",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437063612356362240/d8c0f42bd30dc679ab8d9f1cede28af7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg?ex=6624778b&is=6612028b&hm=8d3e5a7d9c2390694e3e0ff560724293eb0c8633c74e2f21c74afd466b062997&",
+            "width": 666,
+            "height": 1280
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703792477177511996",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:20:02.391-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+      "author": {
+        "id": "437063612356362240",
+        "name": "shadow_plex",
+        "discriminator": "0000",
+        "nickname": "Shadowplex",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437063612356362240/d8c0f42bd30dc679ab8d9f1cede28af7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg?ex=6624778b&is=6612028b&hm=8d3e5a7d9c2390694e3e0ff560724293eb0c8633c74e2f21c74afd466b062997&",
+            "width": 666,
+            "height": 1280
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703792477739548735",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:20:02.525-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+      "author": {
+        "id": "437063612356362240",
+        "name": "shadow_plex",
+        "discriminator": "0000",
+        "nickname": "Shadowplex",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437063612356362240/d8c0f42bd30dc679ab8d9f1cede28af7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg?ex=6624778b&is=6612028b&hm=8d3e5a7d9c2390694e3e0ff560724293eb0c8633c74e2f21c74afd466b062997&",
+            "width": 666,
+            "height": 1280
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703792478121361469",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:20:02.616-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+      "author": {
+        "id": "437063612356362240",
+        "name": "shadow_plex",
+        "discriminator": "0000",
+        "nickname": "Shadowplex",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437063612356362240/d8c0f42bd30dc679ab8d9f1cede28af7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg?ex=6624778b&is=6612028b&hm=8d3e5a7d9c2390694e3e0ff560724293eb0c8633c74e2f21c74afd466b062997&",
+            "width": 666,
+            "height": 1280
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703792479085789204",
+      "type": "Default",
+      "timestamp": "2020-04-25T22:20:02.846-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+      "author": {
+        "id": "437063612356362240",
+        "name": "shadow_plex",
+        "discriminator": "0000",
+        "nickname": "Shadowplex",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437063612356362240/d8c0f42bd30dc679ab8d9f1cede28af7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/703269748691173407/703792180090896404/Snapchat-895553013.jpg?ex=6624778b&is=6612028b&hm=8d3e5a7d9c2390694e3e0ff560724293eb0c8633c74e2f21c74afd466b062997&",
+            "width": 666,
+            "height": 1280
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "703975967416123473",
+      "type": "RecipientRemove",
+      "timestamp": "2020-04-26T10:29:09.873-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Left the group.",
+      "author": {
+        "id": "318497494726344705",
+        "name": "general.booty",
+        "discriminator": "0000",
+        "nickname": "General Booty",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318497494726344705/e626d314cab6bd3628a580b0867b7175.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "318497494726344705",
+          "name": "general.booty",
+          "discriminator": "0000",
+          "nickname": "General Booty",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/318497494726344705/e626d314cab6bd3628a580b0867b7175.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "703998044852584538",
+      "type": "RecipientRemove",
+      "timestamp": "2020-04-26T11:56:53.544-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Left the group.",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ]
+    },
+    {
+      "id": "704002796747489330",
+      "type": "Call",
+      "timestamp": "2020-04-26T12:15:46.484-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2020-04-26T15:11:41.524-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 176 minutes.",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "318498893434322944",
+          "name": "dat_nibba.",
+          "discriminator": "0000",
+          "nickname": "dat_negro",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/318498893434322944/797ac3cf6044e8512627a3af0d318eff.png?size=512"
+        },
+        {
+          "id": "318502776718098444",
+          "name": "annoyingorange6091",
+          "discriminator": "0000",
+          "nickname": "FloodZone",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/318502776718098444/fbaeaabfa64c8b29f36682a86b7e5e41.png?size=512"
+        },
+        {
+          "id": "437063612356362240",
+          "name": "shadow_plex",
+          "discriminator": "0000",
+          "nickname": "Shadowplex",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/437063612356362240/d8c0f42bd30dc679ab8d9f1cede28af7.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "704003180475842611",
+      "type": "RecipientAdd",
+      "timestamp": "2020-04-26T12:17:17.972-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added Deleted User to the group.",
+      "author": {
+        "id": "318502776718098444",
+        "name": "annoyingorange6091",
+        "discriminator": "0000",
+        "nickname": "FloodZone",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318502776718098444/fbaeaabfa64c8b29f36682a86b7e5e41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ]
+    },
+    {
+      "id": "704013486744797218",
+      "type": "Default",
+      "timestamp": "2020-04-26T12:58:15.178-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I JUST FRIKEN ACED",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "704017317150982174",
+      "type": "Default",
+      "timestamp": "2020-04-26T13:13:28.418-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "704017313023918090",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/704017313023918090/Brayden.jpg?ex=66254937&is=6612d437&hm=047a3adb2df88eb18068b133d01441aba69e0d1adc379235cc5307d737a6a7f7&",
+          "fileName": "Brayden.jpg",
+          "fileSizeBytes": 17807
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "704017352626405387",
+      "type": "Default",
+      "timestamp": "2020-04-26T13:13:36.876-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "704017349375819846",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/704017349375819846/58e0d6e88af5781f008b5af0.jpg?ex=66254940&is=6612d440&hm=af3b70e2e4b2d33c84f417b47bee395e7fecebee83e65a3a9c34ba4b290d4e1e&",
+          "fileName": "58e0d6e88af5781f008b5af0.jpg",
+          "fileSizeBytes": 54163
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "704017437359603752",
+      "type": "Default",
+      "timestamp": "2020-04-26T13:13:57.078-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "704017434725843005",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/704017434725843005/1a34e80720b23ac2db4e2af66756ff22.jpg?ex=66254954&is=6612d454&hm=778935deb48362d1de3967c837370c1e8a7c4227b634c5f74cbb56cce9389f49&",
+          "fileName": "1a34e80720b23ac2db4e2af66756ff22.jpg",
+          "fileSizeBytes": 112638
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "704017468993306665",
+      "type": "Default",
+      "timestamp": "2020-04-26T13:14:04.62-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "704017467793473556",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/704017467793473556/61wzGfe4NnL._AC_SX425_.jpg?ex=6625495c&is=6612d45c&hm=79d88e48c2d05cd7e69d378f38aa013ab51fcbe92c2fbb49ac2708322c684540&",
+          "fileName": "61wzGfe4NnL._AC_SX425_.jpg",
+          "fileSizeBytes": 8238
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "704017500756770898",
+      "type": "Default",
+      "timestamp": "2020-04-26T13:14:12.193-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "704017496671518830",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/704017496671518830/09fed1f720bd5d6fa756dcefc44f07a4_md.jpg?ex=66254963&is=6612d463&hm=4e1af99431ed66564b74f203824c4d8cc330cb710b9182f9945f6c323e8d3355&",
+          "fileName": "09fed1f720bd5d6fa756dcefc44f07a4_md.jpg",
+          "fileSizeBytes": 63367
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "704017625453428827",
+      "type": "Default",
+      "timestamp": "2020-04-26T13:14:41.923-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "704017624144543936",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/704017624144543936/images_3.jpg?ex=66254981&is=6612d481&hm=dd76e0eeea4453ba54c4b8173454dbcbd5d28625290a998b9c673d56b9d079ca&",
+          "fileName": "images_3.jpg",
+          "fileSizeBytes": 3049
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "704017695951159437",
+      "type": "Default",
+      "timestamp": "2020-04-26T13:14:58.731-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "704017694168449094",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/704017694168449094/images_4.jpg?ex=66254992&is=6612d492&hm=ba6802d737eef46354269241b7f2bd104da0c58793edd47caf1f214703a3e21e&",
+          "fileName": "images_4.jpg",
+          "fileSizeBytes": 7485
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "704017763718660126",
+      "type": "Default",
+      "timestamp": "2020-04-26T13:15:14.888-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "704017760744767548",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/704017760744767548/LuFaflK_1.png?ex=662549a2&is=6612d4a2&hm=ffea9d9c737d9befcba7ab63ea5d4efa2c315db9baae173c9a2de1eeb82aee6d&",
+          "fileName": "LuFaflK_1.png",
+          "fileSizeBytes": 559022
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "704017829317443594",
+      "type": "Default",
+      "timestamp": "2020-04-26T13:15:30.528-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "704017827652304926",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/704017827652304926/images_2.jpg?ex=662549b2&is=6612d4b2&hm=0cf550bda830fc3d813c0b9398bb41b9c110c5f94d3339e98b9a26395190da00&",
+          "fileName": "images_2.jpg",
+          "fileSizeBytes": 8388
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "704017875765035008",
+      "type": "Default",
+      "timestamp": "2020-04-26T13:15:41.602-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "704017874611863622",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/704017874611863622/27_straight_3_bundles_with_closure.jpg?ex=662549bd&is=6612d4bd&hm=898dc88e58e3a62f86b378a271eea870d9bffee27ab35262a7b2c30b53c5f6bf&",
+          "fileName": "27_straight_3_bundles_with_closure.jpg",
+          "fileSizeBytes": 126787
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "704017926788874391",
+      "type": "Default",
+      "timestamp": "2020-04-26T13:15:53.767-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "704017925031329802",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/704017925031329802/10863074-3x2-700x467.jpg?ex=662549c9&is=6612d4c9&hm=7d4c7b5dbb46d0820149be3d1e35c0adcb7e022a0229b4bc6b007d88528957e5&",
+          "fileName": "10863074-3x2-700x467.jpg",
+          "fileSizeBytes": 36344
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "704017977779159130",
+      "type": "Default",
+      "timestamp": "2020-04-26T13:16:05.924-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "704017974645883010",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/704017974645883010/DOODLEBOPS-197.jpg?ex=662549d5&is=6612d4d5&hm=bf63ebe5a7c690622b4a98b1eae59562c290e417f44adf19a18be288b758adef&",
+          "fileName": "DOODLEBOPS-197.jpg",
+          "fileSizeBytes": 66070
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "704018041335185478",
+      "type": "Default",
+      "timestamp": "2020-04-26T13:16:21.077-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "704018039624040478",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/704018039624040478/download_1.jpg?ex=662549e4&is=6612d4e4&hm=6c40c34b240aa029dbccaac6df160e437850f1e3c80a5cf5352c40f6e3895aa0&",
+          "fileName": "download_1.jpg",
+          "fileSizeBytes": 9593
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "704018081957019709",
+      "type": "Default",
+      "timestamp": "2020-04-26T13:16:30.762-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "704018080640270336",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/704018080640270336/60d719f5-bfd7-4cf1-b200-0e59cc1efe8a.jpg?ex=662549ee&is=6612d4ee&hm=8062cbbb405d53093ee229c816ec6b541a9a3540d57ea3fe54f36759253dbe91&",
+          "fileName": "60d719f5-bfd7-4cf1-b200-0e59cc1efe8a.jpg",
+          "fileSizeBytes": 31186
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "704018214925107310",
+      "type": "Default",
+      "timestamp": "2020-04-26T13:17:02.464-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "704018212425170944",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/704018212425170944/nazi-party-flag-1.jpg?ex=66254a0d&is=6612d50d&hm=148836a9d58b96fb468449f2d4a16ce7f1a53c25239de962920f0a944eab80b7&",
+          "fileName": "nazi-party-flag-1.jpg",
+          "fileSizeBytes": 54143
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "704018263725572206",
+      "type": "Default",
+      "timestamp": "2020-04-26T13:17:14.099-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "704018261280292914",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/704018261280292914/37052800_2155386224676612_3833595299109011456_n.jpg?ex=66254a19&is=6612d519&hm=994149ec589990929fcb0b386a461cb75caf71f192a146efc955c19bf0056e2e&",
+          "fileName": "37052800_2155386224676612_3833595299109011456_n.jpg",
+          "fileSizeBytes": 85419
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "704018326539468902",
+      "type": "Default",
+      "timestamp": "2020-04-26T13:17:29.075-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "704018323972554762",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/704018323972554762/Brayden.jpg?ex=66254a28&is=6612d528&hm=75b6bfd0c576cd1c7dc89533121bbd50566e6795bc71c40276203361825706b3&",
+          "fileName": "Brayden.jpg",
+          "fileSizeBytes": 17807
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "704018391463100466",
+      "type": "Default",
+      "timestamp": "2020-04-26T13:17:44.554-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "704018390091825282",
+          "url": "https://cdn.discordapp.com/attachments/703269748691173407/704018390091825282/1073826399-cover_20timeline_20vector_20despicable_20me_20.jpg?ex=66254a38&is=6612d538&hm=3b6b0e1a81b5e821b0cb6b65ae11c830f604140be774e4c8b28620a5dfdcf962&",
+          "fileName": "1073826399-cover_20timeline_20vector_20despicable_20me_20.jpg",
+          "fileSizeBytes": 37968
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "704018732288049203",
+      "type": "RecipientRemove",
+      "timestamp": "2020-04-26T13:19:05.813-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Left the group.",
+      "author": {
+        "id": "318498893434322944",
+        "name": "dat_nibba.",
+        "discriminator": "0000",
+        "nickname": "dat_negro",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318498893434322944/797ac3cf6044e8512627a3af0d318eff.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "318498893434322944",
+          "name": "dat_nibba.",
+          "discriminator": "0000",
+          "nickname": "dat_negro",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/318498893434322944/797ac3cf6044e8512627a3af0d318eff.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "707383626232233996",
+      "type": "RecipientRemove",
+      "timestamp": "2020-05-05T20:09:59.046-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Left the group.",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ]
+    },
+    {
+      "id": "707612351247155311",
+      "type": "RecipientRemove",
+      "timestamp": "2020-05-06T11:18:51.339-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Left the group.",
+      "author": {
+        "id": "318502776718098444",
+        "name": "annoyingorange6091",
+        "discriminator": "0000",
+        "nickname": "FloodZone",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318502776718098444/fbaeaabfa64c8b29f36682a86b7e5e41.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "318502776718098444",
+          "name": "annoyingorange6091",
+          "discriminator": "0000",
+          "nickname": "FloodZone",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/318502776718098444/fbaeaabfa64c8b29f36682a86b7e5e41.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "707614421891154002",
+      "type": "RecipientRemove",
+      "timestamp": "2020-05-06T11:27:05.019-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Left the group.",
+      "author": {
+        "id": "437063612356362240",
+        "name": "shadow_plex",
+        "discriminator": "0000",
+        "nickname": "Shadowplex",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437063612356362240/d8c0f42bd30dc679ab8d9f1cede28af7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "437063612356362240",
+          "name": "shadow_plex",
+          "discriminator": "0000",
+          "nickname": "Shadowplex",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/437063612356362240/d8c0f42bd30dc679ab8d9f1cede28af7.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 99
+}

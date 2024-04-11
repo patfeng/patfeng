@@ -1,0 +1,284 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "968711963423158272",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "Koii, sofa, soy, roxella, marco <3, yueyanggg, kasper",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:22:51.8319265-04:00",
+  "messages": [
+    {
+      "id": "968711972134723614",
+      "type": "Call",
+      "timestamp": "2022-04-26T23:15:31.955-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-04-27T04:34:25.748-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 319 minutes.",
+      "author": {
+        "id": "862978789859655680",
+        "name": "roxella",
+        "discriminator": "0000",
+        "nickname": "roxella",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/862978789859655680/cfa07efb8adf962497a9c76d4437e147.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "476677991225884684",
+          "name": "soyonline",
+          "discriminator": "0000",
+          "nickname": "soy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/476677991225884684/b6ae38d1c797d694977ff8a2b4c2be43.png?size=512"
+        },
+        {
+          "id": "700940587746066463",
+          "name": "marc05920",
+          "discriminator": "0000",
+          "nickname": "marco <3",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/700940587746066463/03bfe485f5de62ef2fe6d0aee4fb9eb9.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "968712048978567208",
+      "type": "RecipientAdd",
+      "timestamp": "2022-04-26T23:15:50.276-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added yueyanggg to the group.",
+      "author": {
+        "id": "700940587746066463",
+        "name": "marc05920",
+        "discriminator": "0000",
+        "nickname": "marco <3",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/700940587746066463/03bfe485f5de62ef2fe6d0aee4fb9eb9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "530217986246705183",
+          "name": "yueyanggg",
+          "discriminator": "0000",
+          "nickname": "yueyanggg",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/530217986246705183/7e400d1e60f1a55a2a1976bfbf64803b.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "968741735087886396",
+      "type": "RecipientAdd",
+      "timestamp": "2022-04-27T01:13:47.996-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added kasper to the group.",
+      "author": {
+        "id": "862978789859655680",
+        "name": "roxella",
+        "discriminator": "0000",
+        "nickname": "roxella",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/862978789859655680/cfa07efb8adf962497a9c76d4437e147.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "73655339316154368",
+          "name": "bookasper",
+          "discriminator": "0000",
+          "nickname": "kasper",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/73655339316154368/a_642ab5dfaee13a12965fbb8438710435.gif?size=512"
+        }
+      ]
+    },
+    {
+      "id": "968762352361177118",
+      "type": "RecipientAdd",
+      "timestamp": "2022-04-27T02:35:43.537-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added Koii to the group.",
+      "author": {
+        "id": "700940587746066463",
+        "name": "marc05920",
+        "discriminator": "0000",
+        "nickname": "marco <3",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/700940587746066463/03bfe485f5de62ef2fe6d0aee4fb9eb9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "153271528232845312",
+          "name": "koii",
+          "discriminator": "0000",
+          "nickname": "Koii",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/153271528232845312/02024638083a978cdfdce1a974483951.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "968764022130368552",
+      "type": "RecipientAdd",
+      "timestamp": "2022-04-27T02:42:21.641-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added sofa to the group.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "265675530253238274",
+          "name": "sofaxchen",
+          "discriminator": "0000",
+          "nickname": "sofa",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+        }
+      ]
+    },
+    {
+      "id": "968773257434120232",
+      "type": "Default",
+      "timestamp": "2022-04-27T03:19:03.509-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://jstris.jezevec10.com/join/NYJI6C",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Jstris",
+          "url": "https://jstris.jezevec10.com/join/NYJI6C",
+          "timestamp": null,
+          "description": "Online multiplayer puzzle game",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "968786786975367178",
+      "type": "Default",
+      "timestamp": "2022-04-27T04:12:49.203-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://jstris.jezevec10.com/join/UIALLH",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Jstris",
+          "url": "https://jstris.jezevec10.com/join/UIALLH",
+          "timestamp": null,
+          "description": "Online multiplayer puzzle game",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 7
+}

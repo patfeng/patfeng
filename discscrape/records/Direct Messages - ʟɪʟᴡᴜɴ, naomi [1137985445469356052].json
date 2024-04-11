@@ -1,0 +1,134 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1137985445469356052",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "ʟɪʟᴡᴜɴ, naomi",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:26:19.7182257-04:00",
+  "messages": [
+    {
+      "id": "1137985445469356053",
+      "type": "RecipientAdd",
+      "timestamp": "2023-08-07T01:47:52.947-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added poat to the group.",
+      "author": {
+        "id": "846142038607921253",
+        "name": "amokitize",
+        "discriminator": "0000",
+        "nickname": "naomi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1137985456450064495",
+      "type": "Call",
+      "timestamp": "2023-08-07T01:47:55.565-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-08-07T02:31:27.18-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 44 minutes.",
+      "author": {
+        "id": "846142038607921253",
+        "name": "amokitize",
+        "discriminator": "0000",
+        "nickname": "naomi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "688965674491707394",
+          "name": "lilwun",
+          "discriminator": "0000",
+          "nickname": "ʟɪʟᴡᴜɴ",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/688965674491707394/a_3798e8557f81f951dcfc3e373afeac82.gif?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1137996306581827635",
+      "type": "Default",
+      "timestamp": "2023-08-07T02:31:02.438-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "688965674491707394",
+        "name": "lilwun",
+        "discriminator": "0000",
+        "nickname": "ʟɪʟᴡᴜɴ",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/688965674491707394/a_3798e8557f81f951dcfc3e373afeac82.gif?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1137996306409848862",
+          "url": "https://cdn.discordapp.com/attachments/1137985445469356052/1137996306409848862/image.png?ex=66260426&is=66138f26&hm=75ccb225e17005548af9cf5bc01968e2fe7af2ac2ee55e283457488b423916fc&",
+          "fileName": "image.png",
+          "fileSizeBytes": 78804
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 3
+}

@@ -1,0 +1,321 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1020179116051402772",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "sofa, dylan constable",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:24:14.6834308-04:00",
+  "messages": [
+    {
+      "id": "1020179116051402773",
+      "type": "RecipientAdd",
+      "timestamp": "2022-09-15T23:47:35.278-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added dylan constable to the group.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "407548587635900417",
+          "name": "dfconstable",
+          "discriminator": "0000",
+          "nickname": "dylan constable",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/407548587635900417/a_c12046ef4bee7ca982c0381c3624a4df.gif?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1020179116684759090",
+      "type": "Call",
+      "timestamp": "2022-09-15T23:47:35.429-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-09-16T01:59:01.934-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 131 minutes.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "407548587635900417",
+          "name": "dfconstable",
+          "discriminator": "0000",
+          "nickname": "dylan constable",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/407548587635900417/a_c12046ef4bee7ca982c0381c3624a4df.gif?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1020179186457002077",
+      "type": "Default",
+      "timestamp": "2022-09-15T23:47:52.064-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you're muted",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1020179522785660978",
+      "type": "Default",
+      "timestamp": "2022-09-15T23:49:12.251-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’m trying to transfer it to my Xbox \uD83D\uDE14",
+      "author": {
+        "id": "407548587635900417",
+        "name": "dfconstable",
+        "discriminator": "0000",
+        "nickname": "dylan constable",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/407548587635900417/a_c12046ef4bee7ca982c0381c3624a4df.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1020179546869346335",
+      "type": "Default",
+      "timestamp": "2022-09-15T23:49:17.993-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’m in but no sound",
+      "author": {
+        "id": "407548587635900417",
+        "name": "dfconstable",
+        "discriminator": "0000",
+        "nickname": "dylan constable",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/407548587635900417/a_c12046ef4bee7ca982c0381c3624a4df.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1020179560840581152",
+      "type": "Default",
+      "timestamp": "2022-09-15T23:49:21.324-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I be confuzzled",
+      "author": {
+        "id": "407548587635900417",
+        "name": "dfconstable",
+        "discriminator": "0000",
+        "nickname": "dylan constable",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/407548587635900417/a_c12046ef4bee7ca982c0381c3624a4df.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1020179582088925194",
+      "type": "Default",
+      "timestamp": "2022-09-15T23:49:26.39-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "LOL",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1020179676720791604",
+      "type": "Default",
+      "timestamp": "2022-09-15T23:49:48.952-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1020179673906421822",
+          "url": "https://cdn.discordapp.com/attachments/1020179116051402772/1020179673906421822/Valorant_2022.09.15_-_23.02.35.03.DVR_Trim.mp4?ex=6621e9dc&is=660f74dc&hm=9e1b23903ff4d304d6fe39bca10f84a9cc7efdcf0a6b509e534c7f9052054c93&",
+          "fileName": "Valorant_2022.09.15_-_23.02.35.03.DVR_Trim.mp4",
+          "fileSizeBytes": 48044157
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1020180622481821766",
+      "type": "Default",
+      "timestamp": "2022-09-15T23:53:34.439-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "smol wow",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1020205458939719700",
+      "type": "Default",
+      "timestamp": "2022-09-16T01:32:15.912-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1020205457803063326",
+          "url": "https://cdn.discordapp.com/attachments/1020179116051402772/1020205457803063326/mdt2.pdf?ex=662201df&is=660f8cdf&hm=56b6b82ddc6416a4a3650518e2dfab23cc79bdfe736ae2b1365670213be3659f&",
+          "fileName": "mdt2.pdf",
+          "fileSizeBytes": 214827
+        },
+        {
+          "id": "1020205458243457034",
+          "url": "https://cdn.discordapp.com/attachments/1020179116051402772/1020205458243457034/final.pdf?ex=662201df&is=660f8cdf&hm=395d2bbcb64ce156384538c336a4699fd5f16c154d7e2f4409b155b9cc866229&",
+          "fileName": "final.pdf",
+          "fileSizeBytes": 2003659
+        },
+        {
+          "id": "1020205458595774484",
+          "url": "https://cdn.discordapp.com/attachments/1020179116051402772/1020205458595774484/mdt1.pdf?ex=662201df&is=660f8cdf&hm=eb882ef821db01d50c8333ac747ff84a96259868003033702c4c2a7df17dd838&",
+          "fileName": "mdt1.pdf",
+          "fileSizeBytes": 281714
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 10
+}

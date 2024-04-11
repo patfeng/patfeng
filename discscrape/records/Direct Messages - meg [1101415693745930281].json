@@ -1,0 +1,116 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1101415693745930281",
+    "type": "DirectTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "meg",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:25:04.0192694-04:00",
+  "messages": [
+    {
+      "id": "1101415709487149066",
+      "type": "Default",
+      "timestamp": "2023-04-28T03:52:48.456-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "353722175553011716",
+        "name": "itzmegan",
+        "discriminator": "0000",
+        "nickname": "meg",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/353722175553011716/047b88826f85c6dee75b2f515a3f550f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "749054660769218631",
+          "name": "Wave",
+          "format": "Lottie",
+          "sourceUrl": "https://cdn.discordapp.com/stickers/749054660769218631.json"
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1101415723257057342",
+      "type": "Default",
+      "timestamp": "2023-04-28T03:52:51.739-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "749054660769218631",
+          "name": "Wave",
+          "format": "Lottie",
+          "sourceUrl": "https://cdn.discordapp.com/stickers/749054660769218631.json"
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1101415848436052029",
+      "type": "Default",
+      "timestamp": "2023-04-28T03:53:21.584-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "353722175553011716",
+        "name": "itzmegan",
+        "discriminator": "0000",
+        "nickname": "meg",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/353722175553011716/047b88826f85c6dee75b2f515a3f550f.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1101415847551058040",
+          "url": "https://cdn.discordapp.com/attachments/1101415693745930281/1101415847551058040/IMG_2696.jpg?ex=662222f1&is=660fadf1&hm=38948bdf7719b5cadc225319e5eb31836b57a1a536b7df3eaa24f8e9965c087f&",
+          "fileName": "IMG_2696.jpg",
+          "fileSizeBytes": 2481944
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 3
+}

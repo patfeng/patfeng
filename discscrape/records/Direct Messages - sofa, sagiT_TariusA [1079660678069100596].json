@@ -1,0 +1,251 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1079660678069100596",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "sofa, sagiT_TariusA",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:24:53.8507204-04:00",
+  "messages": [
+    {
+      "id": "1079660678069100597",
+      "type": "RecipientAdd",
+      "timestamp": "2023-02-27T02:06:04.777-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added sagiT_TariusA to the group.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "508318495415730187",
+          "name": "sagit_tariusa",
+          "discriminator": "0000",
+          "nickname": "sagiT_TariusA",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/508318495415730187/f03f65d7a6ed5df1dfb4375eeaacc72d.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1079660678996037733",
+      "type": "Call",
+      "timestamp": "2023-02-27T02:06:04.998-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2023-02-27T03:36:29.76-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 90 minutes.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "508318495415730187",
+          "name": "sagit_tariusa",
+          "discriminator": "0000",
+          "nickname": "sagiT_TariusA",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/508318495415730187/f03f65d7a6ed5df1dfb4375eeaacc72d.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1079660733178056714",
+      "type": "Default",
+      "timestamp": "2023-02-27T02:06:17.916-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Gimme a sec to leave the room",
+      "author": {
+        "id": "508318495415730187",
+        "name": "sagit_tariusa",
+        "discriminator": "0000",
+        "nickname": "sagiT_TariusA",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/508318495415730187/f03f65d7a6ed5df1dfb4375eeaacc72d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1079660747338043428",
+      "type": "Default",
+      "timestamp": "2023-02-27T02:06:21.292-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Roommate is sleeping rn",
+      "author": {
+        "id": "508318495415730187",
+        "name": "sagit_tariusa",
+        "discriminator": "0000",
+        "nickname": "sagiT_TariusA",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/508318495415730187/f03f65d7a6ed5df1dfb4375eeaacc72d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1079660748046872607",
+      "type": "Default",
+      "timestamp": "2023-02-27T02:06:21.461-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "alrighty",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1079663420632207421",
+      "type": "Default",
+      "timestamp": "2023-02-27T02:16:58.655-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tetr.io/#WJHB",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TETR.IO",
+          "url": "https://tetr.io/",
+          "timestamp": null,
+          "description": "Puzzle together in this free-to-win modern yet familiar online stacker in the same genre as Tetris. Play multiplayer games against friends and foes all over the world, or claim a spot on the leaderboards - the stacker future is yours!",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hZse2C1KafJuhIcb3qvVfB9E3gZRGBwuvTLlvgT1yi4/https/tetr.io/res/tetrio_social.png",
+            "width": 511,
+            "height": 181
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1079675212443951146",
+      "type": "Default",
+      "timestamp": "2023-02-27T03:03:50.042-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tetr.io/#WJHB",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TETR.IO",
+          "url": "https://tetr.io/",
+          "timestamp": null,
+          "description": "Puzzle together in this free-to-win modern yet familiar online stacker in the same genre as Tetris. Play multiplayer games against friends and foes all over the world, or claim a spot on the leaderboards - the stacker future is yours!",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hZse2C1KafJuhIcb3qvVfB9E3gZRGBwuvTLlvgT1yi4/https/tetr.io/res/tetrio_social.png",
+            "width": 511,
+            "height": 181
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 7
+}

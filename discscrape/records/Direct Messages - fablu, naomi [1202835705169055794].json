@@ -1,0 +1,354 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1202835705169055794",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "fablu, naomi",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:26:59.0573633-04:00",
+  "messages": [
+    {
+      "id": "1202835705169055795",
+      "type": "RecipientAdd",
+      "timestamp": "2024-02-01T23:39:39.719-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added fablu to the group.",
+      "author": {
+        "id": "846142038607921253",
+        "name": "amokitize",
+        "discriminator": "0000",
+        "nickname": "naomi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "475087854599536640",
+          "name": "fabluu",
+          "discriminator": "0000",
+          "nickname": "fablu",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/475087854599536640/bebefdac4d977e49c664208036da6458.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1202835706540589076",
+      "type": "Call",
+      "timestamp": "2024-02-01T23:39:40.046-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2024-02-02T02:14:23.784-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 155 minutes.",
+      "author": {
+        "id": "846142038607921253",
+        "name": "amokitize",
+        "discriminator": "0000",
+        "nickname": "naomi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "475087854599536640",
+          "name": "fabluu",
+          "discriminator": "0000",
+          "nickname": "fablu",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/475087854599536640/bebefdac4d977e49c664208036da6458.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1210036268579430471",
+      "type": "Default",
+      "timestamp": "2024-02-21T20:32:07.816-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://pcpartpicker.com/list/dJCHbL",
+      "author": {
+        "id": "846142038607921253",
+        "name": "amokitize",
+        "discriminator": "0000",
+        "nickname": "naomi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Part List - AMD Ryzen 7 5800X, GeForce RTX 4060, Phanteks Eclipse G...",
+          "url": "https://pcpartpicker.com/list/dJCHbL",
+          "timestamp": null,
+          "description": "Part List - AMD Ryzen 7 5800X, GeForce RTX 4060, Phanteks Eclipse G360A ATX Mid Tower",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1213707654413950996",
+      "type": "Call",
+      "timestamp": "2024-03-02T23:40:54.41-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2024-03-03T01:07:02.937-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 86 minutes.",
+      "author": {
+        "id": "846142038607921253",
+        "name": "amokitize",
+        "discriminator": "0000",
+        "nickname": "naomi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "475087854599536640",
+          "name": "fabluu",
+          "discriminator": "0000",
+          "nickname": "fablu",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/475087854599536640/bebefdac4d977e49c664208036da6458.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1213726656779259955",
+      "type": "Default",
+      "timestamp": "2024-03-03T00:56:24.927-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "475087854599536640",
+        "name": "fabluu",
+        "discriminator": "0000",
+        "nickname": "fablu",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/475087854599536640/bebefdac4d977e49c664208036da6458.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1213726656661815336",
+          "url": "https://cdn.discordapp.com/attachments/1202835705169055794/1213726656661815336/fe1741c99150b269ea05176652928ffb.png?ex=6624aa88&is=66123588&hm=83f8fd471aae6f00e68c6aa5f76e25685f657d8abf3b9e1f01c0a35e877272c0&",
+          "fileName": "fe1741c99150b269ea05176652928ffb.png",
+          "fileSizeBytes": 728274
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1213728056305393664",
+      "type": "Default",
+      "timestamp": "2024-03-03T01:01:58.6-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "475087854599536640",
+        "name": "fabluu",
+        "discriminator": "0000",
+        "nickname": "fablu",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/475087854599536640/bebefdac4d977e49c664208036da6458.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1213728053788807199",
+          "url": "https://cdn.discordapp.com/attachments/1202835705169055794/1213728053788807199/GHr2Y4zWMAAcJjT.png?ex=6624abd6&is=661236d6&hm=f86930ca02045161014d5e065768c1b0a39ae61fc58c367a5d45e5db35b0cc21&",
+          "fileName": "GHr2Y4zWMAAcJjT.png",
+          "fileSizeBytes": 4382251
+        },
+        {
+          "id": "1213728054761881671",
+          "url": "https://cdn.discordapp.com/attachments/1202835705169055794/1213728054761881671/GHr2Y4yXkAAXkCl.png?ex=6624abd6&is=661236d6&hm=dfb2d8f15d4bffaba51648c1d67026682c9167d682bc1e2039977499c2e34793&",
+          "fileName": "GHr2Y4yXkAAXkCl.png",
+          "fileSizeBytes": 6184887
+        },
+        {
+          "id": "1213728055261134958",
+          "url": "https://cdn.discordapp.com/attachments/1202835705169055794/1213728055261134958/GHr2Y4yWwAIbvbW.png?ex=6624abd6&is=661236d6&hm=aded78d3bbe71e4115bcf2f2f8c78d06eed58e40d7d28779c43f048c850043bb&",
+          "fileName": "GHr2Y4yWwAIbvbW.png",
+          "fileSizeBytes": 1659614
+        },
+        {
+          "id": "1213728055852539974",
+          "url": "https://cdn.discordapp.com/attachments/1202835705169055794/1213728055852539974/GHr2Y4yW0AA7PFp.png?ex=6624abd6&is=661236d6&hm=502abcabe8e8b667677c6094e2465fadfd5ccf1d8c7eddf58824a0e9afb0b8ff&",
+          "fileName": "GHr2Y4yW0AA7PFp.png",
+          "fileSizeBytes": 2864242
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1213728437219360838",
+      "type": "Default",
+      "timestamp": "2024-03-03T01:03:29.417-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "846142038607921253",
+        "name": "amokitize",
+        "discriminator": "0000",
+        "nickname": "naomi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1213728436766642176",
+          "url": "https://cdn.discordapp.com/attachments/1202835705169055794/1213728436766642176/IMG_4051.jpg?ex=6624ac31&is=66123731&hm=bb30734eb4fc7e8dab96f8ec56af09d39056f3b2ea3b129528ad5e6678c8af95&",
+          "fileName": "IMG_4051.jpg",
+          "fileSizeBytes": 1934698
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1213728491598782495",
+      "type": "Default",
+      "timestamp": "2024-03-03T01:03:42.382-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "475087854599536640",
+        "name": "fabluu",
+        "discriminator": "0000",
+        "nickname": "fablu",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/475087854599536640/bebefdac4d977e49c664208036da6458.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1213728491468750868",
+          "url": "https://cdn.discordapp.com/attachments/1202835705169055794/1213728491468750868/P3010009.jpg?ex=6624ac3e&is=6612373e&hm=190d67db60f775942d625079b554b845426c05f51182d8dac6948e3968354783&",
+          "fileName": "P3010009.jpg",
+          "fileSizeBytes": 62391
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1213728568886956042",
+      "type": "Default",
+      "timestamp": "2024-03-03T01:04:00.809-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "475087854599536640",
+        "name": "fabluu",
+        "discriminator": "0000",
+        "nickname": "fablu",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/475087854599536640/bebefdac4d977e49c664208036da6458.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1213728568362934302",
+          "url": "https://cdn.discordapp.com/attachments/1202835705169055794/1213728568362934302/IMG_6240.jpg?ex=6624ac50&is=66123750&hm=f50712f0398fd1175cb530c4c40fc7cd0103f2deea0af8e425ef4d53315cea30&",
+          "fileName": "IMG_6240.jpg",
+          "fileSizeBytes": 4029707
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 9
+}

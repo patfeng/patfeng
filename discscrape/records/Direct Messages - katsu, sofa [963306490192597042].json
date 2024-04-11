@@ -1,0 +1,103 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "963306490192597042",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "katsu, sofa",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:22:46.1586026-04:00",
+  "messages": [
+    {
+      "id": "963306490192597043",
+      "type": "RecipientAdd",
+      "timestamp": "2022-04-12T01:16:04.631-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added katsu to the group.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "716344363839651870",
+          "name": "kisu_4434",
+          "discriminator": "0000",
+          "nickname": "katsu",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/716344363839651870/5a53951c3c8219500d40da89f97fb16b.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "963306491455102996",
+      "type": "Call",
+      "timestamp": "2022-04-12T01:16:04.932-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-04-12T01:54:40.985-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 39 minutes.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "265675530253238274",
+          "name": "sofaxchen",
+          "discriminator": "0000",
+          "nickname": "sofa",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+        },
+        {
+          "id": "716344363839651870",
+          "name": "kisu_4434",
+          "discriminator": "0000",
+          "nickname": "katsu",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/716344363839651870/5a53951c3c8219500d40da89f97fb16b.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 2
+}

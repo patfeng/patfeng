@@ -1,0 +1,202 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1111479861027020801",
+    "type": "DirectTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "viv",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:25:34.1758741-04:00",
+  "messages": [
+    {
+      "id": "1111480074319958036",
+      "type": "Default",
+      "timestamp": "2023-05-25T22:25:00.019-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/samoyed-dog-profile-picture-ear-flap-cute-dog-gif-19962655",
+      "author": {
+        "id": "692821347356901459",
+        "name": "vivianchow16",
+        "discriminator": "0000",
+        "nickname": "viv",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/692821347356901459/34c8ba28da70de6a10687ec34a7a4c20.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/samoyed-dog-profile-picture-ear-flap-cute-dog-gif-19962655",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/82wddPBVhXzfF4Ax9C2R1foOJb7pDQWTnRc7M_nfIK8/https/media.tenor.com/Eo-EZ0G_-qoAAAAD/samoyed-dog.png",
+            "width": 640,
+            "height": 640
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/KagfpJMK3PAxGDWUbt3En4yNN7OBCG2M-7uNYQPZlHY/https/media.tenor.com/Eo-EZ0G_-qoAAAPo/samoyed-dog.mp4",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1111480125549187164",
+      "type": "Default",
+      "timestamp": "2023-05-25T22:25:12.233-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/5P6dyJe9",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112450696197984338",
+      "type": "Default",
+      "timestamp": "2023-05-28T14:41:54.308-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1112450696348971098",
+          "url": "https://cdn.discordapp.com/attachments/1111479861027020801/1112450696348971098/image.png?ex=66255df2&is=6612e8f2&hm=7e8b28aba413e96d94a755c0c4e8b6d643cba6d9326b150272cb341c8558e431&",
+          "fileName": "image.png",
+          "fileSizeBytes": 37465
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112450722957631508",
+      "type": "Default",
+      "timestamp": "2023-05-28T14:42:00.688-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "speechless",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1114978875617857638",
+      "type": "Default",
+      "timestamp": "2023-06-04T14:07:59.253-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://drive.google.com/file/d/1FqSnGjyFLzADpzFhYCmc9Tlb5wjpOChp/view?usp=sharing",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GMT20230601-165923_Recording_1920x1080.mp4",
+          "url": "https://drive.google.com/file/d/1FqSnGjyFLzADpzFhYCmc9Tlb5wjpOChp/view?usp=sharing",
+          "timestamp": null,
+          "description": "",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1117919854071124028",
+      "type": "Default",
+      "timestamp": "2023-06-12T16:54:23.157-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "QuantumT.aternos.me",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 6
+}

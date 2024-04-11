@@ -1,0 +1,103 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1210836265562406972",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "Jalti, naomi",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:27:00.4363281-04:00",
+  "messages": [
+    {
+      "id": "1210836265562406973",
+      "type": "RecipientAdd",
+      "timestamp": "2024-02-24T01:31:01.96-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added Jalti to the group.",
+      "author": {
+        "id": "846142038607921253",
+        "name": "amokitize",
+        "discriminator": "0000",
+        "nickname": "naomi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "531869075199229954",
+          "name": "jalti",
+          "discriminator": "0000",
+          "nickname": "Jalti",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/531869075199229954/20041a63f27a00bfd25bf95ae29734bf.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1210836267026350133",
+      "type": "Call",
+      "timestamp": "2024-02-24T01:31:02.309-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2024-02-24T02:25:19.019-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 54 minutes.",
+      "author": {
+        "id": "846142038607921253",
+        "name": "amokitize",
+        "discriminator": "0000",
+        "nickname": "naomi",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846142038607921253/b8b14e0ddc0d9c3b5024b024fcc62c62.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "531869075199229954",
+          "name": "jalti",
+          "discriminator": "0000",
+          "nickname": "Jalti",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/531869075199229954/20041a63f27a00bfd25bf95ae29734bf.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 2
+}

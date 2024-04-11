@@ -1,0 +1,1342 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "946642835116003399",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "sofa, A!bo",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:22:40.7544036-04:00",
+  "messages": [
+    {
+      "id": "946642835116003400",
+      "type": "RecipientAdd",
+      "timestamp": "2022-02-25T00:40:39.665-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added quinmoney to the group.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "393576421588729866",
+          "name": "quinmoney",
+          "discriminator": "0000",
+          "nickname": "quinmoney",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/393576421588729866/ee7142593cad3ffa6eeae5bb59715b65.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "946642836722438144",
+      "type": "Call",
+      "timestamp": "2022-02-25T00:40:40.048-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-02-25T01:40:54.58-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 60 minutes.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "393576421588729866",
+          "name": "quinmoney",
+          "discriminator": "0000",
+          "nickname": "quinmoney",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/393576421588729866/ee7142593cad3ffa6eeae5bb59715b65.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "947322182487408701",
+      "type": "Call",
+      "timestamp": "2022-02-26T21:40:08.7-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-02-27T19:50:39.359-05:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 1,331 minutes.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "393576421588729866",
+          "name": "quinmoney",
+          "discriminator": "0000",
+          "nickname": "quinmoney",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/393576421588729866/ee7142593cad3ffa6eeae5bb59715b65.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "947322685225046068",
+      "type": "RecipientAdd",
+      "timestamp": "2022-02-26T21:42:08.562-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added As!an to the group.",
+      "author": {
+        "id": "393576421588729866",
+        "name": "quinmoney",
+        "discriminator": "0000",
+        "nickname": "quinmoney",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/393576421588729866/ee7142593cad3ffa6eeae5bb59715b65.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "560586226499846192",
+          "name": "asan05238",
+          "discriminator": "0000",
+          "nickname": "As!an",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/560586226499846192/164fc5864adbb3046ff75ff3a1ba5187.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "947322764551933953",
+      "type": "RecipientAdd",
+      "timestamp": "2022-02-26T21:42:27.475-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added A!bo to the group.",
+      "author": {
+        "id": "560586226499846192",
+        "name": "asan05238",
+        "discriminator": "0000",
+        "nickname": "As!an",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/560586226499846192/164fc5864adbb3046ff75ff3a1ba5187.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "540319964058353665",
+          "name": "abo4610",
+          "discriminator": "0000",
+          "nickname": "A!bo",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/540319964058353665/791c79696e6815241b085c7c405487f6.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "947365316164460584",
+      "type": "Default",
+      "timestamp": "2022-02-27T00:31:32.57-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.nytimes.com/games/wordle/index.html",
+      "author": {
+        "id": "393576421588729866",
+        "name": "quinmoney",
+        "discriminator": "0000",
+        "nickname": "quinmoney",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/393576421588729866/ee7142593cad3ffa6eeae5bb59715b65.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wordle - A daily word game",
+          "url": "https://www.nytimes.com/games/wordle/index.html",
+          "timestamp": null,
+          "description": "Guess the hidden word in 6 tries. A new puzzle is available each day.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947366316350795836",
+      "type": "Default",
+      "timestamp": "2022-02-27T00:35:31.033-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "947366315029573692",
+          "url": "https://cdn.discordapp.com/attachments/946642835116003399/947366315029573692/66758780366__708D8599-EA91-49D0-9537-46DCB842D496.jpg?ex=6624a5a2&is=661230a2&hm=d2a7f9f90087d4893a9ea240855210ab15e0d5fd9d9b2470bed974d49e537473&",
+          "fileName": "66758780366__708D8599-EA91-49D0-9537-46DCB842D496.jpg",
+          "fileSizeBytes": 1622764
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947366655527354389",
+      "type": "Default",
+      "timestamp": "2022-02-27T00:36:51.899-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "560586226499846192",
+        "name": "asan05238",
+        "discriminator": "0000",
+        "nickname": "As!an",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/560586226499846192/164fc5864adbb3046ff75ff3a1ba5187.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "947366655426711574",
+          "url": "https://cdn.discordapp.com/attachments/946642835116003399/947366655426711574/unknown.png?ex=6624a5f3&is=661230f3&hm=a725dbeaaf56ff604a547b7c228089d35aede6556adbf03da62543d457ebb3f9&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 18083
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947366662468931584",
+      "type": "Default",
+      "timestamp": "2022-02-27T00:36:53.554-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [
+        {
+          "id": "947366658773766154",
+          "url": "https://cdn.discordapp.com/attachments/946642835116003399/947366658773766154/unknown.png?ex=6624a5f4&is=661230f4&hm=ed30ebb5a18ef7589d3880497c5b91e75d2afb17010c2081f54bf3ef3e08ca0c&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 17325
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947366700590964766",
+      "type": "Default",
+      "timestamp": "2022-02-27T00:37:02.643-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "947366698426712064",
+          "url": "https://cdn.discordapp.com/attachments/946642835116003399/947366698426712064/IMG_2780.png?ex=6624a5fe&is=661230fe&hm=b135ad993afda5c89cc96fb7eb1a1919e19f4240b192a2d5e0d34659dd115cb0&",
+          "fileName": "IMG_2780.png",
+          "fileSizeBytes": 359356
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947366732706766848",
+      "type": "Default",
+      "timestamp": "2022-02-27T00:37:10.3-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "393576421588729866",
+        "name": "quinmoney",
+        "discriminator": "0000",
+        "nickname": "quinmoney",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/393576421588729866/ee7142593cad3ffa6eeae5bb59715b65.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "947366731867893760",
+          "url": "https://cdn.discordapp.com/attachments/946642835116003399/947366731867893760/unknown.png?ex=6624a606&is=66123106&hm=d4c37e5aa1d63b49548897bb90718c5fd984b23882a8bfb17f245bb13d235f0a&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 36072
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947367041835343913",
+      "type": "Default",
+      "timestamp": "2022-02-27T00:38:24.002-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://metzger.media/games/wordle-archive/?puzzle=11",
+      "author": {
+        "id": "393576421588729866",
+        "name": "quinmoney",
+        "discriminator": "0000",
+        "nickname": "quinmoney",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/393576421588729866/ee7142593cad3ffa6eeae5bb59715b65.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wordle Archive – Metzger Media Games",
+          "url": "https://metzger.media/games/wordle-archive/?puzzle=11",
+          "timestamp": null,
+          "description": "Have you ever finished your Wordle puzzle and wished you could play more? Here you can play past Wordle puzzles from earlier days.",
+          "author": {
+            "name": "noahmetzger",
+            "url": "https://metzger.media/games/author/noahmetzger/"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947367591557627975",
+      "type": "Default",
+      "timestamp": "2022-02-27T00:40:35.066-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "947367591012347924",
+          "url": "https://cdn.discordapp.com/attachments/946642835116003399/947367591012347924/unknown.png?ex=6624a6d2&is=661231d2&hm=6e1e2a087359e4ed077a6641db3af5a9d6ce95ff8fb8cf6c446fea97b70938a5&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 20481
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947367610851426315",
+      "type": "Default",
+      "timestamp": "2022-02-27T00:40:39.666-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "560586226499846192",
+        "name": "asan05238",
+        "discriminator": "0000",
+        "nickname": "As!an",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/560586226499846192/164fc5864adbb3046ff75ff3a1ba5187.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "947367610549407794",
+          "url": "https://cdn.discordapp.com/attachments/946642835116003399/947367610549407794/unknown.png?ex=6624a6d7&is=661231d7&hm=9b9fab03d1e28635080e1f85b34fd2e56923cdd5353c3ce428a4c8345e15ea84&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 15260
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947367660537131008",
+      "type": "Default",
+      "timestamp": "2022-02-27T00:40:51.512-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ch",
+      "author": {
+        "id": "393576421588729866",
+        "name": "quinmoney",
+        "discriminator": "0000",
+        "nickname": "quinmoney",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/393576421588729866/ee7142593cad3ffa6eeae5bb59715b65.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "947367659819896872",
+          "url": "https://cdn.discordapp.com/attachments/946642835116003399/947367659819896872/unknown.png?ex=6624a6e3&is=661231e3&hm=8f814fc745eae6b5c41b545d3ccca0ded60fac032cda3c10e61c6571437af85a&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 36838
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947367977282572338",
+      "type": "Default",
+      "timestamp": "2022-02-27T00:42:07.03-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [
+        {
+          "id": "947367975936229396",
+          "url": "https://cdn.discordapp.com/attachments/946642835116003399/947367975936229396/unknown.png?ex=6624a72e&is=6612322e&hm=5d9ff0b7078c0b18bf43c6ec9d68ea17f63263c0c775a2a7a91893b0f07df38b&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 15694
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947368136167022658",
+      "type": "Default",
+      "timestamp": "2022-02-27T00:42:44.911-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://metzger.media/games/wordle-archive/?puzzle=33",
+      "author": {
+        "id": "393576421588729866",
+        "name": "quinmoney",
+        "discriminator": "0000",
+        "nickname": "quinmoney",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/393576421588729866/ee7142593cad3ffa6eeae5bb59715b65.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wordle Archive – Metzger Media Games",
+          "url": "https://metzger.media/games/wordle-archive/?puzzle=33",
+          "timestamp": null,
+          "description": "Have you ever finished your Wordle puzzle and wished you could play more? Here you can play past Wordle puzzles from earlier days.",
+          "author": {
+            "name": "noahmetzger",
+            "url": "https://metzger.media/games/author/noahmetzger/"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947370215061209119",
+      "type": "Default",
+      "timestamp": "2022-02-27T00:51:00.558-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [
+        {
+          "id": "947370214436249610",
+          "url": "https://cdn.discordapp.com/attachments/946642835116003399/947370214436249610/unknown.png?ex=6624a944&is=66123444&hm=d6731d5b20fb40bfafe0dd7501fa1a04b85e409063cd8846116b836fe3f32219&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 12295
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947370267963949096",
+      "type": "Default",
+      "timestamp": "2022-02-27T00:51:13.171-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "947370267443888238",
+          "url": "https://cdn.discordapp.com/attachments/946642835116003399/947370267443888238/unknown.png?ex=6624a951&is=66123451&hm=016154dd45334c21db1b077556a327e38ee51921a0b49e081931b5f17c94b599&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 19789
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947370421567774800",
+      "type": "Default",
+      "timestamp": "2022-02-27T00:51:49.793-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "dhttps://metzger.media/games/wordle-archive/?puzzle=46",
+      "author": {
+        "id": "393576421588729866",
+        "name": "quinmoney",
+        "discriminator": "0000",
+        "nickname": "quinmoney",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/393576421588729866/ee7142593cad3ffa6eeae5bb59715b65.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wordle Archive – Metzger Media Games",
+          "url": "https://metzger.media/games/wordle-archive/?puzzle=46",
+          "timestamp": null,
+          "description": "Have you ever finished your Wordle puzzle and wished you could play more? Here you can play past Wordle puzzles from earlier days.",
+          "author": {
+            "name": "noahmetzger",
+            "url": "https://metzger.media/games/author/noahmetzger/"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947370428597403739",
+      "type": "Default",
+      "timestamp": "2022-02-27T00:51:51.469-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://metzger.media/games/wordle-archive/?puzzle=46",
+      "author": {
+        "id": "393576421588729866",
+        "name": "quinmoney",
+        "discriminator": "0000",
+        "nickname": "quinmoney",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/393576421588729866/ee7142593cad3ffa6eeae5bb59715b65.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wordle Archive – Metzger Media Games",
+          "url": "https://metzger.media/games/wordle-archive/?puzzle=46",
+          "timestamp": null,
+          "description": "Have you ever finished your Wordle puzzle and wished you could play more? Here you can play past Wordle puzzles from earlier days.",
+          "author": {
+            "name": "noahmetzger",
+            "url": "https://metzger.media/games/author/noahmetzger/"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947371486455414804",
+      "type": "Default",
+      "timestamp": "2022-02-27T00:56:03.682-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [
+        {
+          "id": "947371485864030249",
+          "url": "https://cdn.discordapp.com/attachments/946642835116003399/947371485864030249/unknown.png?ex=6624aa73&is=66123573&hm=8f668bf79f277b3e9c35e4b6b5afce65e96b99e9f84397da651d573650b62689&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 12187
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947371512812408832",
+      "type": "Default",
+      "timestamp": "2022-02-27T00:56:09.966-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "560586226499846192",
+        "name": "asan05238",
+        "discriminator": "0000",
+        "nickname": "As!an",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/560586226499846192/164fc5864adbb3046ff75ff3a1ba5187.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "947371512594309140",
+          "url": "https://cdn.discordapp.com/attachments/946642835116003399/947371512594309140/unknown.png?ex=6624aa79&is=66123579&hm=2619eecf98c5287ddf63e27505aa357465263add49b62452b5ab93c1f7f9d022&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 16154
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947371827976626176",
+      "type": "Default",
+      "timestamp": "2022-02-27T00:57:25.107-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "947371827402010665",
+          "url": "https://cdn.discordapp.com/attachments/946642835116003399/947371827402010665/unknown.png?ex=6624aac4&is=661235c4&hm=7e40d7cea2785fe86e4fa2b561c43c0220a0815bcbb99d1753ccfe536ba5151b&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 20810
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947371841008308254",
+      "type": "Default",
+      "timestamp": "2022-02-27T00:57:28.214-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://metzger.media/games/wordle-archive/?puzzle=54",
+      "author": {
+        "id": "393576421588729866",
+        "name": "quinmoney",
+        "discriminator": "0000",
+        "nickname": "quinmoney",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/393576421588729866/ee7142593cad3ffa6eeae5bb59715b65.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wordle Archive – Metzger Media Games",
+          "url": "https://metzger.media/games/wordle-archive/?puzzle=54",
+          "timestamp": null,
+          "description": "Have you ever finished your Wordle puzzle and wished you could play more? Here you can play past Wordle puzzles from earlier days.",
+          "author": {
+            "name": "noahmetzger",
+            "url": "https://metzger.media/games/author/noahmetzger/"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947372694146523136",
+      "type": "Default",
+      "timestamp": "2022-02-27T01:00:51.618-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://metzger.media/games/wordle-archive/?puzzle=61",
+      "author": {
+        "id": "393576421588729866",
+        "name": "quinmoney",
+        "discriminator": "0000",
+        "nickname": "quinmoney",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/393576421588729866/ee7142593cad3ffa6eeae5bb59715b65.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wordle Archive – Metzger Media Games",
+          "url": "https://metzger.media/games/wordle-archive/?puzzle=61",
+          "timestamp": null,
+          "description": "Have you ever finished your Wordle puzzle and wished you could play more? Here you can play past Wordle puzzles from earlier days.",
+          "author": {
+            "name": "noahmetzger",
+            "url": "https://metzger.media/games/author/noahmetzger/"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947372699221655622",
+      "type": "Default",
+      "timestamp": "2022-02-27T01:00:52.828-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [
+        {
+          "id": "947372698437296188",
+          "url": "https://cdn.discordapp.com/attachments/946642835116003399/947372698437296188/unknown.png?ex=6624ab94&is=66123694&hm=af04e7f5ff0e5ad17104315e01ccdc805711ef795a8471833aa4ea7e79efc424&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 15667
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947372700354088970",
+      "type": "Default",
+      "timestamp": "2022-02-27T01:00:53.098-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "560586226499846192",
+        "name": "asan05238",
+        "discriminator": "0000",
+        "nickname": "As!an",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/560586226499846192/164fc5864adbb3046ff75ff3a1ba5187.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "947372700102451220",
+          "url": "https://cdn.discordapp.com/attachments/946642835116003399/947372700102451220/unknown.png?ex=6624ab95&is=66123695&hm=d1056c9831384dc2c8da677bcadda58de2cb34a10a6b99a303afc91435b235e9&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 15602
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947372745736478780",
+      "type": "Default",
+      "timestamp": "2022-02-27T01:01:03.918-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://metzger.media/games/wordle-archive/?puzzle=61",
+      "author": {
+        "id": "393576421588729866",
+        "name": "quinmoney",
+        "discriminator": "0000",
+        "nickname": "quinmoney",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/393576421588729866/ee7142593cad3ffa6eeae5bb59715b65.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wordle Archive – Metzger Media Games",
+          "url": "https://metzger.media/games/wordle-archive/?puzzle=61",
+          "timestamp": null,
+          "description": "Have you ever finished your Wordle puzzle and wished you could play more? Here you can play past Wordle puzzles from earlier days.",
+          "author": {
+            "name": "noahmetzger",
+            "url": "https://metzger.media/games/author/noahmetzger/"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947374094180024372",
+      "type": "Default",
+      "timestamp": "2022-02-27T01:06:25.412-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "393576421588729866",
+        "name": "quinmoney",
+        "discriminator": "0000",
+        "nickname": "quinmoney",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/393576421588729866/ee7142593cad3ffa6eeae5bb59715b65.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "947374093517340672",
+          "url": "https://cdn.discordapp.com/attachments/946642835116003399/947374093517340672/unknown.png?ex=6624ace1&is=661237e1&hm=9575357dc434de37792231f9ef70fb679c7e92bfc6435d211fcbe150993ff834&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 31501
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947374096826650665",
+      "type": "Default",
+      "timestamp": "2022-02-27T01:06:26.043-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gf",
+      "author": {
+        "id": "560586226499846192",
+        "name": "asan05238",
+        "discriminator": "0000",
+        "nickname": "As!an",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/560586226499846192/164fc5864adbb3046ff75ff3a1ba5187.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "947374096709197864",
+          "url": "https://cdn.discordapp.com/attachments/946642835116003399/947374096709197864/unknown.png?ex=6624ace2&is=661237e2&hm=46bee608d6dfbc872f93d77ab0f39e992e68470451d521d8b4337d764e6dcc29&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 16226
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947374106922324089",
+      "type": "Default",
+      "timestamp": "2022-02-27T01:06:28.45-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [
+        {
+          "id": "947374106364506152",
+          "url": "https://cdn.discordapp.com/attachments/946642835116003399/947374106364506152/unknown.png?ex=6624ace4&is=661237e4&hm=e5904e923f779013b4e3461c1e7e675f841a69ab628fe8f4b6eebe6edc653d41&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 13111
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947374395536584714",
+      "type": "Default",
+      "timestamp": "2022-02-27T01:07:37.261-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://metzger.media/games/wordle-archive/?puzzle=73",
+      "author": {
+        "id": "393576421588729866",
+        "name": "quinmoney",
+        "discriminator": "0000",
+        "nickname": "quinmoney",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/393576421588729866/ee7142593cad3ffa6eeae5bb59715b65.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wordle Archive – Metzger Media Games",
+          "url": "https://metzger.media/games/wordle-archive/?puzzle=73",
+          "timestamp": null,
+          "description": "Have you ever finished your Wordle puzzle and wished you could play more? Here you can play past Wordle puzzles from earlier days.",
+          "author": {
+            "name": "noahmetzger",
+            "url": "https://metzger.media/games/author/noahmetzger/"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947377356782325760",
+      "type": "Default",
+      "timestamp": "2022-02-27T01:19:23.277-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [
+        {
+          "id": "947377356216107018",
+          "url": "https://cdn.discordapp.com/attachments/946642835116003399/947377356216107018/unknown.png?ex=6624afeb&is=66123aeb&hm=4c6918eea90d4b2c10b945ce1a8593af27a958af09d4f8714591cbe19d7bd010&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 16014
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947377529231134740",
+      "type": "Default",
+      "timestamp": "2022-02-27T01:20:04.392-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://metzger.media/games/wordle-archive/?puzzle=69",
+      "author": {
+        "id": "393576421588729866",
+        "name": "quinmoney",
+        "discriminator": "0000",
+        "nickname": "quinmoney",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/393576421588729866/ee7142593cad3ffa6eeae5bb59715b65.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wordle Archive – Metzger Media Games",
+          "url": "https://metzger.media/games/wordle-archive/?puzzle=69",
+          "timestamp": null,
+          "description": "Have you ever finished your Wordle puzzle and wished you could play more? Here you can play past Wordle puzzles from earlier days.",
+          "author": {
+            "name": "noahmetzger",
+            "url": "https://metzger.media/games/author/noahmetzger/"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947547561068208168",
+      "type": "Default",
+      "timestamp": "2022-02-27T12:35:43.141-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "947547559797338112",
+          "url": "https://cdn.discordapp.com/attachments/946642835116003399/947547559797338112/unknown.png?ex=66254e6e&is=6612d96e&hm=3f784007184b5300b0560276232c9d4b8cd61880f79bb2eafc6f1abadf53eb8b&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 2233902
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947656907324272712",
+      "type": "Default",
+      "timestamp": "2022-02-27T19:50:13.32-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hello",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947656935195426826",
+      "type": "Default",
+      "timestamp": "2022-02-27T19:50:19.965-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i am going to play leagueeeeee",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947656980225478676",
+      "type": "Default",
+      "timestamp": "2022-02-27T19:50:30.701-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "garbo",
+      "author": {
+        "id": "560586226499846192",
+        "name": "asan05238",
+        "discriminator": "0000",
+        "nickname": "As!an",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/560586226499846192/164fc5864adbb3046ff75ff3a1ba5187.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1007028883343802368",
+      "type": "RecipientRemove",
+      "timestamp": "2022-08-10T16:53:15.481-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Left the group.",
+      "author": {
+        "id": "560586226499846192",
+        "name": "asan05238",
+        "discriminator": "0000",
+        "nickname": "As!an",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/560586226499846192/164fc5864adbb3046ff75ff3a1ba5187.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "560586226499846192",
+          "name": "asan05238",
+          "discriminator": "0000",
+          "nickname": "As!an",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/560586226499846192/164fc5864adbb3046ff75ff3a1ba5187.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 40
+}

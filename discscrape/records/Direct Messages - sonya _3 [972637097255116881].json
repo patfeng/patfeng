@@ -1,0 +1,437 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "972637097255116881",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "sonya <3",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:23:04.6914334-04:00",
+  "messages": [
+    {
+      "id": "972637097255116882",
+      "type": "RecipientAdd",
+      "timestamp": "2022-05-07T19:12:34.709-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added sonya <3 to the group.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "624623011810770954",
+          "name": "poro_snax",
+          "discriminator": "0000",
+          "nickname": "sonya <3",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/624623011810770954/5753eabcabf98e4b364ef35d4c219dd9.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "972637098769272872",
+      "type": "Call",
+      "timestamp": "2022-05-07T19:12:35.07-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-05-07T19:39:49.098-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 27 minutes.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "624623011810770954",
+          "name": "poro_snax",
+          "discriminator": "0000",
+          "nickname": "sonya <3",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/624623011810770954/5753eabcabf98e4b364ef35d4c219dd9.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "972637312963985509",
+      "type": "Default",
+      "timestamp": "2022-05-07T19:13:26.138-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "havu",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "994433447584084039",
+      "type": "Call",
+      "timestamp": "2022-07-06T22:43:29.584-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-07-07T01:55:26.841-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 192 minutes.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "624623011810770954",
+          "name": "poro_snax",
+          "discriminator": "0000",
+          "nickname": "sonya <3",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/624623011810770954/5753eabcabf98e4b364ef35d4c219dd9.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "994460966756556840",
+      "type": "Default",
+      "timestamp": "2022-07-07T00:32:50.666-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "624623011810770954",
+        "name": "poro_snax",
+        "discriminator": "0000",
+        "nickname": "sonya <3",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/624623011810770954/5753eabcabf98e4b364ef35d4c219dd9.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "994460965238226996",
+          "url": "https://cdn.discordapp.com/attachments/972637097255116881/994460965238226996/IMG_0196.jpg?ex=6620a272&is=660e2d72&hm=d2a8c7c2488889fb138950008939dba3e12ac22efd7f8b270503c4ddc9f5da54&",
+          "fileName": "IMG_0196.jpg",
+          "fileSizeBytes": 381521
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "994461529334366259",
+      "type": "Default",
+      "timestamp": "2022-07-07T00:35:04.795-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "994461528180936724",
+          "url": "https://cdn.discordapp.com/attachments/972637097255116881/994461528180936724/unknown.png?ex=6620a2f8&is=660e2df8&hm=aaa3e597098ada0775caf4fb0d778ca0b2423fe3fac47519ff3b22c74b213dad&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 677189
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "994462339204128859",
+      "type": "Default",
+      "timestamp": "2022-07-07T00:38:17.883-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "994462338356887582",
+          "url": "https://cdn.discordapp.com/attachments/972637097255116881/994462338356887582/unknown.png?ex=6620a3b9&is=660e2eb9&hm=73a4528f9df6950761d7af70d9092aec84aa7fab350af9033502ca10b829b2e8&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 1534230
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "994463177846816839",
+      "type": "Default",
+      "timestamp": "2022-07-07T00:41:37.831-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "994463176982810695",
+          "url": "https://cdn.discordapp.com/attachments/972637097255116881/994463176982810695/unknown.png?ex=6620a481&is=660e2f81&hm=0b96ede79607a869b6f557aeeeb200c8ff30eef67d87b814612d5debbe8ee701&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 1449732
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "994463239641497600",
+      "type": "Default",
+      "timestamp": "2022-07-07T00:41:52.564-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "994463238773297163",
+          "url": "https://cdn.discordapp.com/attachments/972637097255116881/994463238773297163/unknown.png?ex=6620a490&is=660e2f90&hm=5ec3319f508b4174fa436296b2f0cf55993b3739b55193e3811e8df878741d0a&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 893825
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "994465413872238622",
+      "type": "Default",
+      "timestamp": "2022-07-07T00:50:30.941-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "'",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "994465422751563797",
+      "type": "Default",
+      "timestamp": "2022-07-07T00:50:33.058-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [
+        {
+          "id": "994465422407639093",
+          "url": "https://cdn.discordapp.com/attachments/972637097255116881/994465422407639093/unknown.png?ex=6620a698&is=660e3198&hm=1f06a9eb7181cce480472335d5db5d1b6edb21bc0e848e895fbadf260effe011&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 2933801
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "994465827044728912",
+      "type": "Default",
+      "timestamp": "2022-07-07T00:52:09.449-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "994465826272981054",
+          "url": "https://cdn.discordapp.com/attachments/972637097255116881/994465826272981054/unknown.png?ex=6620a6f9&is=660e31f9&hm=d079faa7a42e4dfc66286dd36146390b93b3e01ad4118ba6c7d1f8b6373b3f0b&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 268401
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "994481613096374294",
+      "type": "Default",
+      "timestamp": "2022-07-07T01:54:53.137-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/KdnDFBHX",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 13
+}

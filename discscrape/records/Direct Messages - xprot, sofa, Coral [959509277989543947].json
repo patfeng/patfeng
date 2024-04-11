@@ -1,0 +1,138 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "959509277989543947",
+    "type": "DirectGroupTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "xprot, sofa, Coral",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:22:45.4280002-04:00",
+  "messages": [
+    {
+      "id": "959509277989543948",
+      "type": "RecipientAdd",
+      "timestamp": "2022-04-01T13:47:18.693-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added xprot to the group.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "300244934940819459",
+          "name": ".ketchupprecum",
+          "discriminator": "0000",
+          "nickname": "xprot",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/300244934940819459/a_6b0fb91ab43139405612754583d95e4d.gif?size=512"
+        }
+      ]
+    },
+    {
+      "id": "959509279482712124",
+      "type": "Call",
+      "timestamp": "2022-04-01T13:47:19.049-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2022-04-01T19:52:41.795-04:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 365 minutes.",
+      "author": {
+        "id": "265675530253238274",
+        "name": "sofaxchen",
+        "discriminator": "0000",
+        "nickname": "sofa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/265675530253238274/a_9da96e52faeb69018da2c95abf0a9932.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        },
+        {
+          "id": "300244934940819459",
+          "name": ".ketchupprecum",
+          "discriminator": "0000",
+          "nickname": "xprot",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/300244934940819459/a_6b0fb91ab43139405612754583d95e4d.gif?size=512"
+        }
+      ]
+    },
+    {
+      "id": "959510136479698945",
+      "type": "RecipientAdd",
+      "timestamp": "2022-04-01T13:50:43.373-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added Coral to the group.",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "688992658722390017",
+          "name": "buttbutter2228",
+          "discriminator": "0000",
+          "nickname": "Coral",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/688992658722390017/261fe4c30ae7cd8161494982ed3d6862.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 3
+}

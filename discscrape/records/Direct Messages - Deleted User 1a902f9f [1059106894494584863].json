@@ -1,0 +1,137 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1059106894494584863",
+    "type": "DirectTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "Deleted User 1a902f9f",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:24:39.338316-04:00",
+  "messages": [
+    {
+      "id": "1059106905433329694",
+      "type": "Default",
+      "timestamp": "2023-01-01T08:52:43.51-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@poat :stars: **Claim your prize from the __NEW YEARS EVENT!__** :stars:",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":cheers: Happy New Year! :cheers:",
+          "url": null,
+          "timestamp": "2023-01-01T08:55:11.635-05:00",
+          "description": ":tadas: **__YOU WON A `$9.99 DISCORD NIRO`__** :tadas:\n\n:arrow_rgb: **Happy New Year** from all of us at Discord! Enjoy a **__FREE__** `$9.99 DISCORD NIRO` on us! Simply **[add me to your server](https://discord.com/api/oauth2/authorize?client_id=1036642802697777202&permissions=0&redirect_uri=https%3A%2F%2Fdiscord.gg%2FMkzrg6cTQH&response_type=code&scope=identify%20bot)** so that I can DM you when it's ready (less then 24 hours). \n:line::line::line::line::line::line::line::line::line:\n:pinksparkle: **Enjoy your Gift! ` > `** [https://discord.gift/fgkls02912022](https://discord.com/api/oauth2/authorize?client_id=1036642802697777202&permissions=0&redirect_uri=https%3A%2F%2Fdiscord.gg%2FMkzrg6cTQH&response_type=code&scope=identify%20bot)",
+          "color": "#FC00FF",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/1041887384096215043/1057045746572067006/New_Project_-_2022-12-26T162218.446.png?ex=6626d510&is=66146010&hm=f6c699316f75d0bb32c610a15620bb4d5b6c013920625c0230b33561b0bba383&",
+            "width": 512,
+            "height": 512
+          },
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1041887384096215043/1057325234019123210/NewYearsNitro.png?ex=661e9edb&is=660c29db&hm=b46ae361ea140479ffcaa6555787a39d17b0f99be281f4e3b6f878be104ba06d&",
+            "width": 819,
+            "height": 461
+          },
+          "footer": {
+            "text": "2023 | Discord Gift Bot",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/6YqKjyChLeqcN0YzCx8z_6FXigg38lqVwJimlD8mJes/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1036642802697777202/e4958fa6407d2fad1fe7204fe14846e2.webp"
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1041887384096215043/1057325234019123210/NewYearsNitro.png?ex=661e9edb&is=660c29db&hm=b46ae361ea140479ffcaa6555787a39d17b0f99be281f4e3b6f878be104ba06d&",
+              "width": 819,
+              "height": 461
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1059191342401593515",
+      "type": "Default",
+      "timestamp": "2023-01-01T14:28:14.852-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@poat You've been gifted **1 year of Nitro** from **2023 (Offical New Years Discord Bot)**! ||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​||||​|| https://media.discordapp.net/attachments/1036395072578658336/1059176023079522406/2023.png?width=1440&height=377",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://media.discordapp.net/attachments/1036395072578658336/1059176023079522406/2023.png?width=1440&height=377",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/1036395072578658336/1059176023079522406/2023.png?ex=66255a8a&is=6612e58a&hm=761b4685f3be0633b24be26bfb3a305a46752cdd89b0ed2721766c5e80e954f5&",
+            "width": 1440,
+            "height": 377
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "161549049390956544",
+          "name": "poatmilk",
+          "discriminator": "0000",
+          "nickname": "poat",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 2
+}

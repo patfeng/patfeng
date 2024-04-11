@@ -1,0 +1,648 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1105123454757371955",
+    "type": "DirectTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "swapneelm",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:25:20.0666665-04:00",
+  "messages": [
+    {
+      "id": "1105123460025438289",
+      "type": "Default",
+      "timestamp": "2023-05-08T09:26:05.071-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hey just made you admin",
+      "author": {
+        "id": "727953892804919369",
+        "name": "swapneelm",
+        "discriminator": "0000",
+        "nickname": "swapneelm",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1105247617568485458",
+      "type": "Default",
+      "timestamp": "2023-05-08T17:39:26.536-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added the role to all those who joined recently and set the nyu-ai-school-2023 channel to private, visible to 2023-participant roles only. Lmk if that works -- also making announcements-2023 private accessible to admins and TAs and 2023-participants",
+      "author": {
+        "id": "727953892804919369",
+        "name": "swapneelm",
+        "discriminator": "0000",
+        "nickname": "swapneelm",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1105248142737285240",
+      "type": "Default",
+      "timestamp": "2023-05-08T17:41:31.746-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "got it thanks",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1108212007066423388",
+      "type": "Default",
+      "timestamp": "2023-05-16T21:58:52.068-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks for the catch — you checked with Chastity that Halal is something we can support right?",
+      "author": {
+        "id": "727953892804919369",
+        "name": "swapneelm",
+        "discriminator": "0000",
+        "nickname": "swapneelm",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1108212846229209089",
+      "type": "Default",
+      "timestamp": "2023-05-16T22:02:12.14-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I just emailed her a little bit ago and she hasn't responded",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1108212990106402817",
+      "type": "Default",
+      "timestamp": "2023-05-16T22:02:46.443-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I thought it would be better to have it on the form and give them the vegan option if halal isnt possible",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1108213018879348777",
+      "type": "Default",
+      "timestamp": "2023-05-16T22:02:53.303-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sure",
+      "author": {
+        "id": "727953892804919369",
+        "name": "swapneelm",
+        "discriminator": "0000",
+        "nickname": "swapneelm",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1108213161963827200",
+      "type": "Default",
+      "timestamp": "2023-05-16T22:03:27.417-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You will use Ticketmaster’s “Ticket Transfer” feature to transfer your guest tickets to your guests’ Ticketmaster account. Please note that the email address to which the ticket transfer is sent must match the email address on your guest’s Ticketmaster account to allow them to claim their tickets. Be sure to keep (1) ticket for yourself (all tickets are general admission). Your tickets will correlate to the time of your ceremony (morning or afternoon) so be sure to also note that.",
+      "author": {
+        "id": "727953892804919369",
+        "name": "swapneelm",
+        "discriminator": "0000",
+        "nickname": "swapneelm",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1108213187389689896",
+      "type": "Default",
+      "timestamp": "2023-05-16T22:03:33.479-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is what he’s seeing",
+      "author": {
+        "id": "727953892804919369",
+        "name": "swapneelm",
+        "discriminator": "0000",
+        "nickname": "swapneelm",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1108213302250709102",
+      "type": "Default",
+      "timestamp": "2023-05-16T22:04:00.864-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So just to confirm you’ve got a Ticketmaster account with your NYU ID he can transfer it to?",
+      "author": {
+        "id": "727953892804919369",
+        "name": "swapneelm",
+        "discriminator": "0000",
+        "nickname": "swapneelm",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1108213304150720542",
+      "type": "Default",
+      "timestamp": "2023-05-16T22:04:01.317-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hahaha graduating?",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1108213334379077692",
+      "type": "Default",
+      "timestamp": "2023-05-16T22:04:08.524-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah fuck wrong chat lmao",
+      "author": {
+        "id": "727953892804919369",
+        "name": "swapneelm",
+        "discriminator": "0000",
+        "nickname": "swapneelm",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1108213343912722452",
+      "type": "Default",
+      "timestamp": "2023-05-16T22:04:10.797-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sorry",
+      "author": {
+        "id": "727953892804919369",
+        "name": "swapneelm",
+        "discriminator": "0000",
+        "nickname": "swapneelm",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1108213350007066717",
+      "type": "Default",
+      "timestamp": "2023-05-16T22:04:12.25-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lmfao all good",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1108213473730633758",
+      "type": "Default",
+      "timestamp": "2023-05-16T22:04:41.748-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we got this response and i kind of paniced LMAO",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1108213473369935994",
+          "url": "https://cdn.discordapp.com/attachments/1105123454757371955/1108213473369935994/image.png?ex=661f2e39&is=660cb939&hm=e74d662efe0870f607e1b3af58ad68bf7d5a882ba18a01c99d45c597b878fa61&",
+          "fileName": "image.png",
+          "fileSizeBytes": 66669
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1108213642811420762",
+      "type": "Default",
+      "timestamp": "2023-05-16T22:05:22.06-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I love it when people treat ignorance as malice",
+      "author": {
+        "id": "727953892804919369",
+        "name": "swapneelm",
+        "discriminator": "0000",
+        "nickname": "swapneelm",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1108213683202564156",
+      "type": "Default",
+      "timestamp": "2023-05-16T22:05:31.69-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Inexperience rather",
+      "author": {
+        "id": "727953892804919369",
+        "name": "swapneelm",
+        "discriminator": "0000",
+        "nickname": "swapneelm",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1108213735144820828",
+      "type": "Default",
+      "timestamp": "2023-05-16T22:05:44.074-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But good call",
+      "author": {
+        "id": "727953892804919369",
+        "name": "swapneelm",
+        "discriminator": "0000",
+        "nickname": "swapneelm",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1108220135975694387",
+      "type": "Default",
+      "timestamp": "2023-05-16T22:31:10.151-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "after reading it a couple of times i feel like the cadence implies it is half said in jest",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D\uD83C\uDFFD",
+            "code": "thumbsup_tone3",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d-1f3fd.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "727953892804919369",
+              "name": "swapneelm",
+              "discriminator": "0000",
+              "nickname": "swapneelm",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1108220144221683832",
+      "type": "Default",
+      "timestamp": "2023-05-16T22:31:12.117-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but idk",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1108232717969129613",
+      "type": "Default",
+      "timestamp": "2023-05-16T23:21:09.932-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I hope so",
+      "author": {
+        "id": "727953892804919369",
+        "name": "swapneelm",
+        "discriminator": "0000",
+        "nickname": "swapneelm",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1108232830108057610",
+      "type": "Default",
+      "timestamp": "2023-05-16T23:21:36.668-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also are we collecting emails and names on that form. I forgot to explicitly add those in \uD83D\uDE1F",
+      "author": {
+        "id": "727953892804919369",
+        "name": "swapneelm",
+        "discriminator": "0000",
+        "nickname": "swapneelm",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1108236236176490587",
+      "type": "Default",
+      "timestamp": "2023-05-16T23:35:08.738-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yea we are",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D\uD83C\uDFFD",
+            "code": "thumbsup_tone3",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d-1f3fd.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "727953892804919369",
+              "name": "swapneelm",
+              "discriminator": "0000",
+              "nickname": "swapneelm",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1108350736691118090",
+      "type": "Default",
+      "timestamp": "2023-05-17T07:10:07.788-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "perfect thanks!",
+      "author": {
+        "id": "727953892804919369",
+        "name": "swapneelm",
+        "discriminator": "0000",
+        "nickname": "swapneelm",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 24
+}

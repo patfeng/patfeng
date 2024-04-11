@@ -1,0 +1,71 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1114166250537488435",
+    "type": "DirectTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "puffyrain",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:25:47.8721304-04:00",
+  "messages": [
+    {
+      "id": "1114166629186666507",
+      "type": "Default",
+      "timestamp": "2023-06-02T08:20:24.613-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi, I filled out the attendance form again but not sure if that was all I had to do so messaging here to let the program know I won’t be able to make it?",
+      "author": {
+        "id": "139851882444095489",
+        "name": "puffyrain",
+        "discriminator": "0000",
+        "nickname": "puffyrain",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/139851882444095489/8c4cab17d377ea59a6d638eb33ddb76d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1114327246308651149",
+      "type": "Default",
+      "timestamp": "2023-06-02T18:58:38.719-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yup! thats fine!",
+      "author": {
+        "id": "161549049390956544",
+        "name": "poatmilk",
+        "discriminator": "0000",
+        "nickname": "poat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161549049390956544/58360a63dc9edc151c82bde4ddc9ef71.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

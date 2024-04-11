@@ -1,0 +1,71 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1104449183181713458",
+    "type": "DirectTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "Jacobkxm",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-04-08T19:25:19.009888-04:00",
+  "messages": [
+    {
+      "id": "1210808307149705317",
+      "type": "Default",
+      "timestamp": "2024-02-23T23:39:56.155-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/TvunXQ9V",
+      "author": {
+        "id": "171057611658100737",
+        "name": "jacobkxm",
+        "discriminator": "0000",
+        "nickname": "Jacobkxm",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/171057611658100737/7735f23478f5bf57bafe12d9aee9a8d5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1210808323004436480",
+      "type": "Default",
+      "timestamp": "2024-02-23T23:39:59.935-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/TvunXQ9V",
+      "author": {
+        "id": "171057611658100737",
+        "name": "jacobkxm",
+        "discriminator": "0000",
+        "nickname": "Jacobkxm",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/171057611658100737/7735f23478f5bf57bafe12d9aee9a8d5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

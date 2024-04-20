@@ -31,10 +31,11 @@ export function setupEventListeners(scene, camera, renderer, objs) {
       if (userTexts[userTexts.length - 1].text.slice(-1) === '■') {
         userTexts[userTexts.length - 1].text = userTexts[userTexts.length - 1].text.slice(0, -1);
       }
-      newUserText(userTexts, scene, userTexts[userTexts.length - 1].position.z);
 
+      newUserText(userTexts, scene, userTexts[userTexts.length - 1].position.z);
       newPatText(patTexts, scene, userTexts[userTexts.length - 1].position.z -changeZ);
-      getResponse(userTexts[userTexts.length - 2].text, patTexts[patTexts.length - 1]).then(()=>{
+      
+      getResponse(userTexts, patTexts).then(()=>{
         changeZ = updateCamera(camera, patTexts[patTexts.length - 1]);
         
         userTexts[userTexts.length - 1].position.z = patTexts[patTexts.length-1].position.z -changeZ;

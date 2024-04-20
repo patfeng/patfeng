@@ -1,8 +1,6 @@
 export function updateCamera(camera,text){
-    console.log(text.textRenderInfo.blockBounds)
-    console.log(text.textRenderInfo.blockBounds[1])
-    
-    const change = text.textRenderInfo.blockBounds[1]
+    console.log(text.textRenderInfo)
+    const change = text.textRenderInfo.visibleBounds[1]-3
     camera.position.z -= change
     return change
 }

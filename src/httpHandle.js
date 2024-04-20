@@ -65,7 +65,7 @@ SKILLS
   }
   
   const stream = await openai.chat.completions.create({
-    model: 'gpt-4',
+    model: 'ft:gpt-3.5-turbo-0125:personal::9FtCsRb9',
     messages: msgs,
     stream: true,
   });

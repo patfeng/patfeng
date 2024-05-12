@@ -3,9 +3,11 @@ import vertexShader from './shaders/vertex.glsl';
 import fragmentShader from './shaders/fragment.glsl';
 
 export function createTorus(scene) {
-  const geometry = new THREE.TorusGeometry(10, 3, 16, 100);
+  const geometry = new THREE.TorusGeometry(5, 2.5, 16, 100);
+
   const uniforms = {
     u_time: { type: 'f', value: 0.0 },
+    u_flag_thinking: { type: 'f', value: 0.0 },
   };
 
 
@@ -17,6 +19,7 @@ export function createTorus(scene) {
   });
   const torus = new THREE.Mesh(geometry, material);
   torus.position.z = -15;
+  torus.rotation.x = Math.PI / 2;
   scene.add(torus);
   return torus;
 }

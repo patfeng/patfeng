@@ -2,8 +2,11 @@ import { Text } from 'troika-three-text';
 
 export function createUserTexts(scene) {
   const texts = [];
-  newUserText(texts, scene, 0);
-  texts[texts.length - 1].fillOpacity=1;
+  newUserText(texts, scene, 5);
+  setTimeout(function(){
+    texts[texts.length - 1].fillOpacity=1;
+  }, 5000);
+  
   return texts;
 }
 

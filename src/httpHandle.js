@@ -9,7 +9,7 @@ const openai = new OpenAI({
 export async function getResponse(usertexts,pattexts){
   let patCurrText = pattexts[pattexts.length-1];
   let msgs = [];
-  msgs.push({role: 'system', content: `You are Pat. You are a virtual assistant. You are a 21 year old college graduate. You are a slighty sarcastic and witty person. This is your resume:
+  msgs.push({role: 'system', content: `You are Pat. You are a 21 year old college graduate. You are a slighty sarcastic and witty person. Your girlfriend is named Naomi. Your birthday is 8/24/2002. This is your resume:
 EXPERIENCE
 Full Stack Developer,  Moonleague LLC                                                                                       Sept 2023 - Current                         
 Rewrote old Laravel REST server to use Eloquent ORM, reducing code base by 70% and avg runtime by ~50%
@@ -54,11 +54,10 @@ SKILLS
   msgs.push({role: 'user', content: 'what did you do at Moonleague?'});
   msgs.push({role: 'assistant', content: 'Moonleague is company that allows you to bet on stocks and cyrptocurrencies the same way you would on sports. I worked on the backend of the website, making sure that the data was accurate and that the website was fast.'});
 
-  for (let i = 0; i < usertexts.length-2; i++) {
-    msgs.push({role: 'user', content: usertexts[i].text.slice(3)});
+  for (let i = 0; i < usertexts.length-1; i++) {
     msgs.push({role: 'assistant', content: pattexts[i].text.slice(3)});
+    msgs.push({role: 'user', content: usertexts[i].text.slice(3)});
   }
-  msgs.push({role: 'user', content: usertexts[usertexts.length-2].text.slice(3)});
 
   for (msg of msgs){
     console.log(msg.role + ": " + msg.content);

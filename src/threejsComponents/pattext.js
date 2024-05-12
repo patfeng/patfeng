@@ -2,6 +2,23 @@ import { Text } from 'troika-three-text';
 
 export function createPatTexts(scene) {
   const texts = [];
+  newPatText(texts, scene, 0);
+  setTimeout(function(){
+    texts[texts.length - 1].text=">> Hello";
+    scene.thinking_time = Date.now();
+}, 2000);
+
+setTimeout(function(){
+  texts[texts.length - 1].text=">> Hello, I am Pat.";
+  scene.thinking_time = Date.now();
+}, 3000);
+
+setTimeout(function(){
+  texts[texts.length - 1].text=">> Hello, I am Pat. Please ask me anything about my experience or skills.";
+  scene.thinking_time = Date.now();
+}, 4000);
+
+  texts[texts.length - 1].fillOpacity=1;
   return texts;
 }
 

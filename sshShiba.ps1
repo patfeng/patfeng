@@ -1,0 +1,1 @@
+ ssh -i C:\Users\Patri\.ssh\ssh-key-shiba.key ubuntu@129.159.76.44

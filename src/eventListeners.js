@@ -27,21 +27,24 @@ export function setupEventListeners(scene, camera, renderer, objs) {
     eventVars.keyheld = true;
 
     if (e.key === 'Enter') {
-      var changeZ = updateCamera(camera, userTexts[userTexts.length - 1])
+      var changeZ = updateCamera(camera,objs.torus, userTexts[userTexts.length - 1])
       if (userTexts[userTexts.length - 1].text.slice(-1) === '■') {
         userTexts[userTexts.length - 1].text = userTexts[userTexts.length - 1].text.slice(0, -1);
       }
+      scene.thinking_time = Date.now();
 
       newUserText(userTexts, scene, userTexts[userTexts.length - 1].position.z);
       newPatText(patTexts, scene, userTexts[userTexts.length - 1].position.z -changeZ);
       
       getResponse(userTexts, patTexts).then(()=>{
-        changeZ = updateCamera(camera, patTexts[patTexts.length - 1]);
+        changeZ = updateCamera(camera, objs.torus, patTexts[patTexts.length - 1]);
         
         userTexts[userTexts.length - 1].position.z = patTexts[patTexts.length-1].position.z -changeZ;
         userTexts[userTexts.length - 1].fillOpacity=1;
         hiddenInput.value = '';
       })
+      objs.exampleText.fillOpacity = 0;
+
     }
   });
 

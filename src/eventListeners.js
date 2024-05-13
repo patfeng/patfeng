@@ -59,7 +59,6 @@ export function setupEventListeners(scene, camera, renderer, objs) {
     camera.aspect = window.innerWidth / window.innerHeight;
     camera.updateProjectionMatrix();
     renderer.setSize(window.innerWidth, window.innerHeight);
-    renderer.render();
   });
 
   return eventVars;

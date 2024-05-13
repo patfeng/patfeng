@@ -46,7 +46,7 @@ export function animate(scene, camera, renderer, eventVars, objs) {
       
 
       torus.material.uniforms.u_time.value = deltaTime;
-      torus.material.uniforms.u_flag_thinking.value = 100*Math.pow(2,(-0.5*Math.pow((currentTime-scene.thinking_time-500)/300,2)));
+      torus.material.uniforms.u_flag_thinking.value = 9*Math.pow(2,(-0.5*Math.pow((currentTime-scene.thinking_time-1500)/300,2)));
       // torus.material.uniforms.u_flag_thinking.value = (currentTime-scene.thinking_time);
       torus.rotateX(0.001);
       torus.rotateY(0.002);

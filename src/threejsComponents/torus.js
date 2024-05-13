@@ -19,6 +19,7 @@ export function createTorus(scene) {
   });
   const torus = new THREE.Mesh(geometry, material);
   torus.position.z = -15;
+  torus.position.y = -5;
   torus.rotation.x = Math.PI / 2;
   scene.add(torus);
   return torus;

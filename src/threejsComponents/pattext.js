@@ -23,6 +23,7 @@ setTimeout(function(){
 }
 
 export function newPatText(texts, scene, z) {
+  
   const playerText = new Text();
   scene.add(playerText);
   playerText.text = '>> ';

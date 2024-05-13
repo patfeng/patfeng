@@ -25,8 +25,14 @@ export function setupEventListeners(scene, camera, renderer, objs) {
 
   hiddenInput.addEventListener('keydown', (e) => {
     eventVars.keyheld = true;
+    if (e.key === 'Enter' && scene.allowInput) {
 
-    if (e.key === 'Enter') {
+      if(scene.firstInput){
+        scene.firstInput = false;
+        scene.switching_time = Date.now();
+      }
+
+      scene.allowInput = false;
       var changeZ = updateCamera(camera,objs.torus, userTexts[userTexts.length - 1])
       if (userTexts[userTexts.length - 1].text.slice(-1) === '■') {
         userTexts[userTexts.length - 1].text = userTexts[userTexts.length - 1].text.slice(0, -1);
@@ -42,6 +48,7 @@ export function setupEventListeners(scene, camera, renderer, objs) {
         userTexts[userTexts.length - 1].position.z = patTexts[patTexts.length-1].position.z -changeZ;
         userTexts[userTexts.length - 1].fillOpacity=1;
         hiddenInput.value = '';
+        scene.allowInput = true;
       })
       objs.exampleText.fillOpacity = 0;
 

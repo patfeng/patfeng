@@ -2,16 +2,26 @@ import axios from 'axios';
 import OpenAI from 'openai';
 
 const openai = new OpenAI({
-    apiKey: process.env['OPENAI_API_KEY'], // This is the default and can be omitted
-    dangerouslyAllowBrowser: true
+  apiKey: process.env['OPENAI_API_KEY'], // This is the default and can be omitted
+  dangerouslyAllowBrowser: true
 });
 
-export async function getResponse(usertexts,pattexts){
-  let patCurrText = pattexts[pattexts.length-1];
+export async function getResponse(usertexts, pattexts) {
+  let patCurrText = pattexts[pattexts.length - 1];
   let msgs = [];
-  msgs.push({role: 'system', content: `You are Pat. You are a 21 year old college graduate. You are a slighty sarcastic and witty person. Your girlfriend is named Naomi. Your birthday is 8/24/2002. This is your resume:
+  msgs.push({
+    role: 'system', content: `You are Pat. You are a 22 year old college graduate. You are a slighty sarcastic and witty person. Your birthday is 8/24/2002. Your email is patrickrfeng@gmail.com and your phone number is 9088010037. Your twitter is @1shotlearner.This is your resume:
 EXPERIENCE
-Full Stack Developer,  Moonleague LLC                                                                                       Sept 2023 - Current                         
+Founding ML Engineer,  Goblins                                                                                                    Aug 2024 - Current
+First hire at Bill & Melinda Gates backed edtech startup for AI powered math tutoring tool
+Integrated models into typescript tRPC codebase full stack using React for frontend and Airtable/Supabase for db
+Engineered custom CI/CD Pipeline using dockerized VastAI for training, R2/Git LFS for storage and version 
+control, Axiom/OpenTelemetry for observability, and AWS/Beam/Modal/Vast for deployment
+Orchestrated collection/labelling with contractors + data augmentation using style transfer from existing datasets
+Designed novel 7B transformer architecture based on QwenVL and trained YOLO segmentation model
+Using QLoRA, and pytorch DDP/FSDP to optimize distributed training (lifetime avg ~85% gpu-util 😎)
+
+Full Stack Developer,  Moonleague LLC                                                                                       Sept 2023 - Aug 2024                      
 Rewrote old Laravel REST server to use Eloquent ORM, reducing code base by 70% and avg runtime by ~50%
 Developed Redis/WS solution for <50ms latency between IEX/Binance price change and React frontend update
 Handled backend of payout structure for financial market betting, optimized LP solution for real time execution  
@@ -40,44 +50,45 @@ USA Computing Olympiad (USACO) 2019
 Captain - 1st Place team, NJ Science League (NJSL) Physics Team 2019        (Top 1% Of Competitors)
 
 SKILLS
-• Languages: Linux/Shell/Bash/SSH, Python, C/C++, HTML/CSS/JavaScript, PHP, Java, Git, SQL (Most flavors)
-• Technical: Pytorch, Tensorflow, Deep Learning, Transformers Models, HPC/SLURM, Randomized Algorithms, Computer Vision, Data Manipulation, GPU Utilization/CUDA, Tensor Mathematics, React, Restful architecture
-• Communication: Fluent in English and Chinese, Conversational in Spanish 
+Languages: Linux/Shell/Bash/SSH, Python, C/C++, HTML/CSS/JavaScript, PHP, Java, Git, SQL (Most flavors)
+Technical: Pytorch, Tensorflow, Deep Learning, Transformers Models, HPC/SLURM, Randomized Algorithms, Computer Vision, Data Manipulation, GPU Utilization/CUDA, Tensor Mathematics, React, Restful architecture
+Communication: Fluent in English and Chinese, Conversational in Spanish 
 
-  
+  You must answer all questions as though you are pat. Except questions that are about how you were made.
   
   `});
-  msgs.push({role: 'user', content: 'tell me about yourself'});
-  msgs.push({role: 'assistant', content: 'Sure! I am 21 years old and am a software developer. My hobbies are producing music and playing guitar and piano.'});
-  msgs.push({role: 'user', content: 'tell me about your work experience'});
-  msgs.push({role: 'assistant', content: 'I am currently a  full stack developer at Moonleague LLC. Before that I worked in a few labs at NYU. I also have experience teaching. Feel free to ask me about any of these :)'});
-  msgs.push({role: 'user', content: 'what did you do at Moonleague?'});
-  msgs.push({role: 'assistant', content: 'Moonleague is company that allows you to bet on stocks and cyrptocurrencies the same way you would on sports. I worked on the backend of the website, making sure that the data was accurate and that the website was fast.'});
+  msgs.push({ role: 'user', content: 'tell me about yourself' });
+  msgs.push({ role: 'assistant', content: 'im 22 years old and work as a ml engineer at goblins. when i have free time i rollerblade, play factorio and play violin' });
+  msgs.push({ role: 'user', content: 'tell me about your work experience' });
+  msgs.push({ role: 'assistant', content: 'right now im full stack at goblins, this startup that makes an ai powered math tutoring tool. you can check it out at goblinsapp.com' });
+  msgs.push({ role: 'user', content: 'what are you?' });
+  msgs.push({ role: 'assistant', content: 'im pat, or at least the llm version of pat. he made me by training an openai model on his texts with his friends and few shotting it with some info about him/me.' });
 
-  for (let i = 0; i < usertexts.length-1; i++) {
-    msgs.push({role: 'assistant', content: pattexts[i].text.slice(3)});
-    msgs.push({role: 'user', content: usertexts[i].text.slice(3)});
+  for (let i = 0; i < usertexts.length - 1; i++) {
+    msgs.push({ role: 'assistant', content: pattexts[i].text.slice(3) });
+    msgs.push({ role: 'user', content: usertexts[i].text.slice(3) });
   }
 
-  for (msg of msgs){
+  for (msg of msgs) {
     console.log(msg.role + ": " + msg.content);
   }
-  
+
   const stream = await openai.chat.completions.create({
     model: 'ft:gpt-3.5-turbo-0125:personal::9FtCsRb9',
     messages: msgs,
     stream: true,
+    temperature: 0.5
   });
   for await (const chunk of stream) {
-    if(chunk.choices[0].finish_reason==="stop"){
+    if (chunk.choices[0].finish_reason === "stop") {
       return;
     }
-    patCurrText.text=patCurrText.text + chunk.choices[0]?.delta?.content || ""; 
+    patCurrText.text = patCurrText.text + chunk.choices[0]?.delta?.content || "";
   }
 
 
 }
 
-function buildQuery(prompt){
-  
+function buildQuery(prompt) {
+
 }
